@@ -1,31 +1,72 @@
 ---
 layout: default
 ---
+{% assign cat_name = page.category | default: page.title %}
+{% assign cat_posts = site.posts | where_exp: "post", "post.categories contains cat_name" %}
 
-<div class="container mx-auto px-4 py-8">
-  <h1 class="text-4xl font-bold text-gray-900 mb-6">Category: {{ page.title }}</h1>
+<div class="max-w-7xl mx-auto px-4 py-8">
+  <div class="flex flex-col lg:flex-row gap-8">
+    <!-- 主内容 -->
+    <div class="flex-1 min-w-0">
+      <!-- 面包屑 -->
+      <nav class="flex items-center gap-1 text-sm text-gray-500 mb-6">
+        <a href="/" class="hover:text-blue-600">首页</a>
+        <span>/</span>
+        <span class="text-gray-800 font-medium">{{ cat_name }}</span>
+      </nav>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-    {% for post in site.categories[page.title] %}
-      <div class="bg-white shadow-md rounded-lg overflow-hidden">
-        {% if post.image %}
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="w-full h-48 object-cover lazyload">
+      <div class="mb-6">
+        <h1 class="text-3xl font-extrabold text-gray-900 mb-2">{{ cat_name }}</h1>
+        {% if page.description and page.description != "" %}
+          <p class="text-gray-500">{{ page.description }}</p>
+        {% else %}
+          <p class="text-gray-500">共 {{ cat_posts.size }} 篇文章，持续更新中。</p>
         {% endif %}
-        <div class="p-6">
-          <h3 class="text-xl font-semibold mb-2">
-            <a class="text-gray-900 hover:text-blue-600" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          <p class="text-gray-600 text-sm mb-4">{{ post.excerpt | strip_html | strip_newlines | truncate: 120 }}</p>
-          <div class="flex items-center text-xs text-gray-500">
-            <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-            {% if post.author %}
-              <span class="ml-2">by {{ post.author }}</span>
+      </div>
+
+      {% if cat_posts.size > 0 %}
+      <div class="space-y-4">
+        {% for post in cat_posts %}
+        <article class="bg-white rounded-xl shadow-sm hover:shadow-md transition border border-gray-100 overflow-hidden flex gap-4 p-4">
+          {% if post.image %}
+          <div class="flex-shrink-0 w-24 h-20 rounded-lg overflow-hidden">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="w-full h-full object-cover" loading="lazy">
+          </div>
+          {% endif %}
+          <div class="flex-1 min-w-0">
+            <h2 class="text-base font-bold text-gray-900 mb-1 leading-snug">
+              <a href="{{ post.url | relative_url }}" class="hover:text-blue-600 transition line-clamp-2">{{ post.title | escape }}</a>
+            </h2>
+            <p class="text-xs text-gray-400 mb-1">{{ post.date | date: "%Y-%m-%d" }}</p>
+            {% if post.description and post.description != "" %}
+              <p class="text-sm text-gray-600 line-clamp-2">{{ post.description | escape }}</p>
+            {% elsif post.excerpt %}
+              <p class="text-sm text-gray-600 line-clamp-2">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
             {% endif %}
           </div>
-        </div>
+        </article>
+        {% endfor %}
       </div>
-    {% endfor %}
+      {% else %}
+      <p class="text-gray-500">该分类暂无文章。</p>
+      {% endif %}
+    </div>
+
+    <!-- 右侧侧边栏 -->
+    <aside class="w-full lg:w-72 flex-shrink-0">
+      <div class="bg-white rounded-2xl shadow-sm p-5 sticky top-4">
+        <h3 class="text-base font-bold text-gray-900 mb-4 pb-2 border-b border-gray-100">最新文章</h3>
+        <ul class="space-y-3">
+          {% for post in site.posts limit: 8 %}
+          <li>
+            <a href="{{ post.url | relative_url }}" class="group block">
+              <p class="text-sm font-medium text-gray-800 group-hover:text-blue-600 leading-snug line-clamp-2 transition">{{ post.title | escape }}</p>
+              <p class="text-xs text-gray-400 mt-0.5">{{ post.date | date: "%Y-%m-%d" }}</p>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </aside>
   </div>
 </div>
