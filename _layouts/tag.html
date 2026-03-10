@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% assign tag_name = page.tag %}
+{% assign page_title = tag_name | default: page.title %}
+{% assign tag_desc = "查看所有关于 " | append: page_title | append: " 的文章，包括Clash节点、机场推荐、代理教程等内容。" %}
+
+<div class="max-w-5xl mx-auto px-4 py-8">
+  <!-- TDK via page front matter -->
+  <div class="mb-8">
+    <div class="flex items-center gap-2 text-sm text-gray-500 mb-3">
+      <a href="/" class="hover:text-blue-600">首页</a>
+      <span>/</span>
+      <span>标签</span>
+      <span>/</span>
+      <span class="text-gray-800 font-medium">{{ page_title }}</span>
+    </div>
+    <h1 class="text-3xl font-extrabold text-gray-900 mb-2">
+      <span class="text-red-500">#</span> {{ page_title }}
+    </h1>
+    <p class="text-gray-500 text-sm">{{ tag_desc }}</p>
+  </div>
+
+  {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains page_title" %}
+  {% if tag_posts.size > 0 %}
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    {% for post in tag_posts %}
+    <article class="bg-white rounded-xl shadow-sm hover:shadow-md transition p-5 border border-gray-100">
+      <h2 class="text-base font-bold text-gray-900 mb-2 leading-snug">
+        <a href="{{ post.url | relative_url }}" class="hover:text-blue-600 transition">{{ post.title | escape }}</a>
+      </h2>
+      <p class="text-xs text-gray-400 mb-2">{{ post.date | date: "%Y-%m-%d" }}</p>
+      {% if post.description and post.description != "" %}
+        <p class="text-sm text-gray-600 line-clamp-2">{{ post.description | escape }}</p>
+      {% elsif post.excerpt %}
+        <p class="text-sm text-gray-600 line-clamp-2">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="text-gray-500">暂无相关文章。</p>
+  {% endif %}
+</div>
