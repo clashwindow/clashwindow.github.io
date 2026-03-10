@@ -1,0 +1,34 @@
+
+<header class="bg-white shadow-md">
+  <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+    <a class="text-2xl font-bold text-gray-900 hover:text-blue-600" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <nav class="hidden md:block">
+      <ul class="flex space-x-4">
+        {% for item in site.data.navigation %}
+          <li><a class="text-gray-700 hover:text-blue-600 font-medium" href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <div class="md:hidden">
+      <button id="menu-toggle" class="text-gray-700 hover:text-blue-600 focus:outline-none">
+        <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+      </button>
+    </div>
+  </div>
+
+  <div id="mobile-menu" class="md:hidden hidden bg-white shadow-lg">
+    <ul class="flex flex-col space-y-2 px-4 py-2">
+      {% for item in site.data.navigation %}
+        <li><a class="block text-gray-700 hover:text-blue-600 font-medium py-2" href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <script>
+    document.getElementById('menu-toggle').addEventListener('click', function() {
+      document.getElementById('mobile-menu').classList.toggle('hidden');
+    });
+  </script>
+</header>

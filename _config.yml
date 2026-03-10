@@ -1,0 +1,52 @@
+
+title: "Jekyll SEO Theme V2"
+description: "A professional Jekyll theme for news/blog website optimized for Bing SEO with TailwindCSS."
+keywords: "Jekyll, SEO, Blog, News, Theme, Bing, Yandex, TailwindCSS"
+author: "Manus AI"
+logo: "/assets/images/logo.png"
+social_links:
+  twitter: "#"
+  facebook: "#"
+  telegram: "#"
+  reddit: "#"
+  whatsapp: "#"
+indexnow:
+  key: "8575fe8139f14b2da85e40bbc8b86ce2"
+  host: "clashwindow.github.io"
+
+# Site settings
+permalink: /:categories/:title/
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-last-modified-at
+  - jekyll-archives
+  - jekyll-toc
+  - jekyll-minifier
+  - jekyll-postcss
+
+paginate: 5
+paginate_path: /page:num/
+
+jekyll_minifier:
+  exclude: ["feed.xml", "sitemap.xml", "robots.txt"]
+
+postcss:
+  src: "assets/css/tailwind.css"
+  dest: "assets/css/style.css"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - tailwind.config.js
+  - postcss.config.js
+  - package.json
+  - package-lock.json

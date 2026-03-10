@@ -1,0 +1,76 @@
+
+---
+layout: default
+---
+
+<article class="post h-entry px-4 py-8 bg-white shadow-md rounded-lg" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header mb-6">
+    <h1 class="post-title p-name text-4xl font-bold text-gray-900 mb-2" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta text-sm text-gray-600">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%b %-d, %Y" }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {% endif %}
+      {% if page.last_modified_at %}
+        • Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>
+      {% endif %}
+    </p>
+  </header>
+
+  <div class="post-content e-content prose lg:prose-lg max-w-none" itemprop="articleBody">
+    {% include breadcrumbs.html %}
+    {% if page.toc %}
+      <div class="my-6 p-4 bg-gray-50 border border-gray-200 rounded-md">
+        <h2 class="text-xl font-semibold mb-2">Table of Contents</h2>
+        {{ content | toc_only }}
+      </div>
+    {% endif %}
+    {{ content }}
+
+    {% comment %} Internal Linking based on Tags and Categories {% endcomment %}
+    {% assign current_post_tags = page.tags %}
+    {% assign current_post_categories = page.categories %}
+    {% assign related_posts_by_tags = site.posts | where_exp: "post", "post.url != page.url and post.tags contains_any current_post_tags" | sample: 3 %}
+    {% assign related_posts_by_categories = site.posts | where_exp: "post", "post.url != page.url and post.categories contains_any current_post_categories" | sample: 3 %}
+
+    {% assign all_related_posts = related_posts_by_tags | concat: related_posts_by_categories | uniq %}
+
+    {% if all_related_posts.size > 0 %}
+      <div class="mt-8 p-6 bg-white shadow-md rounded-lg">
+        <h4 class="text-2xl font-bold mb-4">You might also like:</h4>
+        <ul class="list-disc pl-5 space-y-2">
+          {% for post in all_related_posts limit: 5 %}
+            <li><a href="{{ post.url | relative_url }}" class="text-blue-600 hover:underline">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  </div>
+
+  {% if page.tags.size > 0 %}
+    <div class="post-tags mt-8 flex flex-wrap gap-2 text-sm">
+      <span class="font-semibold">Tags:</span>
+      {% for tag in page.tags %}
+        <a href="/tags/{{ tag | slugify }}/" class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full hover:bg-blue-200">{{ tag }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if page.categories.size > 0 %}
+    <div class="post-categories mt-4 flex flex-wrap gap-2 text-sm">
+      <span class="font-semibold">Categories:</span>
+      {% for category in page.categories %}
+        <a href="/categories/{{ category | slugify }}/" class="bg-green-100 text-green-800 px-3 py-1 rounded-full hover:bg-green-200">{{ category }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% include author_box.html %}
+  {% include related_posts.html %}
+  {% include social_share.html %}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

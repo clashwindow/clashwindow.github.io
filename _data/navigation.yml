@@ -1,0 +1,11 @@
+
+- name: Home
+  link: /
+- name: Technology
+  link: /categories/technology/
+- name: Science
+  link: /categories/science/
+- name: Lifestyle
+  link: /categories/lifestyle/
+- name: Tags
+  link: /tags/

@@ -1,0 +1,44 @@
+
+{% assign max_related = 3 %}
+{% assign min_common_criteria = 1 %}
+
+{% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
+
+{% assign filtered_related_posts = "" | split: "" %}
+
+{% for post in related_posts %}
+  {% assign common_criteria_count = 0 %}
+
+  {% comment %} Check for common tags {% endcomment %}
+  {% if page.tags.size > 0 and post.tags.size > 0 %}
+    {% for tag in page.tags %}
+      {% if post.tags contains tag %}
+        {% assign common_criteria_count = common_criteria_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% comment %} Check for common categories {% endcomment %}
+  {% if page.categories.size > 0 and post.categories.size > 0 %}
+    {% for category in page.categories %}
+      {% if post.categories contains category %}
+        {% assign common_criteria_count = common_criteria_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if common_criteria_count >= min_common_criteria %}
+    {% assign filtered_related_posts = filtered_related_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% if filtered_related_posts.size > 0 %}
+  <div class="related-posts mt-8 p-6 bg-white shadow-md rounded-lg">
+    <h4 class="text-2xl font-bold mb-4">Related Posts</h4>
+    <ul class="list-disc pl-5 space-y-2">
+      {% for post in filtered_related_posts limit: max_related %}
+        <li><a href="{{ post.url | relative_url }}" class="text-blue-600 hover:underline">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
