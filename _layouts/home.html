@@ -1,101 +1,66 @@
 ---
 layout: default
 ---
-
-<div class="home-layout">
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
-
-  {% if page.title %}
-    <h1 class="text-4xl font-bold text-gray-900 mb-6">{{ page.title }}</h1>
-  {% endif %}
-
-  <!-- Featured Posts -->
+<div class="home">
+  <!-- Featured Section (Placeholder) -->
   <section class="mb-12">
-    <h2 class="text-3xl font-bold text-gray-800 mb-4">Featured Posts</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-      {% for post in posts limit: 3 %}
-        <div class="bg-white shadow-md rounded-lg overflow-hidden">
-          {% if post.image %}
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="w-full h-48 object-cover lazyload">
-          {% endif %}
-          <div class="p-6">
-            <h3 class="text-xl font-semibold mb-2">
-              <a class="text-gray-900 hover:text-blue-600" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
-            <p class="text-gray-600 text-sm mb-4">{{ post.excerpt | strip_html | strip_newlines | truncate: 120 }}</p>
-            <div class="flex items-center text-xs text-gray-500">
-              <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-              {% if post.author %}
-                <span class="ml-2">by {{ post.author }}</span>
-              {% endif %}
+    <div class="bg-gray-900 rounded-2xl overflow-hidden shadow-2xl relative h-96 flex items-end">
+      <img src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Featured" class="absolute inset-0 w-full h-full object-cover opacity-50">
+      <div class="relative z-10 p-8 w-full md:w-2/3">
+        <span class="bg-blue-600 text-white text-xs font-bold uppercase px-3 py-1 rounded-full mb-4 inline-block">Featured</span>
+        <h2 class="text-4xl font-bold text-white mb-4 leading-tight">Welcome to {{ site.title }}</h2>
+        <p class="text-gray-200 text-lg">Discover the latest news, insights, and stories.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="flex flex-col lg:flex-row gap-8">
+    <!-- Main Content: Article List -->
+    <div class="lg:w-2/3">
+      <h3 class="text-2xl font-bold border-b-2 border-gray-200 pb-2 mb-6">Latest Posts</h3>
+      <div class="grid gap-8">
+        {% for post in site.posts %}
+        <article class="bg-white rounded-xl shadow-sm hover:shadow-md transition duration-300 overflow-hidden flex flex-col sm:flex-row">
+          <div class="sm:w-1/3 h-48 sm:h-auto bg-gray-200 flex-shrink-0">
+            {% if post.image %}
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="w-full h-full object-cover">
+            {% else %}
+              <!-- Default Image -->
+              <img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Default" class="w-full h-full object-cover">
+            {% endif %}
+          </div>
+          <div class="p-6 flex flex-col justify-center sm:w-2/3">
+            <h4 class="text-xl font-bold mb-2">
+              <a href="{{ post.url | relative_url }}" class="text-gray-900 hover:text-blue-600 transition">{{ post.title | escape }}</a>
+            </h4>
+            <p class="text-gray-600 text-sm mb-4 line-clamp-3">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            <div class="mt-auto text-xs text-gray-500 font-medium">
+              {{ post.date | date: "%B %d, %Y" }}
             </div>
           </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="lg:w-1/3">
+      <div class="bg-white rounded-xl shadow-sm p-6 mb-8">
+        <h4 class="text-lg font-bold mb-4 border-b pb-2">About Us</h4>
+        <p class="text-gray-600 text-sm leading-relaxed">
+          {{ site.description | default: "We provide the best content on the web. Stay tuned for more updates." }}
+        </p>
+      </div>
+      
+      <div class="bg-white rounded-xl shadow-sm p-6">
+        <h4 class="text-lg font-bold mb-4 border-b pb-2">Tags</h4>
+        <div class="flex flex-wrap gap-2">
+          {% assign tags = site.tags | sort %}
+          {% for tag in tags limit: 10 %}
+            <span class="bg-gray-100 text-gray-700 text-xs px-3 py-1 rounded-full">{{ tag[0] }}</span>
+          {% endfor %}
         </div>
-      {% endfor %}
-    </div>
-  </section>
-
-  <!-- Latest News -->
-  <section class="mb-12">
-    <h2 class="text-3xl font-bold text-gray-800 mb-4">Latest News</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-      {% for post in posts %}
-        <div class="bg-white shadow-md rounded-lg overflow-hidden flex flex-col md:flex-row">
-          {% if post.image %}
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="w-full md:w-1/3 h-48 object-cover lazyload">
-          {% endif %}
-          <div class="p-6 flex-grow">
-            <h3 class="text-xl font-semibold mb-2">
-              <a class="text-gray-900 hover:text-blue-600" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
-            <p class="text-gray-600 text-sm mb-4">{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
-            <div class="flex items-center text-xs text-gray-500">
-              <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-              {% if post.author %}
-                <span class="ml-2">by {{ post.author }}</span>
-              {% endif %}
-            </div>
-          </div>
-        </div>
-      {% endfor %}
-    </div>
-  </section>
-
-  <!-- Category Blocks -->
-  <section class="mb-12">
-    <h2 class="text-3xl font-bold text-gray-800 mb-4">Categories</h2>
-    <div class="flex flex-wrap gap-4">
-      {% assign categories = site.categories | sort %}
-      {% for category in categories %}
-        <a href="/categories/{{ category | first | slugify }}/" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300">
-          {{ category | first }}
-        </a>
-      {% endfor %}
-    </div>
-  </section>
-
-  <!-- Pagination -->
-  {% if site.paginate %}
-    <div class="flex justify-center items-center space-x-4 mt-8">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | relative_url }}" class="px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300">Previous</a>
-      {% else %}
-        <span class="px-4 py-2 bg-gray-100 text-gray-400 rounded-lg cursor-not-allowed">Previous</span>
-      {% endif %}
-      <span class="text-gray-700">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | relative_url }}" class="px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300">Next</a>
-      {% else %}
-        <span class="px-4 py-2 bg-gray-100 text-gray-400 rounded-lg cursor-not-allowed">Next</span>
-      {% endif %}
-    </div>
-  {% endif %}
+      </div>
+    </aside>
+  </div>
 </div>
