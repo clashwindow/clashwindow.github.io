@@ -1,10 +1,7 @@
-
 ---
 layout: default
 ---
-
 <article class="post h-entry px-4 py-8 bg-white shadow-md rounded-lg" itemscope itemtype="http://schema.org/BlogPosting">
-
   <header class="post-header mb-6">
     <h1 class="post-title p-name text-4xl font-bold text-gray-900 mb-2" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta text-sm text-gray-600">
@@ -12,44 +9,66 @@ layout: default
         {{ page.date | date: "%b %-d, %Y" }}
       </time>
       {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        &bull; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {% endif %}
       {% if page.last_modified_at %}
-        • Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>
+        &bull; Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>
       {% endif %}
     </p>
   </header>
-
   <div class="post-content e-content prose lg:prose-lg max-w-none" itemprop="articleBody">
     {% include breadcrumbs.html %}
     {% if page.toc %}
-      <div class="my-6 p-4 bg-gray-50 border border-gray-200 rounded-md">
+      <div id="toc" class="my-6 p-4 bg-gray-50 border border-gray-200 rounded-md">
         <h2 class="text-xl font-semibold mb-2">Table of Contents</h2>
-        {{ content | toc_only }}
+        <div id="toc-list"></div>
       </div>
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          var headings = document.querySelectorAll('.post-content h2, .post-content h3');
+          var tocList = document.getElementById('toc-list');
+          if (headings.length > 0 && tocList) {
+            var ul = document.createElement('ul');
+            ul.className = 'space-y-1 text-sm';
+            headings.forEach(function(h, i) {
+              if (!h.id) h.id = 'heading-' + i;
+              var li = document.createElement('li');
+              li.className = h.tagName === 'H3' ? 'ml-4' : '';
+              var a = document.createElement('a');
+              a.href = '#' + h.id;
+              a.textContent = h.textContent;
+              a.className = 'text-blue-600 hover:underline';
+              li.appendChild(a);
+              ul.appendChild(li);
+            });
+            tocList.appendChild(ul);
+          }
+        });
+      </script>
     {% endif %}
     {{ content }}
-
-    {% comment %} Internal Linking based on Tags and Categories {% endcomment %}
-    {% assign current_post_tags = page.tags %}
-    {% assign current_post_categories = page.categories %}
-    {% assign related_posts_by_tags = site.posts | where_exp: "post", "post.url != page.url and post.tags contains_any current_post_tags" | sample: 3 %}
-    {% assign related_posts_by_categories = site.posts | where_exp: "post", "post.url != page.url and post.categories contains_any current_post_categories" | sample: 3 %}
-
-    {% assign all_related_posts = related_posts_by_tags | concat: related_posts_by_categories | uniq %}
-
-    {% if all_related_posts.size > 0 %}
+    {% assign related_posts = "" | split: "" %}
+    {% for post in site.posts %}
+      {% unless post.url == page.url %}
+        {% for tag in post.tags %}
+          {% if page.tags contains tag %}
+            {% assign related_posts = related_posts | push: post %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endunless %}
+    {% endfor %}
+    {% if related_posts.size > 0 %}
       <div class="mt-8 p-6 bg-white shadow-md rounded-lg">
         <h4 class="text-2xl font-bold mb-4">You might also like:</h4>
         <ul class="list-disc pl-5 space-y-2">
-          {% for post in all_related_posts limit: 5 %}
+          {% for post in related_posts limit: 5 %}
             <li><a href="{{ post.url | relative_url }}" class="text-blue-600 hover:underline">{{ post.title }}</a></li>
           {% endfor %}
         </ul>
       </div>
     {% endif %}
   </div>
-
   {% if page.tags.size > 0 %}
     <div class="post-tags mt-8 flex flex-wrap gap-2 text-sm">
       <span class="font-semibold">Tags:</span>
@@ -58,7 +77,6 @@ layout: default
       {% endfor %}
     </div>
   {% endif %}
-
   {% if page.categories.size > 0 %}
     <div class="post-categories mt-4 flex flex-wrap gap-2 text-sm">
       <span class="font-semibold">Categories:</span>
@@ -67,10 +85,19 @@ layout: default
       {% endfor %}
     </div>
   {% endif %}
-
+  {% if page.faq %}
+    <div class="mt-8 p-6 bg-gray-50 rounded-lg">
+      <h3 class="text-2xl font-bold mb-4">Frequently Asked Questions</h3>
+      {% for item in page.faq %}
+        <div class="mb-4">
+          <h4 class="font-semibold text-lg">{{ item.question }}</h4>
+          <p class="text-gray-700 mt-1">{{ item.answer }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
   {% include author_box.html %}
   {% include related_posts.html %}
   {% include social_share.html %}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
