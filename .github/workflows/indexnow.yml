@@ -1,6 +1,7 @@
-name: IndexNow - Submit New Posts to Bing
+name: IndexNow - Submit All Posts to Bing
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,13 +14,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
 
-      - name: Get changed posts and submit to IndexNow
+      - name: Submit all posts to IndexNow
         run: |
           python3 << 'PYEOF'
-          import subprocess
           import os
           import re
           import json
@@ -28,88 +26,68 @@ jobs:
 
           SITE_URL = "https://clashwindow.github.io"
           KEY = "8575fe8139f14b2da85e40bbc8b86ce2"
-          KEY_LOCATION = f"{SITE_URL}/{KEY}.txt"
           HOST = "clashwindow.github.io"
-          BATCH_SIZE = 100
 
-          # Get changed _posts files
-          try:
-              result = subprocess.run(
-                  ["git", "diff", "--name-only", "HEAD~1", "HEAD", "--", "_posts/"],
-                  capture_output=True, text=True, timeout=30
-              )
-              changed = result.stdout.strip()
-          except Exception:
-              result = subprocess.run(
-                  ["git", "show", "--name-only", "--format=", "HEAD", "--", "_posts/"],
-                  capture_output=True, text=True, timeout=30
-              )
-              changed = result.stdout.strip()
-
-          if not changed:
-              print("No changed posts found.")
+          posts_dir = "_posts"
+          if not os.path.isdir(posts_dir):
+              print("No _posts directory found.")
               exit(0)
 
-          files = [f.strip() for f in changed.split("
-") if f.strip() and f.startswith("_posts/")]
-          print(f"Changed files: {len(files)}")
-
-          # Build URL list
           urls = []
-          for filepath in files:
-              if not os.path.exists(filepath):
+          for filename in sorted(os.listdir(posts_dir)):
+              if not filename.endswith(".md"):
                   continue
+              filepath = os.path.join(posts_dir, filename)
               # Try to read permalink from front matter
               try:
-                  with open(filepath, "r", encoding="utf-8") as fh:
-                      content = fh.read()
-                  permalink_match = re.search(r"^permalink:\s*['"]?([^'"\n]+)['"]?", content, re.MULTILINE)
-                  if permalink_match:
-                      permalink = permalink_match.group(1).strip()
+                  with open(filepath, "r", encoding="utf-8") as f:
+                      content = f.read()
+                  match = re.search(r'^permalink:\s*["\']?([^"\'\n]+)["\']?', content, re.MULTILINE)
+                  if match:
+                      permalink = match.group(1).strip()
                       url = f"{SITE_URL}{permalink}"
                   else:
-                      # Generate from filename: 2026-03-11-post-title.md -> /post-title/
-                      basename = os.path.basename(filepath).replace(".md", "")
-                      slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", basename)
+                      basename = filename.replace(".md", "")
+                      slug = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', basename)
                       url = f"{SITE_URL}/{slug}/"
-                  urls.append(url)
-                  print(f"  URL: {url}")
-              except Exception as e:
-                  print(f"  Error processing {filepath}: {e}")
+              except Exception:
+                  basename = filename.replace(".md", "")
+                  slug = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', basename)
+                  url = f"{SITE_URL}/{slug}/"
+              urls.append(url)
+
+          print(f"Total URLs: {len(urls)}")
 
           if not urls:
               print("No URLs to submit.")
               exit(0)
 
-          print(f"\nTotal URLs to submit: {len(urls)}")
-
-          # Submit in batches
-          success_count = 0
-          for i in range(0, len(urls), BATCH_SIZE):
-              batch = urls[i:i+BATCH_SIZE]
+          # Submit in batches of 100
+          BATCH = 100
+          total_ok = 0
+          for i in range(0, len(urls), BATCH):
+              batch = urls[i:i+BATCH]
               payload = json.dumps({
                   "host": HOST,
                   "key": KEY,
-                  "keyLocation": KEY_LOCATION,
+                  "keyLocation": f"{SITE_URL}/{KEY}.txt",
                   "urlList": batch
               }).encode("utf-8")
-
-              # Submit to Bing
+              req = urllib.request.Request(
+                  "https://api.indexnow.org/indexnow",
+                  data=payload,
+                  headers={"Content-Type": "application/json; charset=utf-8"},
+                  method="POST"
+              )
               try:
-                  req = urllib.request.Request(
-                      "https://api.indexnow.org/indexnow",
-                      data=payload,
-                      headers={"Content-Type": "application/json; charset=utf-8"},
-                      method="POST"
-                  )
                   with urllib.request.urlopen(req, timeout=30) as resp:
                       code = resp.getcode()
-                      print(f"  Batch {i//BATCH_SIZE+1}: Bing response {code} - {'OK' if code in [200,202] else 'Check'}")
-                      success_count += len(batch)
+                      print(f"Batch {i//BATCH+1}: {len(batch)} URLs -> HTTP {code} OK")
+                      total_ok += len(batch)
               except urllib.error.HTTPError as e:
-                  print(f"  Batch {i//BATCH_SIZE+1}: Bing HTTP error {e.code}: {e.read().decode()}")
+                  print(f"Batch {i//BATCH+1}: HTTP {e.code} - {e.read().decode()[:200]}")
               except Exception as e:
-                  print(f"  Batch {i//BATCH_SIZE+1}: Bing error: {e}")
+                  print(f"Batch {i//BATCH+1}: Error - {e}")
 
-          print(f"\n✅ IndexNow submission complete! {success_count}/{len(urls)} URLs submitted.")
+          print(f"\nDone! {total_ok}/{len(urls)} URLs submitted to Bing IndexNow.")
           PYEOF
