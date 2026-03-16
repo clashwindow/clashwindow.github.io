@@ -33,7 +33,15 @@ layout: default
             <h4 class="text-xl font-bold mb-2">
               <a href="{{ post.url | relative_url }}" class="text-gray-900 hover:text-blue-600 transition">{{ post.title | escape }}</a>
             </h4>
-            <p class="text-gray-600 text-sm mb-4 line-clamp-3">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            <p class="text-gray-600 text-sm mb-4 line-clamp-3">
+  {% if post.description %}
+    {{ post.description | strip_html }}
+  {% elsif post.excerpt %}
+    {{ post.excerpt | strip_html | truncatewords: 25 }}
+  {% else %}
+    {{ post.content | strip_html | truncatewords: 25 }}
+  {% endif %}
+</p>
             <div class="mt-auto text-xs text-gray-500 font-medium">
               {{ post.date | date: "%B %d, %Y" }}
             </div>
