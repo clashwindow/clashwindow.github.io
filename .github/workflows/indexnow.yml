@@ -15,5 +15,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install dependencies
+        run: pip install pyyaml
+
       - name: Submit all posts to IndexNow
         run: python3 scripts/submit_indexnow.py

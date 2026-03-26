@@ -14,6 +14,7 @@ social_links:
 indexnow:
   key: "8575fe8139f14b2da85e40bbc8b86ce2"
   host: "clashwindow.github.io"
+  key_location: "/8575fe8139f14b2da85e40bbc8b86ce2.txt"
 permalink: /:title/
 markdown: kramdown
 highlighter: rouge
