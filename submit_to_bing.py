@@ -13,7 +13,7 @@ import urllib.error
 
 # ========== 配置区域（根据你的网站修改） ==========
 SITE_URL = "https://clashwindow.github.io"
-KEY = "8575fe8139f14b2da85e40bbc8b86ce2"
+KEY = "1fe0058fde854846b6dbf42dcfc38a20"
 HOST = "clashwindow.github.io"
 POSTS_DIR = "_posts"
 # ==================================================
