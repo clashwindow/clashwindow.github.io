@@ -12,7 +12,7 @@ tags:
   - "免费clash"
   - "Clash Verge"
 keywords: "clash配置免费节点,节点订阅,clash突然连不上,小火箭共享id,clash verge订阅,免费clash,Clash Verge"
-description: "如何有效应对 Clash 突然连不上的几种排查方法
+description: ""如何有效应对 Clash 突然连不上的几种排查方法"
 
 如何有效应对 Clash 突然连不上的几种排查方法
 在日常网络使用中，许多用户可能会遇到一个令人困扰的问题：Clash 突然连不上了。前一秒还正常访问，下一秒所有连接都中断，这无疑会影响"

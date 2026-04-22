@@ -11,7 +11,7 @@ tags:
   - "纸飞机加速器"
   - "clashurl配置"
 keywords: "clash轻云订阅官网,svn和git哪个更好,ssr节点是什么,最新免费ssr节点二维码,纸飞机加速器,clashurl配置"
-description: "本文详细解答clash共享局域网在多设备环境下还能用吗？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash共享局域网在多设备环境下还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐购买.png)

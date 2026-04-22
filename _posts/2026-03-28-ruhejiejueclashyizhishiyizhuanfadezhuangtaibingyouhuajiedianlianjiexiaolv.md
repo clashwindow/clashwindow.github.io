@@ -12,7 +12,7 @@ tags:
   - "Clash for Windows"
   - "免费机场节点"
 keywords: "机场节点,免费机场,飞机场节点,免费节点,节点分享,Clash for Windows,免费机场节点"
-description: "如何解决 Clash一直是已转发 的状态并优化节点连接效率？
+description: ""如何解决 Clash一直是已转发 的状态并优化节点连接效率？"
 
 如何解决 Clash一直是已转发 的状态并优化节点连接效率？
 许多用户在使用 Clash 系列工具时，常常会注意到状态栏中显示“已转发”的提示，并由此产生疑问：这个状态是否正常"

@@ -12,7 +12,7 @@ tags:
   - "clash免费配置链接"
   - "节点分享"
 keywords: "Clash for Windows,高速节点,免费节点,clash免费配置,节点推荐,clash免费配置链接,节点分享"
-description: "如何有效应对 Clash 全局模式无效的常见问题与配置方案？
+description: ""如何有效应对 Clash 全局模式无效的常见问题与配置方案？"
 
 如何有效应对 Clash 全局模式无效的常见问题与配置方案？
 在使用 Clash 系列工具进行网络配置时，用户偶尔会遇到一个令人困惑的问题：即使开启了全局模式，部分或全部网cl"

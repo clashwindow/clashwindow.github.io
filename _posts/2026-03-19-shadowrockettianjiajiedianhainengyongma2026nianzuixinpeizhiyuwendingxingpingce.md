@@ -12,7 +12,7 @@ tags:
   - "clash verge免费节点"
   - "节点订阅"
 keywords: "飞机场节点,clash代理节点免费,clash地址,clash代理,节点分享,clash verge免费节点,节点订阅"
-description: "shadowrocket添加节点还能用吗？2026年最新配置与稳定性评测
+description: ""shadowrocket添加节点还能用吗？"
 
 shadowrocket添加节点还能用吗？2024年最新配置与稳定性评测
 shadowrocket添加节点手动配置与连接稳定性校验

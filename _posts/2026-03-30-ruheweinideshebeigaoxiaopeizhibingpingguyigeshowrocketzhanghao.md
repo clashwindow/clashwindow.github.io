@@ -12,7 +12,7 @@ tags:
   - "Clash for Windows"
   - "飞机场节点"
 keywords: "免费机场试用,免费机场,clash节,clash订阅链接,clash节点,Clash for Windows,飞机场节点"
-description: "如何为你的设备高效配置并评估一个 showrocket账号？
+description: ""如何为你的设备高效配置并评估一个 showrocket账号？"
 
 如何为你的设备高效配置并评估一个 showrocket账号？
 在当今复杂的网络环境中，拥有一个配置得当且性能稳定的 showrocket账号，是确保流畅访问全球互联网资源的关键"

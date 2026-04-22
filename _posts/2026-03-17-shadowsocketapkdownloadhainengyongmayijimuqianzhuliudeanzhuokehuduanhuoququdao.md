@@ -12,7 +12,7 @@ tags:
   - "clash教程"
   - "clash for androi"
 keywords: "clash for a,clash for andr,clash 免费,clash for andro,Clash for Windows,clash教程,clash for androi"
-description: "shadowsocket apk download 还能用吗以及目前主流的安卓客户端获取渠道
+description: ""shadowsocket apk download 还能用吗以及目前主流的安卓客户端获取渠道"
 
 shadowsocket apk download 还能用吗以及目前主流的安卓客户端获取渠道
 在当前的移动网络环境下，寻找 shadowsock"

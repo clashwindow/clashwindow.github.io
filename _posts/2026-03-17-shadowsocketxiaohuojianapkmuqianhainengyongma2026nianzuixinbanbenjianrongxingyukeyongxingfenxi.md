@@ -12,7 +12,7 @@ tags:
   - "节点推荐"
   - "clash免费代理"
 keywords: "clash节点推荐,clash免费,clash免费机场,节点订阅,免费代理,节点推荐,clash免费代理"
-description: "shadowsocket小火箭apk 目前还能用吗？2026年最新版本兼容性与可用性分析
+description: ""shadowsocket小火箭apk 目前还能用吗？"
 
 shadowsocket小火箭apk 目前还能用吗？2024年最新版本兼容性与可用性分析
 shadowsocket小火箭apk 配置参数对连接稳定性"

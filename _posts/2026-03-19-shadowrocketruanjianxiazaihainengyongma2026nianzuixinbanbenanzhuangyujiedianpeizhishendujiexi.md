@@ -12,7 +12,7 @@ tags:
   - "vpn免费节点"
   - "免费公益节点"
 keywords: "clash verge订阅链接,freeclash,rocket免费节点,clash verge订阅链接免费,Clash for Windows,vpn免费节点,免费公益节点"
-description: "shadowrocket软件下载还能用吗？2026年最新版本安装与节点配置深度解析
+description: ""shadowrocket软件下载还能用吗？"
 
 shadowrocket软件下载还能用吗？2024年最新版本安装与节点配置深度解析
 官方渠道 shadowrocket软件下载 的安全性验证与版本区别

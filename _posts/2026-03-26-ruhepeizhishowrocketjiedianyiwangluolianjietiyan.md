@@ -12,7 +12,7 @@ tags:
   - "节点分享"
   - "showrocket节点"
 keywords: "clash机场免费,clash机场,免费节点,free clash,ssr节点,节点分享,showrocket节点"
-description: "如何配置 showrocket 节点以网络连接体验？
+description: ""如何配置 showrocket 节点以网络连接体验？"
 
 如何配置 showrocket 节点以网络连接体验？
 在当前高度互联的数字环境中，拥有一个稳定、的网络连接是进行跨区域协作、学术研究和访问球信息的基石。用户常常面临网络延迟高、速度不稳"

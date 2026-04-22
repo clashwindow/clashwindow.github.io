@@ -12,7 +12,7 @@ tags:
   - "clash免费"
   - "clash for windows"
 keywords: "shadowrock,clash节点分享,免费节点,节点分享,clash for,clash免费,clash for windows"
-description: "shadowrocket苹果账号现在还能用吗
+description: ""shadowrocket苹果账号现在还能用吗"
 
 shadowrocket苹果账号现在还能用吗
 在当前的网络环境下，许多用户在寻找网络调试工具时，最先接触到的往往是 Shadowrocket。由于该应用在部分地区的 App Store 并不直"

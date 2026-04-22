@@ -12,7 +12,7 @@ tags:
   - "clash免费"
   - "clash免费配置节点"
 keywords: "clash免费配置,机场推荐免费节点,免费节点,机场推荐免费,Clash for Windows,clash免费,clash免费配置节点"
-description: "如何获取并配置可靠的clash美国订阅地址？
+description: ""如何获取并配置可靠的clash美国订阅地址？"
 
 如何获取并配置可靠的clash美国订阅地址？
 在日常工作与学习中，我们时常需要访问一些仅在美国区域提供服务的网站或应用，例如进行学术资料查阅、开发者API测试或观看流媒体内容。为了稳定、高效地"

@@ -10,7 +10,7 @@ tags:
   - "clash免费版入口"
   - "clash安卓怎么用"
 keywords: "订阅者ID,免费节点最新,clash代理规则设置,clash免费版入口,clash安卓怎么用"
-description: "本文详细解答clash付费订阅地址 一元还能用吗？关于低价节点的稳定性与可用性评估，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash付费订阅地址 一元还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash免费订阅.png)

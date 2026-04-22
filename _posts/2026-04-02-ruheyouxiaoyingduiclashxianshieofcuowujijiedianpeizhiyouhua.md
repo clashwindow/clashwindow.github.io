@@ -12,7 +12,7 @@ tags:
   - "clash订阅"
   - "clash for"
 keywords: "免费节点,clash for window,节点推荐,clash显示eof,clash for windows使用教程,clash订阅,clash for"
-description: "如何有效应对 Clash 显示 EOF 错误及节点配置优化？
+description: ""如何有效应对 Clash 显示 EOF 错误及节点配置优化？"
 
 如何有效应对 Clash 显示 EOF 错误及节点配置优化？
 在使用网络工具时，许多用户都可能遇到过一个令人困惑的提示：“clash显示eof”。EOF 是 “End-Of-F"

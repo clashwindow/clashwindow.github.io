@@ -12,7 +12,7 @@ tags:
   - "clash 机场"
   - "clash 节点订阅"
 keywords: "节点订阅,节点分享每日,clash 节点,shadowsocket,clash官网,clash 机场,clash 节点订阅"
-description: "shadowsockets ssh连不上是因为配置过期还是网络封锁？现在还能用吗？
+description: ""shadowsockets ssh连不上是因为配置过期还是网络封锁？"
 
 shadowsockets ssh连不上是因为配置过期还是网络封锁？现在还能用吗？
 shadowsockets ssh连不上时如何检测本地代理端口与系统代"

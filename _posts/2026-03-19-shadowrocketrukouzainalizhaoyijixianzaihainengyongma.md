@@ -12,7 +12,7 @@ tags:
   - "rocket免费节点"
   - "free clash"
 keywords: "clash verge免费订阅,clash 节点订阅,每日节点,clash 节点,Clash for Windows,rocket免费节点,free clash"
-description: "shadowrocket入口在哪里找以及现在还能用吗
+description: ""shadowrocket入口在哪里找以及现在还能用吗"
 
 shadowrocket入口在哪免费 clash 代理节点里找以及现在还能用吗
 shadowrocket入口配置失败的常见原因

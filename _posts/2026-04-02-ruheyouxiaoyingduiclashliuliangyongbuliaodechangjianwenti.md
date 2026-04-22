@@ -11,7 +11,7 @@ tags:
   - "小火箭shadow"
   - "clash流量"
 keywords: "Clash for Windows,免费节点,shadowrock,节点分享,小火箭shadow,clash流量"
-description: "如何有效应对 Clash 流量用不了的常见问题？
+description: ""如何有效应对 Clash 流量用不了的常见问题？"
 
 如何有效应对 Clash 流量用不了的常见问题？
 在使用网络工具的过程中，许多用户都可能遇到一个令人困扰的问题：clash流量用不了。明明客户端显示已连接，图标也变色，但浏览器就是无法打开"

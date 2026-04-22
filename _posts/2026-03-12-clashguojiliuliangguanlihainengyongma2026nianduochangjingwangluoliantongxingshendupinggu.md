@@ -12,7 +12,7 @@ tags:
   - "clash镜像下载"
   - "节点多少钱一年"
 keywords: "ssr机场代理,ssr安卓客户端下载,clashfor安卓手机下载,v2ray节点使用教程,节点图怎么看,clash镜像下载,节点多少钱一年"
-description: "本文深度评测clash国际流量管理还能用吗？2026年多场景网络连通性深度评估，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash国际流量管理还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点推荐.png)

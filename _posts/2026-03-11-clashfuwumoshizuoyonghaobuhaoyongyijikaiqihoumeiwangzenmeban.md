@@ -10,7 +10,7 @@ tags:
   - "鳄鱼机场clash最新版本更新内容"
   - "clashX配置文件"
 keywords: "clashr订阅,免费clash订阅节点,纸飞机梯子哪个好用,鳄鱼机场clash最新版本更新内容,clashX配置文件"
-description: "本文深度评测Clash服务模式作用好不好用以及开启后没网怎么办？，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测Clash服务模式作用好不好用以及开启后没网怎么办？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash免费订阅.png)

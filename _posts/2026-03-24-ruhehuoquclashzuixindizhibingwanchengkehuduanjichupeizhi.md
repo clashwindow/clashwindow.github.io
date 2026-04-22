@@ -12,7 +12,7 @@ tags:
   - "clash meta免费节点"
   - "clash机场"
 keywords: "小火箭加速器,便宜机场推荐,clash me,clash meta,免费节点,clash meta免费节点,clash机场"
-description: "如何获取clash最新地址并完成客户端基础配置？
+description: ""如何获取clash最新地址并完成客户端基础配置？"
 
 如何获取clash最新地址并完成客clsah小火箭户端基础配置？
 在当前复杂的网络环境下，许多用户依赖Clash等工具来和管理自己的网络连接。然而，一个常见且核心的问题便是如何找到稳定可靠"

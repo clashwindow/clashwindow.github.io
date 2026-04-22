@@ -12,7 +12,7 @@ tags:
   - "免费节点"
   - "节点分享"
 keywords: "clash 免费节点,clash node,free clash,clash 代理,shadowrock,免费节点,节点分享"
-description: "shadowrocket苹果新版本还能用吗及最新配置失效解决方法
+description: ""shadowrocket苹果新版本还能用吗及最新配置失效解决方法"
 
 shadowrocket苹果新版本还能用吗及最新配置失效解决方法
 shadowrocket苹果新下载安装后的基础配置检查

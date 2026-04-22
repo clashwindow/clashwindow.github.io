@@ -12,7 +12,7 @@ tags:
   - "节点分享"
   - "节点分享每日更新"
 keywords: "clash for windows节点,clash订阅,clash代理,clash for windows,clash订阅链接,节点分享,节点分享每日更新"
-description: "shadowrocket添加配置失败后还能用吗？
+description: ""shadowrocket添加配置失败后还能用吗？"
 
 shadowrclash订阅节点ocket添加配置失败后还能用吗？
 手动执行 shadowrocket添加配置 的底层逻辑与常见协议支持

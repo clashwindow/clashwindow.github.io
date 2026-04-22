@@ -10,7 +10,7 @@ tags:
   - "clash怎么配置文件安卓"
   - "订阅节点clash"
 keywords: "sstap手机版下载,clach免费节点,订阅地址转换,clash怎么配置文件安卓,订阅节点clash"
-description: "本文详细解答clash付费订阅网站还能用吗？访问速度和稳定性实测表现如何？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash付费订阅网站还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)

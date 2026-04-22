@@ -12,7 +12,7 @@ tags:
   - "火箭软件订阅"
   - "clash for windows"
 keywords: "clash免费,clash for,付费订阅服务,clash verge 免费节点,免费节点,火箭软件订阅,clash for windows"
-description: "2026年小火箭软件还能用吗？最新版本稳定性与节点适配分析
+description: ""2026年小火箭软件还能用吗？"
 
 2024年小火箭软件还能用吗？最新版本稳定性与节点适配分析
 小火箭软件下载安装与基础配置指南

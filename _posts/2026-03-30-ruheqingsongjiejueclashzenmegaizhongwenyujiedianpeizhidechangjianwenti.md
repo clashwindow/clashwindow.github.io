@@ -12,7 +12,7 @@ tags:
   - "shadowrock"
   - "clash配置yaml"
 keywords: "clash怎么改中文,免费clash,免费节点,clash meta免费节点,clash节,shadowrock,clash配置yaml"
-description: "如何轻松解决 Clash 怎么改中文与节点配置的常见问题？
+description: ""如何轻松解决 Clash 怎么改中文与节点配置的常见问题？"
 
 如何轻松解决 Clash 怎么改中文与节点配置的常见问题？
 许多用户在初次接触 Clash 这款网络工具时，面临的第一个挑战可能就是其默认的英文界面。虽然英文界面功能齐全，但对于"

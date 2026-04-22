@@ -12,7 +12,7 @@ tags:
   - "clash地址"
   - "免费节点网站"
 keywords: "节点推荐,shadowrocket免费节点,clash 订阅,机场节点,clash 中文,clash地址,免费节点网站"
-description: "2026年小飞机免费节点网站现在还能用吗？
+description: ""2026年小飞机免费节点网站现在还能用吗？"
 
 2024年小飞机免费节点网站现在还能用吗？
 寻找小飞机免费节点网站时的协议适配问题

@@ -12,7 +12,7 @@ tags:
   - "Clash for Windows"
   - "free clash node"
 keywords: "clash订阅,free clash,高速节点,节点订阅,clash 代理,Clash for Windows,free clash node"
-description: "shadowrocket使用视频在哪里看以及新手配置有没有详细教学
+description: ""shadowrocket使用视频在哪里看以及新手配置有没有详细教学"
 
 shadowrocket使用视频在哪里看以及新手配置有没有详细教学
 适合初学者的shadowrocket使用视频教学资源哪里找

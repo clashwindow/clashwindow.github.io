@@ -11,7 +11,7 @@ tags:
   - "V2rayNG节点更新"
   - "科学免费上网工具"
 keywords: "有没有免费的节点,clash官方网站下载,v2ray免费节点订阅,clash添加节点,V2rayNG节点更新,科学免费上网工具"
-description: "本文详细解答Clash电脑安装教程哪里有？2026年Windows版客户端配置全流程，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答Clash电脑安装教程哪里有？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费订阅机场.png)

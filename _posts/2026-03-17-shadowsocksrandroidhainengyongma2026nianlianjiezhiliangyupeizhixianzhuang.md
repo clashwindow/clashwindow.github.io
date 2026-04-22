@@ -12,7 +12,7 @@ tags:
   - "clash免费机场"
   - "clash for windows使用教程"
 keywords: "节点免费,clash verge订阅,clash节点推荐,订阅节点,clash免费,clash免费机场,clash for windows使用教程"
-description: "shadowsocksr android 还能用吗？2026年连接质量与配置现状
+description: ""shadowsocksr android 还能用吗？"
 
 shadowsocksr android 还能用吗？2024年连接质量与配置现状
 shadowsocksr android 客户端全局模式与分应用代理稳定性"

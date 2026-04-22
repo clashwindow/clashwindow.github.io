@@ -12,7 +12,7 @@ tags:
   - "Clash for Windows"
   - "免费节点"
 keywords: "节点推荐,clash节点推荐,clash代理节点免费,clash 中文,clash代理,Clash for Windows,免费节点"
-description: "clash 中文翻译版本哪里有下载以及现在还能用吗
+description: ""clash 中文翻译版本哪里有下载以及现在还能用吗"
 
 clash 中文翻译版本哪里有下载以clash subscription及现在还能用吗
 clash 中文翻译汉化补丁的兼容性是否配置正确

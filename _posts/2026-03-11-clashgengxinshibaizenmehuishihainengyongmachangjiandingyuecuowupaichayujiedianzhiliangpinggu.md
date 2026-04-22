@@ -11,7 +11,7 @@ tags:
   - "clash配置文件地址"
   - "付费机场的推荐"
 keywords: "动态路由配置命令,clash安装教程,免费小飞机节点,sstap节点获取,clash配置文件地址,付费机场的推荐"
-description: "本文深度评测Clash更新失败怎么回事还能用吗？常见订阅错误排查与节点质量评估，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测Clash更新失败怎么回事还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)

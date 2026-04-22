@@ -11,7 +11,7 @@ tags:
   - "clash挂了用什么代替"
   - "sstap手机版下载"
 keywords: "免费节点转换器,免费的Clash配置文件,免费clash配置链接,shadowrocket节点免费,clash挂了用什么代替,sstap手机版下载"
-description: "本文详细介绍clash官方最新本还能用吗以及在哪里可以下载，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "clash官方最新本还能用吗以及在哪里可以下载"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费订阅机场.png)

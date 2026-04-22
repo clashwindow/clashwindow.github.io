@@ -10,7 +10,7 @@ tags:
   - "clash手机版安卓版"
   - "clash多少钱"
 keywords: "使用skyline加速器官网,节点推荐加速云,clash怎么配置才能上网,clash手机版安卓版,clash多少钱"
-description: "本文详细解答clash关掉后无法上网该怎么恢复正常？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash关掉后无法上网该怎么恢复正常？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)

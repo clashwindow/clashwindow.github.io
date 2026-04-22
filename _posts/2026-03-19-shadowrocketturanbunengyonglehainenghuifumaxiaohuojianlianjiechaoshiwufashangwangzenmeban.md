@@ -12,7 +12,7 @@ tags:
   - "clash 代理"
   - "clash代理购买"
 keywords: "clash节,付费订阅服务,机场clash,免费节点,clash代理,clash 代理,clash代理购买"
-description: "Shadowrocket突然不能用了还能恢复吗？小火箭连接超时无法上网怎么办？
+description: ""Shadowrocket突然不能用了还能恢复吗？"
 
 Shadowrocket突然不能用了还能恢复吗？小火箭连接超时无法上网怎么办？
 在日常使用网络代理工具的过程中，Shadowrocket突然不能用了是一个高频"

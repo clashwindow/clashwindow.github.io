@@ -12,7 +12,7 @@ tags:
   - "免费机场"
   - "免费机场订阅"
 keywords: "clash配置文件,免费节点,高速机场推荐,Clash for Windows,clash verge windows,免费机场,免费机场订阅"
-description: "如何获取clash小蓝猫汉化下载并完成基础配置？
+description: ""如何获取clash小蓝猫汉化下载并完成基础配置？"
 
 如何获取clash小蓝猫汉化下载并完成基础配置？
 在当前复杂的网络环境中，许多用户为了网络访问效率性，会选择使用一些专业的网络工具。Clash 作为一款备受青睐的代理工具class节点，以"

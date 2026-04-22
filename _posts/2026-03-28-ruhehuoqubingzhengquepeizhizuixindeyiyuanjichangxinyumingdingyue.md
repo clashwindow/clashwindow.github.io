@@ -12,7 +12,7 @@ tags:
   - "clash for andr"
   - "clash me"
 keywords: "clash for windows,clash for an,clash for win,clash全局,clash配置文件,clash for andr,clash me"
-description: "如何获取并正确配置最新的一元机场新域名订阅？
+description: ""如何获取并正确配置最新的一元机场新域名订阅？"
 
 如何获取并正确配置最新的一元机场新域名订阅？
 在当前复杂的网络环境下，许多用户为了提升工作与学习效率，会选择使用各类网络工具进行连接优化。然而，服务提供商的域名变更时常发生，导致之前的配置失效"

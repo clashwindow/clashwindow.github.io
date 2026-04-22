@@ -12,7 +12,7 @@ tags:
   - "节点订阅"
   - "节点订阅链接"
 keywords: "clash机场,clash安装教程,free clash node,Clash for Windows,机场节点,节点订阅,节点订阅链接"
-description: "shadowsocket github 还能用吗？哪里有最新配置信息？
+description: ""shadowsocket github 还能用吗？"
 
 shadowsocket github 还能用吗？哪里有最新配置信息？
 shadowsocket github 客户端配置正确性对连接质量的影响

@@ -12,7 +12,7 @@ tags:
   - "免费clash订阅"
   - "clash for"
 keywords: "最新节点,机场节点,clash for a,clash for andro,免费clash,免费clash订阅,clash for"
-description: "2026年小火箭shadowrocket安装还有没有可用的官方渠道？
+description: ""2026年小火箭shadowrocket安装还有没有可用的官方渠道？"
 
 2024年小火箭shadowrocket安装还有没有可用的官方渠道？
 小火箭shadowrocket安装后的初始环境调试是否配置正确

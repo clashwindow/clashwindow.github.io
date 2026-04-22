@@ -11,7 +11,7 @@ tags:
   - "clash付费订阅链接"
   - "科技上网工具(免费)"
 keywords: "clash网页版怎么打开,clashurl,clash免费订阅链接yaml,一元机场cn官网,clash付费订阅链接,科技上网工具(免费)"
-description: "本文深度评测clash点击启动不了还能用吗？深度解析故障原因与修复方案，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash点击启动不了还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅地址.png)

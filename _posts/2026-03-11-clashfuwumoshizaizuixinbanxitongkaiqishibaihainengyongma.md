@@ -11,7 +11,7 @@ tags:
   - "免费节点每天更新2025"
   - "订阅节点购买网址"
 keywords: "clashverge是什么软件,clash如何购买节点,TG设置代理节点,clash下载链接,免费节点每天更新2025,订阅节点购买网址"
-description: "本文详细解答Clash服务模式在最新版系统开启失败还能用吗？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答Clash服务模式在最新版系统开启失败还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)

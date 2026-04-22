@@ -12,7 +12,7 @@ tags:
   - "clash 免费节点"
   - "clash 免费"
 keywords: "clash of window,shadowsocket,clash verge订阅链接,clash of windows,clash verge订阅,clash 免费节点,clash 免费"
-description: "shadowsocket windows 还能用吗？2026年客户端兼容性与节点连接稳定性实测
+description: ""shadowsocket windows 还能用吗？"
 
 shadowsocket windows 还能用吗？2024年客户端兼容性与节点连接稳定性实测
 在当前的桌面网络环境下，shadowsocke"

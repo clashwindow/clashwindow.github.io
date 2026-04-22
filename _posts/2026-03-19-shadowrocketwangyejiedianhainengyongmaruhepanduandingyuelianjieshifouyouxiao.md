@@ -12,7 +12,7 @@ tags:
   - "clash 中文"
   - "free clash"
 keywords: "clash教程,clash 中文官网,clash配置文件,clash 节点,clash for windows,clash 中文,free clash"
-description: "shadowrocket网页节点还能用吗？如何判断订阅链接是否有效
+description: ""shadowrocket网页节点还能用吗？"
 
 shadowrocket网页节点还能用吗？如何判断订阅链接是否有效
 在移动端网络调试工具的使用过程中，shadowrocket网页生成的订阅链接或节点配置是用户获取服务的"

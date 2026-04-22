@@ -12,7 +12,7 @@ tags:
   - "clash for win"
   - "免费节点"
 keywords: "clash for window,怎么购买节点,clash免费代理,节点订阅,免费代理,clash for win,免费节点"
-description: "Shadowrocket怎么购买节点以及目前连接是否还稳定？
+description: ""Shadowrocket怎么购买节点以及目前连接是否还稳定？"
 
 Shadowrocket怎么购买节点以及目前连接是否还稳定？
 购买Shadowrocket节点后如何正确配置小火箭订阅以降低延迟？

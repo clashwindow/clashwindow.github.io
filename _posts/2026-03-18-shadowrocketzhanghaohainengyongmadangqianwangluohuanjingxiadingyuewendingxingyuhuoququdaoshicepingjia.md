@@ -12,7 +12,7 @@ tags:
   - "Clash for Windows"
   - "免费机场"
 keywords: "clash verge每日免费节点,clash for win,clash verge订阅,clash for,clash节点购买,Clash for Windows,免费机场"
-description: "shadowrocket账号还能用吗？当前网络环境下订阅稳定性与获取渠道实测评价
+description: ""shadowrocket账号还能用吗？"
 
 shadowrocket账号还能用吗？当前网络环境下订阅稳定性与获取渠道实测评价
 shadowrocket账号配置正确性与节点连接稳定性的关联

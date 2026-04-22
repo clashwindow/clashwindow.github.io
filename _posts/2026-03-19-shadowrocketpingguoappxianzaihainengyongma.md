@@ -12,7 +12,7 @@ tags:
   - "Clash for Windows"
   - "节点全部超时怎么解决"
 keywords: "Clash节点,clash github,节点分享,clash git,节点分享每日,Clash for Windows,节点全部超时怎么解决"
-description: "shadowrocket苹果app现在还能用吗
+description: ""shadowrocket苹果app现在还能用吗"
 
 shadowrocket苹果app现在还能用吗
 shadowrocket苹果app配置后连接不上的原因分析

@@ -12,7 +12,7 @@ tags:
   - "免费节点"
   - "免费clash"
 keywords: "clash链接,节点免费,clash节点免费,shadowrock,clash verge订阅,免费节点,免费clash"
-description: "shadowrocket苹果本下载在最新版macOS系统还能正常安装使用吗
+description: ""shadowrocket苹果本下载在最新版macOS系统还能正常安装使用吗"
 
 shadowrocket苹果本下载在最新版macOS系统还能正常安装使用吗
 shadowrocket苹果本下载后的运行环境配置与系统稳定性验证

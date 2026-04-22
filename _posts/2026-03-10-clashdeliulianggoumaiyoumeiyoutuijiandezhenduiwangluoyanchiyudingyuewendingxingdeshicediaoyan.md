@@ -12,7 +12,7 @@ tags:
   - "clash网络节点"
   - "clashurl配置"
 keywords: "每日免费机场节点,v2ray订阅地址,Ssr节点2月15日,clash节点订阅分享,免费SS/SSR节点账号,clash网络节点,clashurl配置"
-description: "本文深度评测Clash的流量购买有没有推荐的？针对网络延迟与订阅稳定性的实测调研，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测Clash的流量购买有没有推荐的？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费订阅机场.png)

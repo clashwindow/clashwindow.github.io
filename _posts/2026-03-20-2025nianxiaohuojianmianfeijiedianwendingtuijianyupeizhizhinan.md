@@ -12,7 +12,7 @@ tags:
   - "clash节"
   - "免费clash"
 keywords: "clash for window,clash for win,clash节点,免费节点,火箭免费节点,clash节,免费clash"
-description: "2025年小火箭免费节点稳定推荐与配置指南
+description: ""2025年小火箭免费节点稳定推荐与配置指南"
 
 2025年小火箭免费节点稳定推荐与配置指南
 环境与工具配置

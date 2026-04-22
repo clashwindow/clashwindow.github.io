@@ -12,7 +12,7 @@ tags:
   - "免费加速器永久免费"
   - "clash官方正版下载"
 keywords: "一元飞机场最新官网,clash免费配置地址,机场订阅链接转换,免费节点地址,免费客户端Clash的使用方法,免费加速器永久免费,clash官方正版下载"
-description: "本文深度评测clash的tun模式有什么用？开启后网络效果好不好用？，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash的tun模式有什么用？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费节点订阅.png)

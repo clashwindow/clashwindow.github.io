@@ -12,7 +12,7 @@ tags:
   - "如何使用clash上外网"
   - "Clash链接显示没有配置文件是怎么回事"
 keywords: "clash设置中文界面,clash官网下载苹果,免费节点试用一小时clash,节点推荐网站,clash翻墙会有记录吗,如何使用clash上外网,Clash链接显示没有配置文件是怎么回事"
-description: "本文详细解答clash官方正下载安卓版本还能用吗？哪里有真正的源文件？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash官方正下载安卓版本还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点推荐.png)

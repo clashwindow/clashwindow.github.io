@@ -12,7 +12,7 @@ tags:
   - "节点订阅"
   - "clash verge每日免费节点"
 keywords: "clash订阅,clash代理,clash 节点,clash for windows,clashnode,节点订阅,clash verge每日免费节点"
-description: "shadowrocket下载 ios 还能用吗以及目前最稳妥的获取方式是什么？
+description: ""shadowrocket下载 ios 还能用吗以及目前最稳妥的获取方式是什么？"
 
 shadowrocket下载 ios 还能用吗以及目前最稳妥的获取方式是什么？
 在当前的移动网络环境下，寻找clash verge每日免费节点 shadowr"

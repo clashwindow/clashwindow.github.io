@@ -12,7 +12,7 @@ tags:
   - "clash正常但是打不开外网"
   - "V2ray下载"
 keywords: "Clash是什么意思,每日节点免费订阅,订阅者ID,小火箭免费地址,clash小猫咪鸿蒙版,clash正常但是打不开外网,V2ray下载"
-description: "本文详细介绍clash官方最新安装包还能用吗？目前可靠的获取渠道有哪些？，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "clash官方最新安装包还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点购买.png)

@@ -12,7 +12,7 @@ tags:
   - "手机clash免费url"
   - "小火箭订阅更新"
 keywords: "在国内怎么用国外的软件,电脑版clash怎么用,纸飞机代理ip购买,clash安卓配置免费,clash代理设置教程,手机clash免费url,小火箭订阅更新"
-description: "本文详细介绍clash登录入口还能用吗？2026年最新连接方案与节点稳定性分析，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "clash登录入口还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/tiktok机场推荐.png)

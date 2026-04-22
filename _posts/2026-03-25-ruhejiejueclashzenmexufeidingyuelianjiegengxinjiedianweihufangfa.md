@@ -12,7 +12,7 @@ tags:
   - "节点分享"
   - "免费节点"
 keywords: "clash订阅地址,小火箭节点,shadowrock,clash订阅,clash订阅链接,节点分享,免费节点"
-description: "如何解决 Clash 怎么续费？订阅链接更新节点维护方法
+description: ""如何解决 Clash 怎么续费？"
 
 如何解决 Clash 怎么续费？订阅链接更新节点维护方法
 当您日常使用的 Clash 客户端提示订阅即将到期，或者节点列表突然无法连接时，通常意味着需要对服务进行续费并更新配置。许"

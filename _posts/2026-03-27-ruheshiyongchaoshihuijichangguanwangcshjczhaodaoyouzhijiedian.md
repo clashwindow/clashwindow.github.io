@@ -12,7 +12,7 @@ tags:
   - "如何测试节点速度"
   - "shadowrock"
 keywords: "clash免费配置,clash for window,免费机场,clash for win,免费订阅,如何测试节点速度,shadowrock"
-description: "如何使用超实惠机场官网cshjc找到优质节点？
+description: ""如何使用超实惠机场官网cshjc找到优质节点？"
 
 ```html
 如何使用超实惠机场官网cshjc找到优质节点？

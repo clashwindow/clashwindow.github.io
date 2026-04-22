@@ -12,7 +12,7 @@ tags:
   - "clash verge订阅"
   - "shadowsocket"
 keywords: "shadowroket下载,vpn免费节点,shadowroket下载安卓,节点推荐,clash verge订阅链接,clash verge订阅,shadowsocket"
-description: "shadowroket下载安卓版还有官网吗？安卓手机能否直接安装小火箭？
+description: ""shadowroket下载安卓版还有官网吗？"
 
 shadowroket下载安卓版还有官网吗？安卓手机能否直接安装小火箭？
 shadowroket下载安卓系统的兼容性与安装包真实性识别

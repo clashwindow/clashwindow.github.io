@@ -12,7 +12,7 @@ tags:
   - "节点分享每日更新"
   - "节点订阅"
 keywords: "clash for windows节点,clash for windows,free clash,clashnode,节点分享,节点分享每日更新,节点订阅"
-description: "shadowrocket替代app有没有比小火箭更稳定的选择
+description: ""shadowrocket替代app有没有比小火箭更稳定的选择"
 
 shadowrocket替代app有节点分享每日更新没有比小火箭更稳定的选择
 shadowrocket替代app配置正确与否对网络延迟的影响

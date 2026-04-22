@@ -12,7 +12,7 @@ tags:
   - "clash转换工具"
   - "免费高速加速器"
 keywords: "clash软件安全吗?,clash安卓订阅链接怎么获得,每日节点免费订阅,clash订阅地址怎么复制,电脑clashverge使用教程,clash转换工具,免费高速加速器"
-description: "本文详细解答clash共享热点教程现在还能用吗？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash共享热点教程现在还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点购买.png)

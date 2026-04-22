@@ -12,7 +12,7 @@ tags:
   - "Clash for Windows"
   - "clash verge 免费节点"
 keywords: "clash 节点,clash机场,shadowsocket官网,clash安装教程,订阅节点,Clash for Windows,clash verge 免费节点"
-description: "shadowsocket官网还能用吗以及最新订阅节点哪里有
+description: ""shadowsocket官网还能用吗以及最新订阅节点哪里有"
 
 shadowsocket官网还能用吗以及最新订阅节点哪里有
 shadowsocket官网客户端配置是否正确对连接稳定性的实际影响

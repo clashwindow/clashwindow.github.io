@@ -12,7 +12,7 @@ tags:
   - "free clash"
   - "节点分享"
 keywords: "clash me,clash meta免费,clash for windows,clash meta,clash节点,free clash,节点分享"
-description: "shadowrocket网站续费过期了还能用吗？哪里有靠谱的续费入口？
+description: ""shadowrocket网站续费过期了还能用吗？"
 
 shadowrocket网站续费过期了还能用吗？哪里有靠谱的续费入口？
 shadowrocket网站续费后的订阅节点无法更新是否配置正确

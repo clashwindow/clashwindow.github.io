@@ -12,7 +12,7 @@ tags:
   - "免费订阅节点"
   - "clash github"
 keywords: "clash verge订阅,节点分享,clash免费,订阅节点,clash verge订阅链接,免费订阅节点,clash github"
-description: "如何配置clash直连局规则脚本以网络体验？
+description: ""如何配置clash直连局规则脚本以网络体验？"
 
 如何配置clash直连局规则脚本以网络体验？
 在当今复杂的网络环境中，如何、智能地管理数据流向，已成为clash免费配置链接许多技术爱好者和专业人士关注的焦点。一个精心设计的 clash直连局"

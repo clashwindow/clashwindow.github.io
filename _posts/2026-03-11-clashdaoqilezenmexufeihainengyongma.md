@@ -10,7 +10,7 @@ tags:
   - "免费服务器节点国外"
   - "ssr官网下载客户端"
 keywords: "clash软件使用教程,clash配置文件的本地导入方法,Shadowsocks是干嘛的,免费服务器节点国外,ssr官网下载客户端"
-description: "本文详细解答clash到期了怎么续费还能用吗？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash到期了怎么续费还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)

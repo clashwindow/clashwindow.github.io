@@ -12,7 +12,7 @@ tags:
   - "节点订阅"
   - "shadowsocket"
 keywords: "meta免费节点,clash meta免费节点,clash me,clash机场,clash meta,节点订阅,shadowsocket"
-description: "shadowrocket永久节点二维码现在还能用吗？
+description: ""shadowrocket永久节点二维码现在还能用吗？"
 
 shadowrocket永久节点二维码现在还能用吗？
 shadowrocket永久节点二维码的识别机制与配置正确性判断

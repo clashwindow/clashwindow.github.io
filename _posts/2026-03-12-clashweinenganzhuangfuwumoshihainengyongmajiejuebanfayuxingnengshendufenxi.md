@@ -10,7 +10,7 @@ tags:
   - "clash的url配置文件"
   - "clash机场搭建教程"
 keywords: "免费机场分享博客,机场节点免费使用,每天免费一小时加速器,clash的url配置文件,clash机场搭建教程"
-description: "本文深度评测clash未能安装服务模式还能用吗？解决办法与性能深度分析，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash未能安装服务模式还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点推荐.png)

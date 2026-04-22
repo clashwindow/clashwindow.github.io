@@ -12,7 +12,7 @@ tags:
   - "免费订阅"
   - "免费节点分享"
 keywords: "clash免费订阅,clash verge免费订阅,clash 免费,clash 免费订阅,机场节点,免费订阅,免费节点分享"
-description: "shadowrocket应用市场在哪里可以找到以及目前是否可用
+description: ""shadowrocket应用市场在哪里可以找到以及目前是否可用"
 
 shadowrocket应用市场potatso在哪里可以找到以及目前是否可用
 shadowrocket应用市场基础配置对网络稳定性的影响

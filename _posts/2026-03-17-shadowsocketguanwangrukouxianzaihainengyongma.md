@@ -12,7 +12,7 @@ tags:
   - "Clash for Windows"
   - "clash订阅地址"
 keywords: "clash机场,shadowsocket官网,clash verge订阅,clash window,clash 机场,Clash for Windows,clash订阅地址"
-description: "shadowsocket官网入口现在还能用吗
+description: ""shadowsocket官网入口现在还能用吗"
 
 shadowsocket官网入口现在还能用吗
 shadowsocket官网入口配置参数对连接稳定性的影响

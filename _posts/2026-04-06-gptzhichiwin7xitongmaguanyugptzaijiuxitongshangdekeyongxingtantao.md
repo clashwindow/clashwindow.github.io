@@ -12,7 +12,7 @@ tags:
   - "免费节点分享"
   - "Clash配置"
 keywords: "节点测速工具,免费机场,节点订阅,clash免费试用,免费节点订阅,免费节点分享,Clash配置"
-description: "GPT支持Win7系统吗？关于GPT在旧系统上的可用性探讨
+description: ""GPT支持Win7系统吗？"
 
 GPT支持Win7系统吗？关于GPT在旧系统上的可用性探讨
 许多用户在考虑使用最新的AI技术，例如OpenAI的GPT模型时，会自然而然地想到一个问题：GPT支持Win7系统吗？"

@@ -12,7 +12,7 @@ tags:
   - "Clash机场推荐节点"
   - "clash怎么配置url"
 keywords: "Clash节点购买地址,clashforwindows下载,v2ray安卓最新版下载,clash机场官网地址,每天试用一小时加速器,Clash机场推荐节点,clash怎么配置url"
-description: "本文深度评测Clash覆写模式现在还能用吗？配置之后节点连接不上怎么办？，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测Clash覆写模式现在还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)

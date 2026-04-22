@@ -12,7 +12,7 @@ tags:
   - "小火箭URL订阅地址"
   - "免费clash订阅节点每日更新"
 keywords: "clash怎么配置文件URL,v2rayn安卓版,免费客户端Clash的使用方法,sstap节点购买,v2ray免费订阅节点,小火箭URL订阅地址,免费clash订阅节点每日更新"
-description: "本文详细介绍Clash的EOF错误怎么解决还能用吗？，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "Clash的EOF错误怎么解决还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费机场节点推荐.png)

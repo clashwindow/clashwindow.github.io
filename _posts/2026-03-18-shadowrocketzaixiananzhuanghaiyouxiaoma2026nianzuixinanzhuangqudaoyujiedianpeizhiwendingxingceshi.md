@@ -12,7 +12,7 @@ tags:
   - "clash节点推荐"
   - "clash机场"
 keywords: "免费机场链接,高速节点,Clash for Windows,免费机场,clash订阅节点,clash节点推荐,clash机场"
-description: "Shadowrocket在线安装还有效吗？2026年最新安装渠道与节点配置稳定性测试
+description: ""Shadowrocket在线安装还有效吗？"
 
 Shadowrocket在线安装还有效吗？2024年最新安装渠道与节点配置稳定性测试
 Shadowrocket在线安装失败的常见原因与技术逻辑分析

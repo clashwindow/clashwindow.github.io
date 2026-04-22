@@ -12,7 +12,7 @@ tags:
   - "clash最新配置"
   - "性价比机场"
 keywords: "clash软件下载,免费节点更新时间,纸飞机加速器,clash代理配置免费url的功能,Clash免费链接,clash最新配置,性价比机场"
-description: "本文深度评测clash for pc客户端下载与安装教程还能用吗？2026最新获取与配置全流程解析，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash for pc客户端下载与安装教程还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点购买.png)

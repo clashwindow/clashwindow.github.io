@@ -12,7 +12,7 @@ tags:
   - "clash 节点订阅"
   - "clashnode"
 keywords: "Clash 配置文件,高速节点,clash verge订阅,怎么配置节点,节点订阅链接,clash 节点订阅,clashnode"
-description: "shadowrocket怎么配置节点还能用吗？2026年移动端连接稳定性与协议兼容性深度评测
+description: ""shadowrocket怎么配置节点还能用吗？"
 
 shadowrocket怎么配置节点还能用吗？2024年移动端连接稳定性与协议兼容性深度评测
 在当前的移动互联网环境下，Shadowrocket"

@@ -10,7 +10,7 @@ tags:
   - "2025clash免费配置url地址"
   - "clash客户端ios"
 keywords: "clash配置购买攻略,纸飞机节点购买,clash一元订阅永久链接大全,2025clash免费配置url地址,clash客户端ios"
-description: "本文详细解答Clash登录不了还能用吗？2026年连接故障深度排查指南，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答Clash登录不了还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点推荐.png)

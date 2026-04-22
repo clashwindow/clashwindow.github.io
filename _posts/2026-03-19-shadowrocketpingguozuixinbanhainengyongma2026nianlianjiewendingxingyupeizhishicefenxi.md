@@ -12,7 +12,7 @@ tags:
   - "clash 节点"
   - "Clash for Windows"
 keywords: "clash订阅链接,clash github,节点分享,clash git,小火箭节点,clash 节点,Clash for Windows"
-description: "shadowrocket苹果最新版还能用吗？2026年连接稳定性与配置实测分析
+description: ""shadowrocket苹果最新版还能用吗？"
 
 shadowrocket苹果最新版还能用吗？2024年连接稳定性与配置实测分析
 shadowrocket苹果最新配置指南与连接稳定性深度解析

@@ -12,7 +12,7 @@ tags:
   - "clash节点免费"
   - "Clash for Windows"
 keywords: "节点推荐,小火箭节点,节点免费,clash 订阅,clash 节点,clash节点免费,Clash for Windows"
-description: "shadowrocket配置规则好不好用以及最新的规则哪里有？
+description: ""shadowrocket配置规则好不好用以及最新的规则哪里有？"
 
 shadowrocket配节点推荐置规则好不好用以及最新的规则哪里有？
 在当前的移动网络环境下，合理利用 shadowrocket配置规则 进行流量管理已成为许多用户的刚需。"

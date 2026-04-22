@@ -11,7 +11,7 @@ tags:
   - "clash安卓手机配置链接免费地址"
   - "免费节点订阅2025"
 keywords: "免费订阅是什么意思,shadowrocketios免费节点,v2ray节点失效,如何设置节点,clash安卓手机配置链接免费地址,免费节点订阅2025"
-description: "本文详细介绍Clash覆写功能配置后还能用吗？连接超时与规则失效排查，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "Clash覆写功能配置后还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/机场订阅免费.png)

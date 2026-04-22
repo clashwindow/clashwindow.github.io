@@ -12,7 +12,7 @@ tags:
   - "免费clash订阅"
   - "节点分享每日"
 keywords: "免费clash,clash热点,免费节点,clash订阅,免费节点分享,免费clash订阅,节点分享每日"
-description: "如何实现手机Clash热点共享给iPad的稳定连接？
+description: ""如何实现手机Clash热点共享给iPad的稳定连接？"
 
 如何实现手机Clash热点共享给iPad的稳定连接？
 在日常工作学习中，我们常常遇到这样的场景手机上配置了网络代理工具，希望将其便捷地共享给身边的 iPad 或其他设备使用。实现手机C"

@@ -12,7 +12,7 @@ tags:
   - "免费节点clash手机链接"
   - "clashforandroid节点订阅"
 keywords: "毒药ssr机场推荐,sstap代理ip,v2rayn安卓版,clash最新免费订阅链接,一元机场VIP,免费节点clash手机链接,clashforandroid节点订阅"
-description: "本文深度评测clash for pc配置免费节点的方法现在还能用吗？，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash for pc配置免费节点的方法现在还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)

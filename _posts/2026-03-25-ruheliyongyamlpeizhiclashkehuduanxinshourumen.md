@@ -12,7 +12,7 @@ tags:
   - "每日节点"
   - "clash订阅链接"
 keywords: "shadowrock,订阅节点,clash节点免费,clash订阅,clash节点,每日节点,clash订阅链接"
-description: "如何利用 YAML 配置 Clash 客户端新手入门
+description: ""如何利用 YAML 配置 Clash 客户端新手入门"
 
 如何利用 YAML 配置 Clash 客户端新手入门
 Clash 作为一款功能强大的代理客户端，因其灵活的配置方式和跨平台特性，受到了众多用户的青睐。 clash怎么使用 yaml 进"

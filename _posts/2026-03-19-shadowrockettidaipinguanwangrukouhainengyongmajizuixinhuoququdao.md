@@ -12,7 +12,7 @@ tags:
   - "免费高速节点"
   - "免费机场"
 keywords: "clash for windows节点,免费订阅,clash for windows,免费订阅节点,高速节点,免费高速节点,免费机场"
-description: "shadowrocket替代品官网入口还能用吗及最新获取渠道
+description: ""shadowrocket替代品官网入口还能用吗及最新获取渠道"
 
 shadowrocket替代品官网入口还能用吗及最新获取渠道
 shadowrocket替代品官网入口配置失败与连接稳定性排查

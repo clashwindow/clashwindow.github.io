@@ -12,7 +12,7 @@ tags:
   - "机场节点"
   - "clash免费"
 keywords: "免费机场链接,free clash,免费代理,shadowrock,免费节点,机场节点,clash免费"
-description: "shadowrocket苹果现在还能用吗以及如何获取可靠节点订阅
+description: ""shadowrocket苹果现在还能用吗以及如何获取可靠节点订阅"
 
 shadowrocket苹果现在还能用吗以及如何获取可靠节点订阅
 在当前的移动网络环clash机场节点境下，许多 iOS 用户经常会问 shadowrocket苹果 是否依"

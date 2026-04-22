@@ -12,7 +12,7 @@ tags:
   - "免费节点"
   - "机场节点"
 keywords: "clash verge免费订阅,节点分享每日,clash代理,shadowrock,free node,免费节点,机场节点"
-description: "shadowrocket如何使用还能用吗？iOS客户端配置与订阅节点稳定性实测
+description: ""shadowrocket如何使用还能用吗？"
 
 shadowrocket如何使用还能用吗？iOS客户端配置与订阅节点稳定性实测
 在当前的移动网络环境下，Shadowrocket（通常被称为小火箭）依然是iO"

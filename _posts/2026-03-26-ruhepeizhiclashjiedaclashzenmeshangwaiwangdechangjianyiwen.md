@@ -12,7 +12,7 @@ tags:
   - "clash for window"
   - "clash for win"
 keywords: "shadowrock,clash怎么查看代理,免费节点,clash 订阅,节点订阅链接,clash for window,clash for win"
-description: "如何配置Clash？解答Clash怎么上外网的常见疑问
+description: ""如何配置Clash？"
 
 如何配置Clash？解答Clash怎么上外网的常见疑问
 在当今球化信息交流日益频繁的背景下，网络工具的合理配置使用显得尤omus重要。Clash作为一款广受欢迎的跨平台网络代理工具，"

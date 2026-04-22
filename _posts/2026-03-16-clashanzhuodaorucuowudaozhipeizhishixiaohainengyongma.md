@@ -12,7 +12,7 @@ tags:
   - "免费节点"
   - "clash git"
 keywords: "节点每日更新,clash免费,节点推荐,Clash for Windows,clash for an,免费节点,clash git"
-description: "clash 安卓 导入 错误 导致配置失效还能用吗？
+description: ""clash 安卓 导入 错误 导致配置失效还能用吗？"
 
 clash 安卓 导入 错误 导致配置失效还能用吗？
 clash 安卓 导入 错误 的常见诱因与配置校验逻辑

@@ -12,7 +12,7 @@ tags:
   - "clash window"
   - "freeclash"
 keywords: "免费vpn节点,clash windows,免费机场,clash for androi,clash for an,clash window,freeclash"
-description: "shadowrocket是正规的吗还能用吗以及在哪下载
+description: ""shadowrocket是正规的吗还能用吗以及在哪下载"
 
 shadowrocket是正规的clash免费机场吗还能用吗以及在哪下载
 shadowrocket是正规的吗有没有官方版本

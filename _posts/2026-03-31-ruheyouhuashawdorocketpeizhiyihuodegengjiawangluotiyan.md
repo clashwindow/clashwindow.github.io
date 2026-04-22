@@ -12,7 +12,7 @@ tags:
   - "免费节点"
   - "Clash for Windows"
 keywords: "clash机场,订阅节点,好的机场推荐,clash订阅,节点订阅链接,免费节点,Clash for Windows"
-description: "如何优化 shawdorocket 配置以获得更佳网络体验
+description: ""如何优化 shawdorocket 配置以获得更佳网络体验"
 
 ```html
 如何优化 shawdorocket 配置以获得更佳网络体验

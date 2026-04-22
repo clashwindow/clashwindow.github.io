@@ -11,7 +11,7 @@ tags:
   - "免费节点下载"
   - "clash代理配置免费url的功能"
 keywords: "免费机场试用,免费高速节点推荐,clash免费节点长风,小火箭续费网址,免费节点下载,clash代理配置免费url的功能"
-description: "本文详细介绍clash电脑打不开是设置问题还是订阅节点失效了？，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "clash电脑打不开是设置问题还是订阅节点失效了？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费clash节点.png)

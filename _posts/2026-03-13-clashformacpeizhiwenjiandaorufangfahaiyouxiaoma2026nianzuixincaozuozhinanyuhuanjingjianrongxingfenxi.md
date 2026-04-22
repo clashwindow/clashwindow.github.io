@@ -10,7 +10,7 @@ tags:
   - "两元店节点订阅"
   - "clashURL免费"
 keywords: "Clash充值网站,2025年免费节点分享,clash冲上云霄,两元店节点订阅,clashURL免费"
-description: "本文详细解答clash for mac配置文件导入方法还有效吗？2026年最新操作指南与环境兼容性分析，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash for mac配置文件导入方法还有效吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/最新机场推荐.png)

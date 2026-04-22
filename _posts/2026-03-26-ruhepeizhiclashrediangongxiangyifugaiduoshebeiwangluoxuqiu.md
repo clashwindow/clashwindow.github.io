@@ -12,7 +12,7 @@ tags:
   - "clash共享"
   - "clashnode"
 keywords: "机场推荐免费节点,机场推荐免费,clash节点,clash共享热点,免费节点,clash共享,clashnode"
-description: "如何配置clash热点共享以覆盖多设备网络需求？
+description: ""如何配置clash热点共享以覆盖多设备网络需求？"
 
 如何配置clash热点共享以覆盖多设备网络需求？
 在日常工作和生活中，我们常常遇到这样的场景一台设备已经配置好了网络环境，但其他设备如笔记本电脑、平板或备用手机也需要接入。逐一为每台设备进"

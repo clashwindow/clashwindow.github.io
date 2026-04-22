@@ -12,7 +12,7 @@ tags:
   - "节点连接失败"
   - "shadowsocket"
 keywords: "免费clash订阅,订阅节点,Clash for Windows,clash for windows使用教程,shadowsocks,节点连接失败,shadowsocket"
-description: "shadowsocks nz 还能用吗？新西兰节点实际连接质量与选择建议
+description: ""shadowsocks nz 还能用吗？"
 
 shadowsocks nz 还能用吗？新西兰节点实际连接质量与选择建议
 sclash订阅节点hadowsocks nz 节点连接失败及配置排查方法

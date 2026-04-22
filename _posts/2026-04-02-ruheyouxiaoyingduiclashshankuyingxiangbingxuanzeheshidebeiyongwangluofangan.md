@@ -12,7 +12,7 @@ tags:
   - "clash免费配置链接"
   - "Clash Verge"
 keywords: "ssr节点,免费节点,clash免费配置,clash设置,Clash Verge Rev,clash免费配置链接,Clash Verge"
-description: "如何有效应对 Clash 删库影响并选择合适的备用网络方案？
+description: ""如何有效应对 Clash 删库影响并选择合适的备用网络方案？"
 
 如何有效应对 Clash 删库影响并选择合适的备用网络方案？
 近期，广受欢迎的网络工具 Clash 项目核心仓库的归档引发了广泛关注，这一事件直接导致了部分客户端无法继续更新。"

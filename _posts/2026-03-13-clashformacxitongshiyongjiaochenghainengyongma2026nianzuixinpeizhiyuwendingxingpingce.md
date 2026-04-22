@@ -10,7 +10,7 @@ tags:
   - "节点订阅链接生成软件"
   - "clash小猫官网正版下载安卓"
 keywords: "免费机场收集clash,免费订阅节点subscribe,节点推荐购买,节点订阅链接生成软件,clash小猫官网正版下载安卓"
-description: "本文深度评测clash for mac系统使用教程还能用吗？2026年最新配置与稳定性评测，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash for mac系统使用教程还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)

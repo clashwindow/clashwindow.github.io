@@ -12,7 +12,7 @@ tags:
   - "外网小火箭"
   - "sstap订阅购买"
 keywords: "v2ray节点失效,免费节点服务器流量订阅地址,2025免费机场,ClashofClans官网,shadowrocket节点免费,外网小火箭,sstap订阅购买"
-description: "本文详细介绍clash官方安装现在哪里有？还能用吗？，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "clash官方安装现在哪里有？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/最新机场推荐.png)

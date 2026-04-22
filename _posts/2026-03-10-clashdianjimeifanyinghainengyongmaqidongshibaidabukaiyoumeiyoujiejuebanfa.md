@@ -11,7 +11,7 @@ tags:
   - "订阅节点clash"
   - "clash怎么绕过谷歌锁"
 keywords: "sstap订阅购买,小火箭二维码分享,1元飞机场官网,订阅节点有使用限制吗,订阅节点clash,clash怎么绕过谷歌锁"
-description: "本文详细介绍Clash点击没反应还能用吗？启动失败打不开有没有解决办法，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "Clash点击没反应还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点购买.png)

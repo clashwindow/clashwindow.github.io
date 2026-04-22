@@ -12,7 +12,7 @@ tags:
   - "免费订阅"
   - "免费代理"
 keywords: "免费高速节点,clashnode,机场节点,clash免费代理,免费网络节点,免费订阅,免费代理"
-description: "shadowrocket正下载后如何验证节点是否可用
+description: ""shadowrocket正下载后如何验证节点是否可用"
 
 shadowrocket正下载后如何验证节点是否可用
 shadowrocket正下载安装后的全局路由模式配置

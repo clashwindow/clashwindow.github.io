@@ -12,7 +12,7 @@ tags:
   - "外墙专用梯子"
   - "clash网页版登录"
 keywords: "免费ssr节点分享github,免费节点分享2025技术分享,clash订阅网站,clash免费订阅链接,节点免费获取,外墙专用梯子,clash网页版登录"
-description: "本文详细解答clash for mac如何导入节点订阅还能用吗？针对不同网络环境的配置实测，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash for mac如何导入节点订阅还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅地址.png)

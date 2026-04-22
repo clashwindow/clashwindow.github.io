@@ -12,7 +12,7 @@ tags:
   - "clash链接"
   - "clash免费节点"
 keywords: "节点订阅,vpn免费节点,clash 代理,最新节点,clash 订阅,clash链接,clash免费节点"
-description: "shadowroket最新节点还能用吗及在哪里有稳定链接？
+description: ""shadowroket最新节点还能用吗及在哪里有稳定链接？"
 
 shadowroket最新节点还能用吗及在哪里有稳定链接？
 shadowroket最新节点配置是否正确对连接效率的影响

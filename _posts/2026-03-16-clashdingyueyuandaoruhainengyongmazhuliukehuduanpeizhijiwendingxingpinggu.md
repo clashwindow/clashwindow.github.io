@@ -12,7 +12,7 @@ tags:
   - "免费订阅"
   - "clash verge免费订阅"
 keywords: "clash免费,Clash for Windows,clash免费节点,免费机场,免费节点,免费订阅,clash verge免费订阅"
-description: "Clash 订阅源导入还能用吗？主流客户端配置及稳定性评估
+description: ""Clash 订阅源导入还能用吗？"
 
 Clash 订阅源导入还能用吗？主流客户端配置及稳定性评估
 订阅源导入报错及 YAML 配置文件解析失败的排查方法

@@ -12,7 +12,7 @@ tags:
   - "shadowrock"
   - "clash免费"
 keywords: "clashnode,clash github,Clash免费节点,免费机场订阅,节点订阅,shadowrock,clash免费"
-description: "shadowrocket软件现在还能用吗及最新版本下载安装指南
+description: ""shadowrocket软件现在还能用吗及最新版本下载安装指南"
 
 shadowrocket软件现在还能用吗及最新版本下载安装指南
 对于许多需要处理跨境协作或访问全球学术资源的个人用户而言，shadowrocket软件（常被称为“小火箭”）一"

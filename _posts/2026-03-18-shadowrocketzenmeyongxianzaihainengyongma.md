@@ -12,7 +12,7 @@ tags:
   - "clash for windows"
   - "免费节点"
 keywords: "clash for windows免费节点,clash for win,clash verge订阅,clash for,Clash for Windows,clash for windows,免费节点"
-description: "Shadowrocket怎么用现在还能用吗
+description: ""Shadowrocket怎么用现在还能用吗"
 
 Shadowrocket怎么用现在还能用吗
 在当前的移动互联网环境下，Shadowrocket（通常被称为“小火箭”）作为一款基于规则的网络代理工具，在iOS平台依然保持着极高的活跃度。许多用户"

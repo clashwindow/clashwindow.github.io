@@ -11,7 +11,7 @@ tags:
   - "clash最新配置文件"
   - "v2ray订阅更新"
 keywords: "分享节点网站推荐,免费接口大全,clash猫怎么使用,安卓clash官网入口,clash最新配置文件,v2ray订阅更新"
-description: "本文详细解答clash规则模式好不好用以及不同订阅链接配置会影响网速吗？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash规则模式好不好用以及不同订阅链接配置会影响网速吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash免费订阅.png)

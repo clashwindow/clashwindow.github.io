@@ -12,7 +12,7 @@ tags:
   - "clash 免费节点"
   - "付费订阅服务"
 keywords: "clash for win,clash for,Clash for Windows,clash订阅节点,clash免费,clash 免费节点,付费订阅服务"
-description: "shadowrocket有效账号还能用吗？2026最新可用性评测与获取指南
+description: ""shadowrocket有效账号还能用吗？"
 
 shadowrocket有效账号还能用吗？2024最新可用性评测与获取指南
 shadowrocket有效账号配置失败与连接异常排查

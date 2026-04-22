@@ -12,7 +12,7 @@ tags:
   - "免费机场节点"
   - "clash for"
 keywords: "clash of window,Clash for Windows,机场节点,节点订阅,shadowsocks,免费机场节点,clash for"
-description: "shadowsocksr for 各平台客户端还能用吗及最新环境配置建议
+description: ""shadowsocksr for 各平台客户端还能用吗及最新环境配置建议"
 
 shadowsocksr for 各平台客户端还能用吗及最新环境配置建议
 shadowsocksr for Windows 环境下的稳定性演进

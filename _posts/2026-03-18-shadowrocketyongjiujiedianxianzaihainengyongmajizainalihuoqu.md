@@ -12,7 +12,7 @@ tags:
   - "freeclash"
   - "节点订阅链接"
 keywords: "clash for windows免费节点,clash for win,clash地址,clash for,clash for windows,freeclash,节点订阅链接"
-description: "shadowrocket永久节点现在还能用吗及在哪里获取
+description: ""shadowrocket永久节点现在还能用吗及在哪里获取"
 
 shadowrocket永久节点现在还能用吗及在哪里获取
 免费分享的shadowrocket永久节点是否真实存在

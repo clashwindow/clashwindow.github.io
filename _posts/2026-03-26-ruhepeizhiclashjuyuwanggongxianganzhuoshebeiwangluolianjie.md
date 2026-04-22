@@ -12,7 +12,7 @@ tags:
   - "clash免费链接"
   - "shadowrock"
 keywords: "小火箭shadow,节点分享,clash免费,免费节点推荐,clash局域网共享安卓,clash免费链接,shadowrock"
-description: "如何配置clash局域网共享安卓设备网络连接？
+description: ""如何配置clash局域网共享安卓设备网络连接？"
 
 如何配置clash火箭代理局域网共享安卓设备网络连接？
 在日常工作学习中，我们常常需要在多个设备间实现统一的网络访问环境。特别是当主设备已经配置好稳定的网络代理服务时，如何将其共享给局域网内"

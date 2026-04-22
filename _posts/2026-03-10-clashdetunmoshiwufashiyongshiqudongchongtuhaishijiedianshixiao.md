@@ -12,7 +12,7 @@ tags:
   - "clash加速购买"
   - "clash续费官网"
 keywords: "节点购买网站,节点购买订阅,clash节点订阅购买使用教程,clash代理配置,10元机场节点推荐,clash加速购买,clash续费官网"
-description: "本文深度评测clash的tun模式无法使用是驱动冲突还是节点失效？，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash的tun模式无法使用是驱动冲突还是节点失效？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)

@@ -12,7 +12,7 @@ tags:
   - "节点订阅链接"
   - "clash代理"
 keywords: "怎么添加节点订阅链接,clash verge免费订阅,Clash 配置文件,Clash for Windows,免费机场,节点订阅链接,clash代理"
-description: "shadowrocket怎么添加节点还能用吗及最新手动与订阅配置方案
+description: ""shadowrocket怎么添加节点还能用吗及最新手动与订阅配置方案"
 
 shadowrocket怎么添加节点还能用吗及最新手动与订阅配置方案
 shadowrocket怎么添加节点的手动配置步骤与协议校验

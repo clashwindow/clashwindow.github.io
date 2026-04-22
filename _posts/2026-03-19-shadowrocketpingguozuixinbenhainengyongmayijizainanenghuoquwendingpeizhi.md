@@ -12,7 +12,7 @@ tags:
   - "免费节点"
   - "clash for"
 keywords: "clash链接,clash node,节点每日更新,免费公益节点,shadowrock,免费节点,clash for"
-description: "shadowrocket苹果最新本还能用吗以及在哪能获取稳定配置
+description: ""shadowrocket苹果最新本还能用吗以及在哪能获取稳定配置"
 
 shadowrocket苹果最新本还能用吗以及在哪能获取稳定配置
 针对广大iOS用户而言，寻找“shadowrocket苹果最新本”的稳定获取渠道与配置方法始终是网络优化的"

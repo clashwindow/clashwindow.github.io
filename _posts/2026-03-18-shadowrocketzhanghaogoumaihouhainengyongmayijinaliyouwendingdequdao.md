@@ -12,7 +12,7 @@ tags:
   - "clash for andr"
   - "clash免费链接"
 keywords: "clash verge免费订阅,clash for,Clash for Windows,clash免费,freeclash,clash for andr,clash免费链接"
-description: "shadowrocket账号购买后还能用吗以及哪里有稳定的渠道
+description: ""shadowrocket账号购买后还能用吗以及哪里有稳定的渠道"
 
 shadowrocket账号购买后还能用吗以及哪里有稳定的渠道
 shadowrocket账号购买后的客户端环境配置与稳定性校验

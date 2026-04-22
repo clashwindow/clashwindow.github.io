@@ -10,7 +10,7 @@ tags:
   - "sstap节点获取"
   - "clash苹果ios安装包"
 keywords: "免费机场收集网站,clash订阅地址在哪,农夫山泉clash节点,sstap节点获取,clash苹果ios安装包"
-description: "本文深度评测clash关闭连接后还能正常上网吗？，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
+description: "本文深度评测clash关闭连接后还能正常上网吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐购买.png)

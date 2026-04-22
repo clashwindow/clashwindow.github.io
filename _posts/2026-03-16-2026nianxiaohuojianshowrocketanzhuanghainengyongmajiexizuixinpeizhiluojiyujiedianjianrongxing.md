@@ -12,7 +12,7 @@ tags:
   - "vpn免费节点"
   - "机场节点"
 keywords: "节点每日更新,代理节点免费,免费节点,节点免费,clash of windows,vpn免费节点,机场节点"
-description: "2026年小火箭showrocket安装还能用吗？解析最新配置逻辑与节点兼容性
+description: ""2026年小火箭showrocket安装还能用吗？"
 
 2024年小火箭showrocket安装还能用吗？解析最新配置逻辑与节点兼容性
 小火箭showrocket安装后的核心协议选择与底层分流机制

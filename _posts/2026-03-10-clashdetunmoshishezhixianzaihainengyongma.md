@@ -12,7 +12,7 @@ tags:
   - "免费telegeram代理节点怎么用"
   - "鳄鱼机场clash最新版本更新内容"
 keywords: "苹果clash怎么下载,小火箭免费地址,clashverge全部显示error,clash蓝奏云,免费机场软件,免费telegeram代理节点怎么用,鳄鱼机场clash最新版本更新内容"
-description: "本文详细介绍clash的tun模式设置现在还能用吗？，涵盖 Shadowrocket（小火箭）下载安装、节点配置与使用教程，提供最新可用的小火箭节点订阅地址，帮助 iOS 用户快速实现科学上网。"
+description: "clash的tun模式设置现在还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费clash节点.png)

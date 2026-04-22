@@ -11,7 +11,7 @@ tags:
   - "clash的规则直连和全局"
   - "v2rayn客户端"
 keywords: "节点推荐订阅,clash网页版使用,clash订阅链接分享,免费节点clash手机链接,clash的规则直连和全局,v2rayn客户端"
-description: "本文详细解答clash官方安全下载站现在还能用吗？哪里有真正的客户端获取渠道？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash官方安全下载站现在还能用吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)

@@ -12,7 +12,7 @@ tags:
   - "clash免费订阅"
   - "小火箭节点共享"
 keywords: "clash for windows,clash for win,小火箭节点,clash免费,免费机场,clash免费订阅,小火箭节点共享"
-description: "如何利用 clash免费订阅平台并配置客户端？
+description: ""如何利用 clash免费订阅平台并配置客户端？"
 
 如何利用 clash免费订阅平台并配置客户端？
 在当前复杂的网络环境中，许多技术爱好者和专业人士都倾向于使用 Clash 等工具来管理和网络连接。相较于手动逐一添加节点，通过订阅链接一次性导"

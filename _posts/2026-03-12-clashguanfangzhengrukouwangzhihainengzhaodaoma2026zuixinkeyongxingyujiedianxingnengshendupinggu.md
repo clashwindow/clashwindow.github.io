@@ -10,7 +10,7 @@ tags:
   - "免费SSR节点分享4月22日"
   - "clash官方网站"
 keywords: "免费外网节点,免费海外节点加速免费使用,ssr节点更新,免费SSR节点分享4月22日,clash官方网站"
-description: "本文详细解答clash官方正入口网址还能找到吗？2026最新可用性与节点性能深度评估，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash官方正入口网址还能找到吗？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅推荐.png)

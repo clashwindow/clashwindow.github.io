@@ -10,7 +10,7 @@ tags:
   - "shadowbroken免费节点"
   - "v2rayn客户端"
 keywords: "Clash免费配置节点,免费节点分享每日更新,v2ray免费节点米贝,shadowbroken免费节点,v2rayn客户端"
-description: "本文详细解答clash for macos最新版下载链接现在哪里有？，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
+description: "本文详细解答clash for macos最新版下载链接现在哪里有？"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅地址.png)
