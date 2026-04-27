@@ -70,7 +70,7 @@ layout: default
         <article class="group bg-white rounded-[2rem] shadow-sm hover:shadow-2xl transition-all duration-700 overflow-hidden flex flex-col border border-gray-100/50">
           <div class="relative h-72 overflow-hidden">
             {% if post.image %}
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000">
             {% else %}
               <div class="w-full h-full bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 flex items-center justify-center group-hover:scale-105 transition-transform duration-1000">
                 <svg class="w-24 h-24 text-blue-100" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -108,7 +108,7 @@ layout: default
             
             <h3 class="text-2xl md:text-3xl font-black mb-6 leading-tight">
               <a href="{{ post.url | relative_url }}" class="text-gray-900 hover:text-blue-600 transition-colors duration-300 block">
-                {{ post.title }}
+                {{ post.title | escape }}
               </a>
             </h3>
             
@@ -175,7 +175,7 @@ layout: default
           <a href="{{ post.url | relative_url }}" class="flex gap-5 group">
             <div class="w-20 h-20 flex-shrink-0 rounded-2xl overflow-hidden bg-gray-100 border border-gray-50">
               {% if post.image %}
-                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
+                <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
               {% else %}
                 <div class="w-full h-full flex items-center justify-center text-blue-200">
                   <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
@@ -183,7 +183,7 @@ layout: default
               {% endif %}
             </div>
             <div class="flex flex-col justify-center min-w-0">
-              <h4 class="text-sm font-black leading-snug mb-2 text-gray-900 group-hover:text-blue-600 transition-colors line-clamp-2">{{ post.title }}</h4>
+              <h4 class="text-sm font-black leading-snug mb-2 text-gray-900 group-hover:text-blue-600 transition-colors line-clamp-2">{{ post.title | escape }}</h4>
               <span class="text-[10px] text-gray-400 font-black uppercase tracking-widest">{{ post.date | date: "%Y / %m / %d" }}</span>
             </div>
           </a>
