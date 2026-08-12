@@ -18,7 +18,7 @@ description: ""如何寻找可靠的 clash猫下载渠道并完成基础配置�
 在当今数字化时代，网络工具在日常工作与学习中扮演着越来越重要的角色。Clash 作为一款功能强大的网络管理工具，因其灵活性和丰富的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何寻找可靠的 clash猫下载渠道并完成基础配置？</h1>
 

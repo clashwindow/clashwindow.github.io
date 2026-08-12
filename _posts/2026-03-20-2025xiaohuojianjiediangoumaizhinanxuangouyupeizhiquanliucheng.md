@@ -18,7 +18,7 @@ description: ""2025小火箭节点购买指南：选购与配置全流程"
 在2025年，科学上网需clash免费配置链接求日益增长，2025小火箭节点购买指南成为许多用户关注的焦点。小火箭（Shadowrocket）作为"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>2025小火箭节点购买指南：选购与配置全流程</h1>
 

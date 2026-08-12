@@ -18,7 +18,7 @@ Instagram 无法打开解决方法：多角度尝试与实用建议
 许多用户在日常使用中，会遇到 Instagram 无法打开的情况。这不仅影响了社交媒体的使用体验，也可能带来一些困扰。"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Instagram 无法打开解决方法：多角度尝试与实用建议</h1>
 

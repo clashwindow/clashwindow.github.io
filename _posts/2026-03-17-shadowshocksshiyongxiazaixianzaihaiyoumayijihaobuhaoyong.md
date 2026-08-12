@@ -18,7 +18,7 @@ shadowshocks试用下载现在还有吗以及好不好用？
 在当前的网络环境下，寻找稳定且高效clash免费节点推荐的网络中继工具已成为许多技术爱好者和跨境从业者的刚需。shadow"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowshocks试用下载现在还有吗以及好不好用？</h1>
 

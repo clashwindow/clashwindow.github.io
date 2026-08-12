@@ -18,7 +18,7 @@ description: ""如何使用 Clash 在线订阅转换工具您的网络体验？"
 在复杂的网络环境中，许多用户拥有来自不同来源的多个订阅链接，它们的格式各异，节点繁多，直接管理起来既耗时又低效。此时，一个功能强大"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何使用 Clash 在线订阅转换工具您的网络体验？</h1>
 

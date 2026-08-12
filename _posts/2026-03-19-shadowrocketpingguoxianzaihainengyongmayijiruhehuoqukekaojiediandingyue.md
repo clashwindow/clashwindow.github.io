@@ -18,7 +18,7 @@ shadowrocket苹果现在还能用吗以及如何获取可靠节点订阅
 在当前的移动网络环clash机场节点境下，许多 iOS 用户经常会问 shadowrocket苹果 是否依"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket苹果现在还能用吗以及如何获取可靠节点订阅</h1>
 

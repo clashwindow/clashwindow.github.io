@@ -19,7 +19,7 @@ shadowrocket稳定下载后的全局路由配置是否影响连接稳定性
 在完成 shadowrocket稳定下载 并成功安装后，许"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket稳定下载哪里有以及目前是否可用</h1>
 

@@ -13,7 +13,7 @@ keywords: "clash共用查看浏览记录,小火箭懒人配置在哪找,clash最
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## 10元以下的国内机场订阅靠谱吗？晚高峰老掉线到底值不值得买
 

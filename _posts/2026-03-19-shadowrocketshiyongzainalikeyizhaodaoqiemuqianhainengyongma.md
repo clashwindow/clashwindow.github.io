@@ -18,7 +18,7 @@ Shadowrocket试用在哪里可以找到且目前还能用吗？
 在当前的移动互联网环境下，寻找稳定且高效的网络调试工具已成为许多技术爱好者的刚需。Shadowrocket（俗称小火箭"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Shadowrocket试用在哪里可以找到且目前还能用吗？</h1>
 

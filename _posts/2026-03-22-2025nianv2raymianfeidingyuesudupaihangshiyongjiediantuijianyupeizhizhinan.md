@@ -18,7 +18,7 @@ description: ""2025年v2ray免费订阅速度排行：实用节点推荐与配�
 在当下网络环境日益复杂的背景下，v2ray免费订阅速度排行成为许多用户关注的焦点。V2Ray作为一款高效的代理工具"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年v2ray免费订阅速度排行：实用节点推荐与配置指南</h1>
 

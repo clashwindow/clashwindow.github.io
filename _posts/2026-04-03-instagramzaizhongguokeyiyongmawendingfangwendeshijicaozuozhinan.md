@@ -18,7 +18,7 @@ Instagram在中国可以用吗？稳定访问的实际操作指南
 许多用户在互联网冲浪时，都会遇到一个普遍的疑问：Instagram在中国可以用吗？作为一个全球知名的社交媒体平台，Inst"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Instagram在中国可以用吗？稳定访问的实际操作指南</h1>
 

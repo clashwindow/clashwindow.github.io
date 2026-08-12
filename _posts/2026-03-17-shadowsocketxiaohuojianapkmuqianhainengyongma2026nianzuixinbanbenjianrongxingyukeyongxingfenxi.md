@@ -18,7 +18,7 @@ shadowsocket小火箭apk 目前还能用吗？2024年最新版本兼容性与可
 shadowsocket小火箭apk 配置参数对连接稳定性"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowsocket小火箭apk 目前还能用吗？2026年最新版本兼容性与可用性分析</h1>
 

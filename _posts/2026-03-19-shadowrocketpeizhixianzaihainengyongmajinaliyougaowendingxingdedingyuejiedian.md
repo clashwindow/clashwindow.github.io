@@ -18,7 +18,7 @@ shadowrocket配置现在还能用吗及哪里有高稳定性的订阅节点
 在当前复杂的网络环境下，许多用户在尝试优化移动端访问效率时clash verge订阅，首要关注的问题往"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>shadowrocket配置现在还能用吗及哪里有高稳定性的订阅节点</h1>
 

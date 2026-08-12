@@ -18,7 +18,7 @@ description: ""2025年clash免费节点服务器推荐：高效科学上网配�
 在数字化时代，clash免费节点服务器推荐已成为许多用户关注的焦点。作为一名长期使用代理工具的资深爱好者，我发现选"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>2025年clash免费节点服务器推荐：高效科学上网配置指南</h1>
 

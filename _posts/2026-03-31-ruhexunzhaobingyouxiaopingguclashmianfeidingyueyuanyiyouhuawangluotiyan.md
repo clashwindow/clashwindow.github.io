@@ -18,7 +18,7 @@ description: ""如何寻找并有效评估clash免费订阅源以优化网络体
 在当前复杂的网络环境下，许多用户选择使用 Clash 等工具来优化和管理自己的网络连接。而获取稳定、高效的节点是这一"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何寻找并有效评估clash免费订阅源以优化网络体验？</h1>
 

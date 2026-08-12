@@ -18,7 +18,7 @@ Android免费机场推荐：稳定节点分享与配置指南
 在当今数字化时代，Android免费机场推荐：稳定节点分享已成为许多用户关注的焦点。选择一款可靠的代理工具，能帮助你畅享全球内容，而无"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Android免费机场推荐：稳定节点分享与配置指南</h1>
 

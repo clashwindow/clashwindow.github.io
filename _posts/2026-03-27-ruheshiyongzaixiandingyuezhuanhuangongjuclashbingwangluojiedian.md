@@ -18,7 +18,7 @@ description: ""如何使用在线订阅转换工具clash并网络节点？"
 在当前复杂的网络环境下，许多用户为了工作学习效率，会使用多个网络服务。这些服务通常以订阅链接的形式提供，格式各异，如 SSR、Trojan 或"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash节点推荐](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何使用在线订阅转换工具clash并网络节点？</h1>
 

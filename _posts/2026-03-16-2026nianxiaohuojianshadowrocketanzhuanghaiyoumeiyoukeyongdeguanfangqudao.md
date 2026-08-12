@@ -19,7 +19,7 @@ description: ""2026年小火箭shadowrocket安装还有没有可用的官方渠�
 在完成小火箭shadowrocke"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>2026年小火箭shadowrocket安装还有没有可用的官方渠道？</h1>
 

@@ -14,7 +14,7 @@ keywords: "clash订阅转换,clash机场免费订阅,樱花猫安卓版,sstap免
 description: "本文深度评测clash for pc怎么添加订阅链接及配置失效排查指南，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash 推荐图](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 ## clash for pc怎么添加订阅链接及配置失效排查指南
 

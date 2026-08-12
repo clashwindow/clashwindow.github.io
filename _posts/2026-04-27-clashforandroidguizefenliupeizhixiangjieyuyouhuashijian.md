@@ -18,7 +18,7 @@ Clash for Android 规则分流配置详解与优化实践
 在当今网络环境日益复杂的背景下，Clash for Android 规则分流配置已成为许多用户优化科学上网体验"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Clash for Android 规则分流配置详解与优化实践</h1>
 

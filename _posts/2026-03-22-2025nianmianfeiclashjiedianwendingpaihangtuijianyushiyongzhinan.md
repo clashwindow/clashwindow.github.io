@@ -18,7 +18,7 @@ description: ""2025年免费Clash节点稳定排行推荐与实用指南"
 在当今数字化时代，免费Clash节点稳定排行已成为许多用户关注的焦点。Clash作为一款高效的代理工具，能够帮助用户实现跨平台客户端的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年免费Clash节点稳定排行推荐与实用指南</h1>
 

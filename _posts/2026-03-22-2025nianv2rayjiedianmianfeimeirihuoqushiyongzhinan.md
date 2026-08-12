@@ -19,7 +19,7 @@ description: ""2025年v2ray节点免费每日获取实用指南"
 想要实现v2ray节点免费每日获取，首先需要配置合适的客户端工具。常用的跨平台客户端包括Clash、Shadowroclash f"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年v2ray节点免费每日获取实用指南</h1>
 

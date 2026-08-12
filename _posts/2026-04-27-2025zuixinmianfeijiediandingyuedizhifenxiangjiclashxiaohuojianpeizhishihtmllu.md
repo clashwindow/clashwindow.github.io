@@ -18,7 +18,7 @@ description: "2025最新免费节点订阅地址分享及Clash小```火箭配置
 >随着免费科学节点订阅地址分享：上网需求的增长，稳定Cl免费节点订阅地址分享ash节点成为"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025最新免费节点订阅地址分享及Clash小```火箭配置实html录</h1>
 

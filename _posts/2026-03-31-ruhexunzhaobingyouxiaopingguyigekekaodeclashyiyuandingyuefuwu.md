@@ -18,7 +18,7 @@ description: ""如何寻找并有效评估一个可靠的clash一元订阅服务
 在当前复杂的网络环境中，shadowrocket免费节点许多用户寻求经济高效的解决方案来优化其连接体验。其中，clash一元订阅作"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash节点推荐](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何寻找并有效评估一个可靠的clash一元订阅服务？</h1>
 

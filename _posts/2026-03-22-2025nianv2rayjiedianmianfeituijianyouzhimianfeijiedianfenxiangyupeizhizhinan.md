@@ -18,7 +18,7 @@ description: ""2025年v2ray节点免费推荐：优质免费节点分享与配�
 在当今网络环境下，寻找可靠的v2ray节点免费推荐已成为许多用户关注的焦点。这些节点不仅能提供稳定的科学上网体验，"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>2025年v2ray节点免费推荐：优质免费节点分享与配置指南</h1>
 

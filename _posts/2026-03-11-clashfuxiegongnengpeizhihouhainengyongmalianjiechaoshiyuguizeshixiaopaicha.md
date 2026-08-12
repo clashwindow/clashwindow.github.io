@@ -14,7 +14,7 @@ keywords: "免费订阅是什么意思,shadowrocketios免费节点,v2ray节点�
 description: "Clash覆写功能配置后还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场订阅免费.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%85%8D%E8%B4%B9.png)
 
 ## Clash覆写功能配置后还能用吗？连接超时与规则失效排查
 

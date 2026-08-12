@@ -18,7 +18,7 @@ description: ""如何配置showrocket共享账号以网络体验？"
 在当今复杂的网络环境中，许多技术爱好者和专业人士需要借助特定工具来评估和网络连接质量。其中，通过获取和配置 showrocket共享账号 "
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何配置showrocket共享账号以网络体验？</h1>
 

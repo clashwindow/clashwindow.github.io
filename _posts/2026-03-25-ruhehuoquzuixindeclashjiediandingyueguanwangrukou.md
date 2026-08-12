@@ -18,7 +18,7 @@ description: ""如何获取最新的Clash节点订阅官网入口？"
 在当前复杂的网络环境中，许多用户希望通过技术工具自身的网络连接体验。Clash作为一款广受欢迎的客户端工具，其核心在于配置高质量的节点订阅服务。然而，"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>如何获取最新的Clash节点订阅官网入口？</h1>
 

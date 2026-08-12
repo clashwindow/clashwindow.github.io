@@ -18,7 +18,7 @@ Instagram打不开？可能是这些原因导致，这样解决！
 最近，不少用户反映遇到了 Instagram打不开 的情况clash配置文件，无论是在手机上还是电脑上，都无法正常访问。这"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Instagram打不开？可能是这些原因导致，这样解决！</h1>
 

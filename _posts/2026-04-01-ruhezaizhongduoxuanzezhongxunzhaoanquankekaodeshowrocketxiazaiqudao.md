@@ -18,7 +18,7 @@ description: ""如何在众多选择中寻找安全可靠的 showrocket下载渠
 随着全球网络环境的日益复杂，许多用户对于安全、高效且稳定的网络连接工具需求日益增长。Shadowrocket，"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何在众多选择中寻找安全可靠的 showrocket下载渠道？</h1>
 

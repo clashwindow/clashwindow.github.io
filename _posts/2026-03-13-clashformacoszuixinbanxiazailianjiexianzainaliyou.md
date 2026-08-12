@@ -13,7 +13,7 @@ keywords: "Clash免费配置节点,免费节点分享每日更新,v2ray免费节
 description: "本文详细解答clash for macos最新版下载链接现在哪里有？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash 推荐图](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 ## clash for macos最新版下载链接现在哪里有？
 

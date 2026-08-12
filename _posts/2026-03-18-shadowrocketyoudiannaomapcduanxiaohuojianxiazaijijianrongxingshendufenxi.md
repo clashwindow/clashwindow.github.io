@@ -18,7 +18,7 @@ Shadowrocket有电脑吗？PC端小火箭下载及兼容性深度分析
 在当前的跨境网络访问与调试领域，Shadowrocket（常被称为“小火箭”）凭借其简洁的界面和强大的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Shadowrocket有电脑吗？PC端小火箭下载及兼容性深度分析</h1>
 

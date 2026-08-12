@@ -18,7 +18,7 @@ description: ""如何有效应对 Clash 仪表盘崩溃及网络配置优化方�
 在使用网络工具的过程中，稳定性是至关重要的体验环节。许多用户都曾遇到过 clash仪表盘崩溃 的clash共享热点问"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何有效应对 Clash 仪表盘崩溃及网络配置优化方法</h1>
 

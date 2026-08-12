@@ -18,7 +18,7 @@ description: ""如何有效应对 Clash 删库影响并选择合适的备用网�
 近期，广受欢迎的网络工具 Clash 项目核心仓库的归档引发了广泛关注，这一事件直接导致了部分客户端无法继续更新。"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何有效应对 Clash 删库影响并选择合适的备用网络方案？</h1>
 

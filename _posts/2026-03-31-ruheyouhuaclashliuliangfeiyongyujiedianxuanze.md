@@ -20,7 +20,7 @@ Clash 客户端基础配置示例
 开始使用 Clash 之前，我们需要进行一些基础的客户端配置。首先，确保您已下载并安装了适合您操作系统"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何优化 Clash 流量费用与节点选择？</h1>
 

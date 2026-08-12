@@ -18,7 +18,7 @@ Instagram 直播怎么回放？官方与第三方方案探索
 在社交媒体日益普及的今天，Instagram 直播已成为许多用户与粉丝互动、分享实时生活的重要方式。然而，很多用户在观看完精彩"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Instagram 直播怎么回放？官方与第三方方案探索</h1>
 

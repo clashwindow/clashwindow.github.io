@@ -18,7 +18,7 @@ description: ""如何应对：用了Clash之后没网了的常见原因与解决
 许多用户在使用代理工具，特别是像Clash这类功能强大的客户端时，可能会遇到一个令人困扰的问题：用了Clash之后没网了。"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何应对：用了Clash之后没网了的常见原因与解决之道？</h1>
 

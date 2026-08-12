@@ -18,7 +18,7 @@ Clash for Android 游戏加速设置指南：优化网络提升游戏体验
 在当下快节奏的移动游戏时代，网络延迟往往成为玩家最大的痛点。Clash for And"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Clash for Android 游戏加速设置指南：优化网络提升游戏体验</h1>
 

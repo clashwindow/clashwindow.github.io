@@ -18,7 +18,7 @@ description: ""2025年v2ray免费节点2525推荐：高效稳定科学上网选�
 在当下网络环境日益复杂的2025年，选择一款可靠的代理工具已成为许多用户的刚需。其中，v2ray免费节点252"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年v2ray免费节点2525推荐：高效稳定科学上网选择</h1>
 

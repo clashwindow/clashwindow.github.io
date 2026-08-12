@@ -19,7 +19,7 @@ shadowrocket下载安装最新后的环境配置与系统兼容性分析
 在完成shadowrocket下载安装最新版"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket下载安装最新版本目前还可以正常使用吗？</h1>
 

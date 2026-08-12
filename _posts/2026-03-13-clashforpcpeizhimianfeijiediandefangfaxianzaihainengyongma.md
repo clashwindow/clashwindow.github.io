@@ -15,7 +15,7 @@ keywords: "毒药ssr机场推荐,sstap代理ip,v2rayn安卓版,clash最新免费
 description: "本文深度评测clash for pc配置免费节点的方法现在还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash 推荐图](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash for pc配置免费节点的方法现在还能用吗？
 

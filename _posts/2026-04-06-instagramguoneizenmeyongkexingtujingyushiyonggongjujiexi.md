@@ -18,7 +18,7 @@ Instagram 国内怎么用：可行途径与实用工具解析
 许多用户在日常生活中，尤其是对国外文化、潮流资讯、摄影艺术等感兴趣的朋友，会经常遇到一个问题：Instagram 国内怎么用？"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Instagram 国内怎么用：可行途径与实用工具解析</h1>
 

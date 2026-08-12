@@ -18,7 +18,7 @@ shadowrocket如何使用还能用吗？iOS客户端配置与订阅节点稳定�
 在当前的移动网络环境下，Shadowrocket（通常被称为小火箭）依然是iO"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>shadowrocket如何使用还能用吗？iOS客户端配置与订阅节点稳定性实测</h1>
 

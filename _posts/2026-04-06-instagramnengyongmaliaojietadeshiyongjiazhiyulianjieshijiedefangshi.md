@@ -18,7 +18,7 @@ Instagram 能用吗？了解它的实用价值与连接世界的方式
 在信息爆炸的时代，我们常常听说各种海外应用，其中 Instagram 凭借其独特的视觉分享方式，在全球范围内拥有庞"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Instagram 能用吗？了解它的实用价值与连接世界的方式</h1>
 

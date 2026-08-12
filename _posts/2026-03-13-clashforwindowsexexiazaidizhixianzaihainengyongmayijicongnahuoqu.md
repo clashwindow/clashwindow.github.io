@@ -14,7 +14,7 @@ keywords: "一元机场clash下载手机,clash的url免费,ssr订阅链接怎么
 description: "本文深度评测clash for windows.exe下载地址现在还能用吗以及从哪获取？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash 推荐图](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 ## clash for windows.exe下载地址现在还能用吗以及从哪获取？
 

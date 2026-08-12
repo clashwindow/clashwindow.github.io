@@ -18,7 +18,7 @@ description: "2025最新Clash免费节点分享及实用配置指南
 随着网络环境的不断变化，许多用户都在寻找可靠的Clash免费节点2025分享资源，以实现稳定的科学上网体验。本文将从实际操作出发**理解请"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>2025最新Clash免费节点分享及实用配置指南</h1>
 

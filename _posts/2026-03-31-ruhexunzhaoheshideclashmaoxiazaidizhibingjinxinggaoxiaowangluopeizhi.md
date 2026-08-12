@@ -18,7 +18,7 @@ description: ""如何寻找合适的clash猫下载地址并进行高效网络配
 在当前复杂的网络环境中，为了提升工作与学习的效率，许多用户选择借助专业的网络工具来优化连接质量。Clash 作为一款备受青睐的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何寻找合适的clash猫下载地址并进行高效网络配置？</h1>
 

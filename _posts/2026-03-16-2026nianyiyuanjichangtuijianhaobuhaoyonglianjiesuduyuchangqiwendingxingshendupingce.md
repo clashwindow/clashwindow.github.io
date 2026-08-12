@@ -18,7 +18,7 @@ description: ""2026年一元机场推荐好不好用？"
 在当前的互联网环境下，寻找兼具性价比与可用性的网络接入方案已成为许多用户的刚需。clash verge机场所谓“一"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2026年一元机场推荐好不好用？连接速度与长期稳定性深度评测</h1>
 

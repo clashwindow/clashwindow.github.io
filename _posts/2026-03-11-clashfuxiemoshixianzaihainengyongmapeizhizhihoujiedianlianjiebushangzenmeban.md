@@ -15,7 +15,7 @@ keywords: "Clash节点购买地址,clashforwindows下载,v2ray安卓最新版下
 description: "本文深度评测Clash覆写模式现在还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash 推荐图](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 ## Clash覆写模式现在还能用吗？配置之后节点连接不上怎么办？
 

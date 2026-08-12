@@ -18,7 +18,7 @@ description: ""如何获取稳定可用的clash免费网址？"
 在当前高度互联的数字时代，无论是从事跨国协作的开发者、需要查阅海外学术文献的研究人员，还是希望流畅体验国际流媒体内容的用户，拥"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何获取稳定可用的clash免费网址？最新节点配置方法</h1>
 

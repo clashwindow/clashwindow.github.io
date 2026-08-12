@@ -18,7 +18,7 @@ description: ""如何实现手机Clash热点共享给iPad的稳定连接？"
 在日常工作学习中，我们常常遇到这样的场景手机上配置了网络代理工具，希望将其便捷地共享给身边的 iPad 或其他设备使用。实现手机C"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何实现手机Clash热点共享给iPad的稳定连接？</h1>
 

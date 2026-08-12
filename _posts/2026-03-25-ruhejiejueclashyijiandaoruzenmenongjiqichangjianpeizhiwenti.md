@@ -18,7 +18,7 @@ description: ""如何解决clash一键导入怎么弄及其常见配置问题"
 在数字化时代，管理网络连接成为许多用户的核心诉求。Clash作为一款功能强大的网络管理工具，凭借其灵活的规则配置和直观的用户界面，受到了广"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash节点推荐](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何解决clash一键导入怎么弄及其常见配置问题</h1>
 

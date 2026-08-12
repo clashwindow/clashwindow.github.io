@@ -15,7 +15,7 @@ keywords: "Clash是什么意思,每日节点免费订阅,订阅者ID,小火箭�
 description: "clash官方最新安装包还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 ## clash官方最新安装包还能用吗？目前可靠的获取渠道有哪些？
 

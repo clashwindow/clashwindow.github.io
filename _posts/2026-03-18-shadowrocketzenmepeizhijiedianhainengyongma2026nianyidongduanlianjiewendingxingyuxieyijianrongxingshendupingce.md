@@ -18,7 +18,7 @@ shadowrocket怎么配置节点还能用吗？2024年移动端连接稳定性与�
 在当前的移动互联网环境下，Shadowrocket"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket怎么配置节点还能用吗？2026年移动端连接稳定性与协议兼容性深度评测</h1>
 

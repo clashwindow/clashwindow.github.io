@@ -19,7 +19,7 @@ shadowsocket官网客户端配置是否正确对连接稳定性的实际影响
 在探讨shadowsocket官网相关资源的可访"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>shadowsocket官网还能用吗以及最新订阅节点哪里有</h1>
 

@@ -18,7 +18,7 @@ description: ""2025最佳节点购买网站Top10：精选优质机场与订阅�
 在2025年，选择合适的2025最佳节点购买网站Top10已成为许多用户科学上网的首选。随着网络环境的不断变化"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>2025最佳节点购买网站Top10：精选优质机场与订阅服务指南</h1>
 

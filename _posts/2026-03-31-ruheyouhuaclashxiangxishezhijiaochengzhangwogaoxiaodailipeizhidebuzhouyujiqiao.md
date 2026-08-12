@@ -18,7 +18,7 @@ description: ""如何优化Clash详细设置教程？"
 随着网络环境的日益复杂，对高效、稳定数据传输的需求也愈发增长。Clash作为一款功能强大的代理客户端，因其灵活的配"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何优化Clash详细设置教程？掌握高效代理配置的步骤与技巧</h1>
 

@@ -18,7 +18,7 @@ shadowrocket突然无法使用还能用吗？常见连接失败原因分析
 在日常使用网络代理工具的过程中，许多用户会遇到 shadowrocket突然无法使用 的情况。这种情况"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>shadowrocket突然无法使用还能用吗？常见连接失败原因分析</h1>
 

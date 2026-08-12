@@ -18,7 +18,7 @@ Instagram进不去怎么办？多角度排查与实用解决建议
 许多用户在日常使用 Instagram 时，可能会遇到突然无法访问的情况。当你尝试打开 Instagram 却发现页面cl"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Instagram进不去怎么办？多角度排查与实用解决建议</h1>
 

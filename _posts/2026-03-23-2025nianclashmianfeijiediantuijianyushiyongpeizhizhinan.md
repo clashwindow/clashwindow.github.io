@@ -19,7 +19,7 @@ description: ""2025年Clash免费节点推荐与实用配置指南"
 在使用Clash免费节点2525推荐之前，正确配置工具是关键。首先，确保你已安装适合设备的客户端，例如Clash for Wi"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>2025年Clash免费节点推荐与实用配置指南</h1>
 

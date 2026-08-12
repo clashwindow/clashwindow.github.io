@@ -18,7 +18,7 @@ Inst加速器梯子agram 国内可以用吗？实用指南与节点选择
 许多用户在跨越地域限制，想要体验全球化的社交平台时，都会遇到一个共同的疑问：“Instagram 国内可以用吗？” 答案"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>Instagram 国内可以用吗？实用指南与节点选择</h1>
 

@@ -19,7 +19,7 @@ shadowrocket是正规的吗有没有官方版本
 免费vpn网址分享在探讨工具的合规性之前，首先需要明确 S"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket是正规的吗还能用吗以及在哪下载</h1>
 

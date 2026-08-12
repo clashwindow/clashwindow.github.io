@@ -19,7 +19,7 @@ shadowroket下载安卓系统的兼容性与安装包真实性识别
 在当前的移动互联网生态中，s"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>shadowroket下载安卓版还有官网吗？安卓手机能否直接安装小火箭？</h1>
 

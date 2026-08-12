@@ -18,7 +18,7 @@ description: ""如何有效应对 Clash 突然连不上的几种排查方法"
 在日常网络使用中，许多用户可能会遇到一个令人困扰的问题：Clash 突然连不上了。前一秒还正常访问，下一秒所有连接都中断，这无疑会影响"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何有效应对 Clash 突然连不上的几种排查方法</h1>
 

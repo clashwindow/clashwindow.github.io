@@ -18,7 +18,7 @@ description: ""如何正确查找与更新您的clash续fèi地址以保障网�
 在当今复杂的网络环境中，维持一个稳定、高效的连接是许多技术人员和高级用户的基本clash官网需求。Clash 作为一"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何正确查找与更新您的clash续fèi地址以保障网络通畅？</h1>
 

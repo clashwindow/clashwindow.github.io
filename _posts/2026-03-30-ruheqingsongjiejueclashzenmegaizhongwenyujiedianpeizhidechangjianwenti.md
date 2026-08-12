@@ -18,7 +18,7 @@ description: ""如何轻松解决 Clash 怎么改中文与节点配置的常见�
 许多用户在初次接触 Clash 这款网络工具时，面临的第一个挑战可能就是其默认的英文界面。虽然英文界面功能齐全，但对于"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何轻松解决 Clash 怎么改中文与节点配置的常见问题？</h1>
 

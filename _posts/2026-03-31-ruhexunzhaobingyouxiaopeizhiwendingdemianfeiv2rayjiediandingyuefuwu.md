@@ -18,7 +18,7 @@ description: ""如何寻找并有效配置稳定的免费V2Ray节点订阅服务
 在当今数字化的网络环境中，许多用户出于学习、开发或优化网络访问体验的需求，会寻找并使用各类网络代理工具。V2Ray作为一种功能强大"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何寻找并有效配置稳定的免费V2Ray节点订阅服务？</h1>
 

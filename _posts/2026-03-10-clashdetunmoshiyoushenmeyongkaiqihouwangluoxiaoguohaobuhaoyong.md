@@ -15,7 +15,7 @@ keywords: "一元飞机场最新官网,clash免费配置地址,机场订阅链�
 description: "本文深度评测clash的tun模式有什么用？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 ## clash的tun模式有什么用？开启后网络效果好不好用？
 

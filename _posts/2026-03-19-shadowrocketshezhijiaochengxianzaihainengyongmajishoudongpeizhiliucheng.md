@@ -18,7 +18,7 @@ shadowrocket设置教程现在还能用吗及手动配置流程
 在当前的移动互联网环境下，iOS 平台的用户往往需要通过特定的代理工具来优化网络访问。作为该领域的常青树，Shadow"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>shadowrocket设置教程现在还能用吗及手动配置流程</h1>
 

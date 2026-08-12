@@ -13,7 +13,7 @@ keywords: "clash配置购买攻略,纸飞机节点购买,clash一元订阅永久
 description: "本文详细解答Clash登录不了还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash 推荐图](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## Clash登录不了还能用吗？2026年连接故障深度排查指南
 

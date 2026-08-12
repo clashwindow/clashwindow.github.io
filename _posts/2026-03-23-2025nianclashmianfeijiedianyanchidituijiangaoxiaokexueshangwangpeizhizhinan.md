@@ -18,7 +18,7 @@ description: ""2025年clash免费节点延迟低推荐：高效科学上网配�
 在当今数字化时代，科学上网已成为许多用户日常必需。clash免费节点延迟低推荐是热门话题，因"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年clash免费节点延迟低推荐：高效科学上网配置指南</h1>
 

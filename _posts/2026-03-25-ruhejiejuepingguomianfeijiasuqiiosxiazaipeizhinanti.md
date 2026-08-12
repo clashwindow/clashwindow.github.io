@@ -18,7 +18,7 @@ description: ""如何解决苹果免费加速器iOS下载配置难题"
 在当今球化的数字环境中，无论是进行跨国远程协作、查阅学术资料，还是体验海外创新应用，iOS 用户常常会遇到网络连接缓慢或不稳定的问题。因此，一款稳定可靠的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何解决苹果免费加速器iOS下载配置难题</h1>
 

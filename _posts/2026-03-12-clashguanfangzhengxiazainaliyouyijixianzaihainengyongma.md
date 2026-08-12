@@ -14,7 +14,7 @@ keywords: "纸飞机节点购买,clash手机版下载,clashforandroid节点订�
 description: "本文详细解答clash官方正下载哪里有以及现在还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 ## clash官方正下载哪里有以及现在还能用吗？
 

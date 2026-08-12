@@ -18,7 +18,7 @@ description: ""如何配置 showrocket最新本以网络连接体验？"
 随着网络环境日益复杂，拥有一款稳定的网络调试工具至关重要。Shadowrocket，俗称“小火箭”，因其强大的功能和友好的用sha"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何配置 showrocket最新本以网络连接体验？</h1>
 

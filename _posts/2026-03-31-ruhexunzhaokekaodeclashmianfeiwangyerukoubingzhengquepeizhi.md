@@ -18,7 +18,7 @@ description: ""如何寻找可靠的 clash 免费网页入口并正确配置？"
 在当今复杂的网络环境中，许多技术爱好者与专业人士出于学习、开发或测试等目的，需要机场节点购买对网络连接进行精细化管理。Clash "
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何寻找可靠的 clash 免费网页入口并正确配置？</h1>
 

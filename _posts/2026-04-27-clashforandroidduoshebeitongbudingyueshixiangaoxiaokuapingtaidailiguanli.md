@@ -18,7 +18,7 @@ Clash for Android 多设备同步订阅：实现高效跨平台代理管理
 在当今数字化时代，Clash for Android 多设备同步订阅已成为许多用户追求"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Clash for Android 多设备同步订阅：实现高效跨平台代理管理</h1>
 

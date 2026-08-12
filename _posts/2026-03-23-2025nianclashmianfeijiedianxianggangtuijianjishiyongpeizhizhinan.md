@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点香港推荐及实用配置指南"
 在当前网络环境下，许多用户寻求可靠的Clash免费节点香港推荐，以实现稳定访问国际资源。香港节点因地理位置优越，常被视为高速线路的首选"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年Clash免费节点香港推荐及实用配置指南</h1>
 

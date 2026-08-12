@@ -18,7 +18,7 @@ description: ""2026年小飞机节点购买后还能用吗？"
 在当前的网络环境下，许多用户在寻找稳定访问国际互联网的方案时，往往会将目光投向小飞机节点购买这一途径。这里的“小飞机”通常是指以 Shadowsocks (SS)"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>2026年小飞机节点购买后还能用吗？</h1>
 

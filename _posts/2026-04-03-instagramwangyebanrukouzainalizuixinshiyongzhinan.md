@@ -18,7 +18,7 @@ Instagram网页版入口在哪里？最新实用指南
 在数字时代，社交媒体shadowrocket下载已经渗透到我们生活的方方面clash流量购买面。In节点分享每日更新stagram 作为全"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>Instagram网页版入口在哪里？最新实用指南</h1>
 

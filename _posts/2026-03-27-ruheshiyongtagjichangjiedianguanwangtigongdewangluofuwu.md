@@ -18,7 +18,7 @@ description: ""如何使用 tag机场节点官网 提供的网络服务？"
 在球化协作日益频繁的今天，拥有一个稳定、的国际网络连接环境至关重要。无论是进行跨国远程办公、查阅海外学术资料，还是国际团队进行沟通，优质的网络"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>如何使用 tag机场节点官网 提供的网络服务？</h1>
 

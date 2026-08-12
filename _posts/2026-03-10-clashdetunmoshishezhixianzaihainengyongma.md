@@ -15,7 +15,7 @@ keywords: "苹果clash怎么下载,小火箭免费地址,clashverge全部显示e
 description: "clash的tun模式设置现在还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 ## clash的tun模式设置现在还能用吗？
 

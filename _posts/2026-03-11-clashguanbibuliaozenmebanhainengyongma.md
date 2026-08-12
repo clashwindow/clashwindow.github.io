@@ -13,7 +13,7 @@ keywords: "clash节点分享免费,clash订阅转换怎么设置,clash地址转�
 description: "本文详细解答clash关闭不了怎么办还能用吗，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash 推荐图](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash关闭不了怎么办还能用吗
 

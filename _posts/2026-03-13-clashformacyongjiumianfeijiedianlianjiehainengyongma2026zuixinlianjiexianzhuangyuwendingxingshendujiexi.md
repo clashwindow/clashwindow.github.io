@@ -14,7 +14,7 @@ keywords: "clash的规则直连和全局,clash节点多少钱一个月,shoongcom
 description: "本文详细解答clash for mac永久免费节点连接还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 ## clash for mac永久免费节点连接还能用吗？2026最新连接现状与稳定性深度解析
 

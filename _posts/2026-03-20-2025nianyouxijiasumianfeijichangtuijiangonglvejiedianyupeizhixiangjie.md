@@ -19,7 +19,7 @@ description: ""2025年游戏加速免费机场推荐攻略：节点与配置详�
 想要畅玩海外游戏或提升网络体验，选择合适的代理工具至关重要。以下详细介绍主流工具Clash、Shadowrocket（"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年游戏加速免费机场推荐攻略：节点与配置详解</h1>
 

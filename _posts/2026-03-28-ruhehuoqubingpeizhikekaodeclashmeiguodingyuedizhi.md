@@ -18,7 +18,7 @@ description: ""如何获取并配置可靠的clash美国订阅地址？"
 在日常工作与学习中，我们时常需要访问一些仅在美国区域提供服务的网站或应用，例如进行学术资料查阅、开发者API测试或观看流媒体内容。为了稳定、高效地"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场订阅免费.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%85%8D%E8%B4%B9.png)
 
 <h1>如何获取并配置可靠的clash美国订阅地址？</h1>
 

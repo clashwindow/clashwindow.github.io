@@ -18,7 +18,7 @@ Shadowrocket怎么用现在还能用吗
 在当前的移动互联网环境下，Shadowrocket（通常被称为“小火箭”）作为一款基于规则的网络代理工具，在iOS平台依然保持着极高的活跃度。许多用户"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Shadowrocket怎么用现在还能用吗</h1>
 

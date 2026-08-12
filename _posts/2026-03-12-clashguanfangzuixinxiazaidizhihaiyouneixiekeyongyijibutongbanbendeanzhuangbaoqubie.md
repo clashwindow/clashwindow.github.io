@@ -13,7 +13,7 @@ keywords: "clash一元订阅网站,clash怎么样,toocoolforschool,v2ray节点�
 description: "本文详细解答clash官方最新下载地址还有哪些可用以及不同版本的安装包区别，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash官方最新下载地址还有哪些可用以及不同版本的安装包区别
 

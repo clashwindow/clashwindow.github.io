@@ -19,7 +19,7 @@ Clash for Android 常见故障排除clash 免费：实用指南
 在使用 Clash for Android 时，正确的环境配置是确保稳定连接的基础。首"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>Clash for Android 常见故障排除：实用指南</h1>
 

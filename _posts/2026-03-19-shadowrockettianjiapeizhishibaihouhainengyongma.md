@@ -19,7 +19,7 @@ shadowrclash订阅节点ocket添加配置失败后还能用吗？
 在 iOS 环境下，Shadowrocket免费机"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>shadowrocket添加配置失败后还能用吗？</h1>
 

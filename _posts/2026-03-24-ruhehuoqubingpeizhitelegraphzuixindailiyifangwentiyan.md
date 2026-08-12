@@ -18,7 +18,7 @@ description: ""如何获取并配置 Telegraph 最新代理以访问体验？"
 在当前高度互联的数字世界中，稳定、地访问 Telegraph 等国际化信息平台，对于学习、工作和交流至关重要。然而，网络环"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>如何获取并配置 Telegraph 最新代理以访问体验？</h1>
 

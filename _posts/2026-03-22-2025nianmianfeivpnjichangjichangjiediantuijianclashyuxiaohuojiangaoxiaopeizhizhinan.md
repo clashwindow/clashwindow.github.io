@@ -18,7 +18,7 @@ description: ""2025年免费VPN机场机场节点推荐：Clash与小火箭高�
 在当今数字化时代，选择一款可靠的免费VPN机场机场节点推荐已成为许多用户科学上网的首选。通过优质的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>2025年免费VPN机场机场节点推荐：Clash与小火箭高效配置指南</h1>
 

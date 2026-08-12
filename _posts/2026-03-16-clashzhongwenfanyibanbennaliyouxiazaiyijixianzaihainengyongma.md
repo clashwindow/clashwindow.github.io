@@ -19,7 +19,7 @@ clash 中文翻译汉化补丁的兼容性是否配置正确
 在网络工具的使用过程中，许多用户由于语言屏障，倾"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>clash 中文翻译版本哪里有下载以及现在还能用吗</h1>
 

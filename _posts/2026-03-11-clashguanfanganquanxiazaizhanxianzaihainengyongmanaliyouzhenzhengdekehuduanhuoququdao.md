@@ -14,7 +14,7 @@ keywords: "节点推荐订阅,clash网页版使用,clash订阅链接分享,免�
 description: "本文详细解答clash官方安全下载站现在还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash 推荐图](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash官方安全下载站现在还能用吗？哪里有真正的客户端获取渠道？
 

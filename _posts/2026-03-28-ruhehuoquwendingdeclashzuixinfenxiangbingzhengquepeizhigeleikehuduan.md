@@ -18,7 +18,7 @@ description: ""如何获取稳定的clash最新分享，并正确配置各类客
 在当前复杂的网络环境下，为了提升工作与学习效率，流畅地访问全球信息资源变得至关重要。许多用户选择通过 Clash 等网络工"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>如何获取稳定的clash最新分享，并正确配置各类客户端？</h1>
 

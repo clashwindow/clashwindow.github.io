@@ -18,7 +18,7 @@ description: ""如何实践 Clash 免费永久使用教程的核心步骤？"
 在当今复杂的网络环境中，许多用户寻求、灵活的工具来管理和自己的网络连接。Clash 作为一款备受欢迎的代理规则工具，以其强大的功能和跨"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>如何实践 Clash 免费永久使用教程的核心步骤？</h1>
 

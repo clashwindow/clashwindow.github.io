@@ -18,7 +18,7 @@ description: ""如何解决一元机场url怎么获取及订阅链接配置难�
 在当前复杂的网络环境下，许多用户为了工作学习效率，常常寻求稳定、的网络解决。其中，“一元机场”作为一种高性价比的选择，受到了广泛关注。"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何解决一元机场url怎么获取及订阅链接配置难题？</h1>
 

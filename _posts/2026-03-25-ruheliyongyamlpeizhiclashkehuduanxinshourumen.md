@@ -18,7 +18,7 @@ description: ""如何利用 YAML 配置 Clash 客户端新手入门"
 Clash 作为一款功能强大的代理客户端，因其灵活的配置方式和跨平台特性，受到了众多用户的青睐。 clash怎么使用 yaml 进"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何利用 YAML 配置 Clash 客户端新手入门</h1>
 

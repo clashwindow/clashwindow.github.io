@@ -14,7 +14,7 @@ keywords: "clashverge是什么软件,clash如何购买节点,TG设置代理节�
 description: "本文详细解答Clash服务模式在最新版系统开启失败还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash 推荐图](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## Clash服务模式在最新版系统开启失败还能用吗？
 

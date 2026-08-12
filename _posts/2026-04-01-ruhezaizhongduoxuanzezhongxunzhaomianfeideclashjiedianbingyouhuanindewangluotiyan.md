@@ -19,7 +19,7 @@ description: ""如何在众多选择中寻找免费的Clash节点并优化您的
     首先，要顺利使用免费的Clash或任何基于代理的服务，选择合适的客户端是第一步。市面上主流的客户端涵盖了"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何在众多选择中寻找免费的Clash节点并优化您的网络体验？</h1>
 

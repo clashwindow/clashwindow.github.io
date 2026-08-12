@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点延迟排行：实用测速与配置指�
 在当下网络环境日益复杂的背景下，选择合适的代理工具已成为许多用户日常上网的必需。Clash作为一款高效的跨平台客户端，以其"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年Clash免费节点延迟排行：实用测速与配置指南</h1>
 

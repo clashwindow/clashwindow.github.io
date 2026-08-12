@@ -14,7 +14,7 @@ keywords: "2025免费加速器大全,discord大陆怎么用最好,小众免费�
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场订阅免费.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%85%8D%E8%B4%B9.png)
 
 ## 5元一个月便宜节点订阅靠谱吗？真实用过后到底值不值得继续买
 

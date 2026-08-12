@@ -19,7 +19,7 @@ shadowrocket软件下载还能用吗？2024年最新版本安装与节点配置�
 在"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
+![Clash节点推荐](/img/tiktok%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket软件下载还能用吗？2026年最新版本安装与节点配置深度解析</h1>
 

@@ -18,7 +18,7 @@ instagram国内怎么打开？这里有你需要的实用方法
 对于许多用户而言，如何在国内顺畅地访问 Instagram 平台，始终是一个备受关注的问题。由于网络环境的特殊性，直接访问可能"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>instagram国内怎么打开？这里有你需要的实用方法</h1>
 

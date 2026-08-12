@@ -18,7 +18,7 @@ description: ""2025年clash免费节点节点推荐：稳定高效的科学上�
 在数字化时代，clash免费节点节点推荐成为许多用户关注的焦点。作为一款强大的代理工具，Clash支持多种协议，能"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年clash免费节点节点推荐：稳定高效的科学上网选择</h1>
 

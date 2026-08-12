@@ -18,7 +18,7 @@ description: ""如何获取并配置telegeram免费代理连接节点？"
 在当今的数字通信环境中，确保应用程序如 Telegram 的网络连接流畅稳定，是许多用户面临的共同需求。当遇到网络访问延迟或不稳定的情"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何获取并配置telegeram免费代理连接节点？</h1>
 

@@ -18,7 +18,7 @@ description: ""2025年最佳免费机场推荐for iOS用户：实用节点与工
 在数字化时代，最佳免费机场推荐for iOS用户已成为许多人关注的焦点。iOS设备用户常常需要可靠的代理工"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年最佳免费机场推荐for iOS用户：实用节点与工具指南</h1>
 

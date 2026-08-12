@@ -15,7 +15,7 @@ keywords: "Clash官网,节点推荐网站,clash免费节电,Clash最新配置URL
 description: "本文详细解答clash更新失败安卓还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
+![Clash 推荐图](/img/tiktok%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash更新失败安卓还能用吗？订阅链接更新失败的排查方案与节点稳定性评估
 

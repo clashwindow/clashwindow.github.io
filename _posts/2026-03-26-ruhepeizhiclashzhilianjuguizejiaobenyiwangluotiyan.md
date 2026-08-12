@@ -18,7 +18,7 @@ description: ""如何配置clash直连局规则脚本以网络体验？"
 在当今复杂的网络环境中，如何、智能地管理数据流向，已成为clash免费配置链接许多技术爱好者和专业人士关注的焦点。一个精心设计的 clash直连局"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>如何配置clash直连局规则脚本以网络体验？</h1>
 

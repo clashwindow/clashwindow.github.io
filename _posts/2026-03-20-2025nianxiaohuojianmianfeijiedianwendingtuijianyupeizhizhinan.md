@@ -19,7 +19,7 @@ description: ""2025年小火箭免费节点稳定推荐与配置指南"
 首先，科学上网需要合适的客户端工具，如 Clash、Shadowrocket（小火箭）或 V2Ray。以小火箭为例，安装步骤简单但需注"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
+![Clash节点推荐](/img/tiktok%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年小火箭免费节点稳定推荐与配置指南</h1>
 

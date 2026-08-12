@@ -19,7 +19,7 @@ shadowrocket网站续费后的订阅节点无法更新是否配置正确
 在进行 shadowrock"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket网站续费过期了还能用吗？哪里有靠谱的续费入口？</h1>
 

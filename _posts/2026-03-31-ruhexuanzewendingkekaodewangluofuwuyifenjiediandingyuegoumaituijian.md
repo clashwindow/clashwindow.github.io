@@ -18,7 +18,7 @@ description: ""如何选择稳定可靠的网络服务？"
 在当前数字clash显示已连接上不了网化时代，无论是远程办公、查阅学术资料还是体验全球化的数字内容，稳定、高效的网络连接都至关重要。然而，"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何选择稳定可靠的网络服务？一份节点订阅购买推荐</h1>
 

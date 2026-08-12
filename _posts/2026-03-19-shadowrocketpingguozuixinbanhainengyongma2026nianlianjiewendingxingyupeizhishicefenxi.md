@@ -19,7 +19,7 @@ shadowrocket苹果最新配置指南与连接稳定性深度解析
 在当前的移动网络"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket苹果最新版还能用吗？2026年连接稳定性与配置实测分析</h1>
 

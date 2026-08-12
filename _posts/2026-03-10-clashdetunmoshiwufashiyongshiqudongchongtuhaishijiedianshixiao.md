@@ -15,7 +15,7 @@ keywords: "节点购买网站,节点购买订阅,clash节点订阅购买使用�
 description: "本文深度评测clash的tun模式无法使用是驱动冲突还是节点失效？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash 推荐图](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 ## clash的tun模式无法使用是驱动冲突还是节点失效？
 

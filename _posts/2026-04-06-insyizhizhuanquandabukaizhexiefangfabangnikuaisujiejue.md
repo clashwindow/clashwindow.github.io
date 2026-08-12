@@ -18,7 +18,7 @@ Ins 一直转圈打不开？这些方法帮你快速解决
 不少用户在使用 Instagram（以下简称 Ins）时，偶尔会遇到应用加载缓慢、图片和视频一直转圈，甚至完全无法打开的困扰。这种体验无疑会影响到"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Ins 一直转圈打不开？这些方法帮你快速解决</h1>
 

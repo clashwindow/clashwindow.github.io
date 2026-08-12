@@ -15,7 +15,7 @@ keywords: "Ssr节点2月15日,豆包节点_免费的SSR/V2ray/Clash节点分享,
 description: "本文详细解答clash共享给局域网设置后其他设备连不上还能用吗，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash 推荐图](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash共享给局域网设置后其他设备连不上还能用吗
 

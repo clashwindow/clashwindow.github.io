@@ -18,7 +18,7 @@ Clash for Android 负载均衡功能详解：优化科学上网节点选择
 在当今数字化时代，Clash for Android作为一款优秀的代理工具，其负载均衡"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Clash for Android 负载均衡功能详解：优化科学上网节点选择</h1>
 

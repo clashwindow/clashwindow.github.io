@@ -14,7 +14,7 @@ keywords: "vnp什么意思,clashverge节点,clash代理节点免费,每日节点
 description: "本文详细解答Clash更新失败了还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash 推荐图](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 ## Clash更新失败了还能用吗？2026年订阅连接排查与节点可用性分析
 

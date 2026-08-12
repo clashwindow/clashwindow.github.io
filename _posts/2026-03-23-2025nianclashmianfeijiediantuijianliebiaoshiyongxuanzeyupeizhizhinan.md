@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点推荐列表：实用选择与配置指�
 在当今数字时代，Clash免费节点推荐列表已成为许多用户寻找稳定上网方式的首选。作为一名长期使用代理工具的资深用户，我深知"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年Clash免费节点推荐列表：实用选择与配置指南</h1>
 

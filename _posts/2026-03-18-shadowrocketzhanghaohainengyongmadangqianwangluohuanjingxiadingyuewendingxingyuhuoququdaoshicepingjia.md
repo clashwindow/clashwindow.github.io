@@ -19,7 +19,7 @@ shadowrocket账号配置正确性与节点连接稳定性的关联
 在评估 sh"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>shadowrocket账号还能用吗？当前网络环境下订阅稳定性与获取渠道实测评价</h1>
 

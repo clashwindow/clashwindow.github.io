@@ -13,7 +13,7 @@ keywords: "clash买节点,安卓clash下载-百度,clashx免费节点,clash机�
 description: "本文深度评测clash的yaml文件在哪可以找到以及是否还能用，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash 推荐图](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash的yaml文件在哪可以找到以及是否还能用
 

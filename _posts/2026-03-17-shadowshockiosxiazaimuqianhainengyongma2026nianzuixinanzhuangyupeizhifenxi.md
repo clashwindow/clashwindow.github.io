@@ -19,7 +19,7 @@ shadowshock ios下载后的初始配置与连接稳定性优化
 在完成 shado"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowshock ios下载目前还能用吗？2026年最新安装与配置分析</h1>
 

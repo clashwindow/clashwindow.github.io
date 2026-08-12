@@ -14,7 +14,7 @@ keywords: "有没有免费的节点,clash官方网站下载,v2ray免费节点订
 description: "本文详细解答Clash电脑安装教程哪里有？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 ## Clash电脑安装教程哪里有？2026年Windows版客户端配置全流程
 

@@ -18,7 +18,7 @@ description: ""如何正确解决 Clash 怎么开局域网连接的常见问题�
 在日常工作与学习中，我们常常需要在多个设备间共享统一的网络环境。例如，为不支持直接安装客户端的设备（如游戏主机、智能电视）或进"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何正确解决 Clash 怎么开局域网连接的常见问题？</h1>
 

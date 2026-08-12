@@ -18,7 +18,7 @@ shadowrocket是什么软件现在还能用吗
 对于许多初次接触网络优化工具的用户来说，shadowrocket是什么软件是一个经常出现在技术论坛和社交媒体上的高频问题。从技术定义上讲，Sh"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket是什么软件现在还能用吗</h1>
 

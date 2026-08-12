@@ -19,7 +19,7 @@ description: ""2026年小火箭showrocket安装还能用吗？"
 在完成小火箭sh"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2026年小火箭showrocket安装还能用吗？解析最新配置逻辑与节点兼容性</h1>
 

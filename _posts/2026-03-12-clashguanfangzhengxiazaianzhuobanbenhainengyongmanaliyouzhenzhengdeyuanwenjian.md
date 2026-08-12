@@ -15,7 +15,7 @@ keywords: "clash设置中文界面,clash官网下载苹果,免费节点试用一
 description: "本文详细解答clash官方正下载安卓版本还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash官方正下载安卓版本还能用吗？哪里有真正的源文件？
 

@@ -18,7 +18,7 @@ Shadowrocket在哪下载以及目前还能用吗？
 对于许多iOS用户而言，寻找高效的网络调试与代理工具时，Shadowrocket（通常被称为小火箭）往往是首选方案。然而，由于该应用在"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>Shadowrocket在哪下载以及目前还能用吗？</h1>
 

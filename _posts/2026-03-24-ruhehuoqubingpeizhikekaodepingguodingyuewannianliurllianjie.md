@@ -18,7 +18,7 @@ description: ""如何获取并配置可靠的苹果订阅万年历url链接？"
 在数字化生活中，我们经常需要通过 URL 订阅各种在线服务，例如日历事件、信息聚合或内容更新。一个稳定可靠的苹果订阅万年历url链接可以极大地"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何获取并配置可靠的苹果订阅万年历url链接？</h1>
 

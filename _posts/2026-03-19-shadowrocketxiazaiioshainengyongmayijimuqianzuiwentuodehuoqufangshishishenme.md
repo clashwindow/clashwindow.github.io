@@ -18,7 +18,7 @@ shadowrocket下载 ios 还能用吗以及目前最稳妥的获取方式是什么
 在当前的移动网络环境下，寻找clash verge每日免费节点 shadowr"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket下载 ios 还能用吗以及目前最稳妥的获取方式是什么？</h1>
 

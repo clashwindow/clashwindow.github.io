@@ -18,7 +18,7 @@ GTA5国内让玩吗？连接稳定性的实用探讨
 许多玩家在寻找《侠盗猎车手5》（Grand Theft Auto V，简称GTA5）在国内的畅玩方式。由于网络环境的特殊性，直接连接游戏服务器或进行多人在"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>GTA5国内让玩吗？连接稳定性的实用探讨</h1>
 

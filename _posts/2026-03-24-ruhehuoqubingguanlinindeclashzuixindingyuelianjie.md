@@ -18,7 +18,7 @@ description: ""如何获取并管理您的 clash 最新订阅链接？"
 在当前复杂的网络环境中，拥有一个稳定、的连接是许多技术爱好者和专业人士的共同追求。Clash 作为一款功能强大的网络工具，其核心在于灵活的规则"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何获取并管理您的 clash 最新订阅链接？</h1>
 

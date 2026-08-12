@@ -18,7 +18,7 @@ description: ""2025年免费Clash节点推荐链接：稳定高速科学上网�
 在当今数字化时代，免费Clash节点推荐链接已成为许多用户追求高效网络访问的首选。作为一名长期使用代理工具的资深爱好者"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>2025年免费Clash节点推荐链接：稳定高速科学上网指南</h1>
 

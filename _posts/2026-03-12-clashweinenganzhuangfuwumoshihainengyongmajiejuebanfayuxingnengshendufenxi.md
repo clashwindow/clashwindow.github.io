@@ -13,7 +13,7 @@ keywords: "免费机场分享博客,机场节点免费使用,每天免费一小�
 description: "本文深度评测clash未能安装服务模式还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash 推荐图](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash未能安装服务模式还能用吗？解决办法与性能深度分析
 

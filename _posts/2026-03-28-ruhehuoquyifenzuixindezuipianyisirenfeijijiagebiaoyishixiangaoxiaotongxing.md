@@ -18,7 +18,7 @@ description: ""如何获取一份最新的最便宜私人飞机价格表以实�
 在全球化信息高速流动的今天，建立一个稳定、高效且私密的数据传输通道，对于跨国业务、学术研clash高速免费节点究和个人信息获取"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何获取一份最新的最便宜私人飞机价格表以实现高效通行？</h1>
 

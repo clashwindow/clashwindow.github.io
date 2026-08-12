@@ -19,7 +19,7 @@ Clash for Android 电池优化技巧与高效配置指南
 首先，为确保 Clash for Android 运行稳定且电量消耗最低，正确配置环境至关重要"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>Clash for Android 电池优化技巧与高效配置指南</h1>
 

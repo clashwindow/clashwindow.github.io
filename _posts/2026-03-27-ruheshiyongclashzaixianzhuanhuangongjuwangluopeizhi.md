@@ -18,7 +18,7 @@ description: ""如何使用clash在线转换工具网络配置？"
 在复杂的网络环境中，用户常常需要借助各类客户端工具来连接体验。然而，不同的客户端（如 Clash、Shadowrocket、V2RayN 等）支持的订阅格"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何使用clash在线转换工具网络配置？</h1>
 

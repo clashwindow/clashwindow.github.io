@@ -15,7 +15,7 @@ keywords: "clash怎么续费,clashtun,节点在哪买,clash节点分享,clash的
 description: "本文详细解答clash官方最新版本在哪里获取以及目前配置是否依然有效，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 ## clash官方最新版本在哪里获取以及目前配置是否依然有效
 

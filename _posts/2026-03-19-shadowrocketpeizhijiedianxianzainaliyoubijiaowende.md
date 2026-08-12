@@ -18,7 +18,7 @@ shadowrocket配置节点现在哪里有比较稳的？
 在当前的移动网络环境下，寻找稳定且高效的 shadowrocket配置节点 已成为许多 iOS 用户维持跨境网络访问质量的核心需求"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>shadowrocket配置节点现在哪里有比较稳的？</h1>
 

@@ -18,7 +18,7 @@ description: ""如何有效应对 Clash 无法切换节点的技术难题？"
 在日常使用网络工具的过程中，许多用户都可能遇到一个令人困惑的问题：Clash 客户端界面上明明显示着多个可用的节点，延迟测试也正常，但"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>如何有效应对 Clash 无法切换节点的技术难题？</h1>
 

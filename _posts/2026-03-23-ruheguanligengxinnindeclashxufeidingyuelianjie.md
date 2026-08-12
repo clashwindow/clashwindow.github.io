@@ -18,7 +18,7 @@ description: ""如何管理更新您的Clash续费订阅链接？"
 在日常的网络工具使用中，订阅链接扮演着至关重要的角色。它好比一把钥匙，连接着用户众多的网络节点。然而，许多用户在处理 clash续废订阅链接 的更新管理时"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何管理更新您的Clash续费订阅链接？</h1>
 

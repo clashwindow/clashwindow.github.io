@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点排行：稳定高速科学上网节点�
 在数字化时代，Clash免费节点clash显示已连接上不了网2025排行已成为许多用户关注的焦点。随着网络环境的不断变"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年Clash免费节点排行：稳定高速科学上网节点推荐</h1>
 

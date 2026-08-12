@@ -19,7 +19,7 @@ description: ""2025年最新v2ray节点免费订阅链接与配置指南"
 要使用v2ray节点免费订阅链接，首先需要选择合适的客户端。常见的跨平台客户端包括C节点订阅lash、Shadowro"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年最新v2ray节点免费订阅链接与配置指南</h1>
 

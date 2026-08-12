@@ -18,7 +18,7 @@ description: ""如何解决手机Clash怎么设置中文及网络配置难题？
 随着球化交流的日益频繁，许多用户需要稳定、的网络连接工具来访问国际学术资源或进行远程协作。Clash 作为一款功能强大的网络工具，在移"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何解决手机Clash怎么设置中文及网络配置难题？</h1>
 

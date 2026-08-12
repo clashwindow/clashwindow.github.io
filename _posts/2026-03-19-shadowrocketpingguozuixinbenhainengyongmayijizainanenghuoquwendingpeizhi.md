@@ -18,7 +18,7 @@ shadowrocket苹果最新本还能用吗以及在哪能获取稳定配置
 针对广大iOS用户而言，寻找“shadowrocket苹果最新本”的稳定获取渠道与配置方法始终是网络优化的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>shadowrocket苹果最新本还能用吗以及在哪能获取稳定配置</h1>
 

@@ -19,7 +19,7 @@ clash 安卓 导入 错误 的常见诱因与配置校验逻辑
 在 Android 移动端环境中使用 Clash 客户端时，用户最常遇到的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>clash 安卓 导入 错误 导致配置失效还能用吗？</h1>
 

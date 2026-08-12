@@ -18,7 +18,7 @@ description: ""如何找到并配置可靠的clash免费yaml订阅链接？"
 在网络技术社区中，Clash 以其强大的规则引擎和跨平台支持而备受青睐。而获取一个稳定、易用的 clash免费yaml 配置文件，"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何找到并配置可靠的clash免费yaml订阅链接？</h1>
 

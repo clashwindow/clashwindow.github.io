@@ -18,7 +18,7 @@ description: ""如何解决 Clash 怎么续费？"
 当您日常使用的 Clash 客户端提示订阅即将到期，或者节点列表突然无法连接时，通常意味着需要对服务进行续费并更新配置。许"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何解决 Clash 怎么续费？订阅链接更新节点维护方法</h1>
 

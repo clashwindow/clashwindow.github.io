@@ -14,7 +14,7 @@ keywords: "最新版clash安卓下载,clash绕过私有网络什么意思,clash�
 description: "本文分享clash共享后会怎么样还能用吗的完整解决方案，提供 2026 年最新免费 Clash 节点、免费机场推荐，以及小火箭免费订阅地址，每日更新确保节点可用性。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash共享后会怎么样还能用吗
 

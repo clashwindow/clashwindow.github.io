@@ -18,7 +18,7 @@ description: ""如何找到 Clash 官方下载正版渠道并完成基础配置�
 在当今复杂的网络环境中，高效管理和优化网络连接已成为许多用户的基本诉求。Clash 作为一款功能强大的网络管理工具，因其灵活的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何找到 Clash 官方下载正版渠道并完成基础配置？</h1>
 

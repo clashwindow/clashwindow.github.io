@@ -13,7 +13,7 @@ keywords: "免费外网节点,免费海外节点加速免费使用,ssr节点更�
 description: "本文详细解答clash官方正入口网址还能找到吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash 推荐图](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 ## clash官方正入口网址还能找到吗？2026最新可用性与节点性能深度评估
 

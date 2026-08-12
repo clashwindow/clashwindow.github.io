@@ -18,7 +18,7 @@ description: ""如何获取稳定可靠的clash每日更新地址并优化您的
 在数字时代，流畅的网络连接已成为我们日常生活与工作中不可或缺的一部分。对于许多追求高效与定制化网络体验的用户而言，"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>如何获取稳定可靠的clash每日更新地址并优化您的网络体验？</h1>
 

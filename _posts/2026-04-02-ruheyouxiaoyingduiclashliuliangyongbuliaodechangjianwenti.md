@@ -17,7 +17,7 @@ description: ""如何有效应对 Clash 流量用不了的常见问题？"
 在使用网络工具的过程中，许多用户都可能遇到一个令人困扰的问题：clash流量用不了。明明客户端显示已连接，图标也变色，但浏览器就是无法打开"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>如何有效应对 Clash 流量用不了的常见问题？</h1>
 

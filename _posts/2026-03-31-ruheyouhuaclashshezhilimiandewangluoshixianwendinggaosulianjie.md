@@ -18,7 +18,7 @@ description: ""如何优化Clash设置里面的网络，实现稳定高速连接
 在数字化时代，流畅稳定的网络环境是高效工作和优质娱乐的基础。许多用户在使用 Clash 或类似工具时，常常会遇到速度不佳、连接中断"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何优化Clash设置里面的网络，实现稳定高速连接？</h1>
 

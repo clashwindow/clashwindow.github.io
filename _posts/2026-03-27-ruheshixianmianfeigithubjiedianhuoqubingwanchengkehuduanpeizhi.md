@@ -18,7 +18,7 @@ description: ""如何实现免费github节点获取并完成客户端配置？"
 在当今复杂的网络环境中，许多技术爱好者和研究人员需要通过不同的网络节点进行开发测试、学术研究或访问球信息资源。GitHub 作为一个球"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何实现免费github节点获取并完成客户端配置？</h1>
 

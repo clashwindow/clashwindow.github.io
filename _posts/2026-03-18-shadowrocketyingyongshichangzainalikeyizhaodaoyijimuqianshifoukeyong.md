@@ -19,7 +19,7 @@ shadowrocket应用市场基础配置对网络稳定性的影响
 在探讨shadowrocket应用市"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket应用市场在哪里可以找到以及目前是否可用</h1>
 

@@ -19,7 +19,7 @@ description: ""如何使用超实惠机场官网cshjc找到优质节点？"
 在如今信息爆炸的时代，拥有稳定、快速的网络连接对于许多用户来说至关重要。尤其是在进行跨境访问或需要更灵活的网络体验shadow"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何使用超实惠机场官网cshjc找到优质节点？</h1>
 

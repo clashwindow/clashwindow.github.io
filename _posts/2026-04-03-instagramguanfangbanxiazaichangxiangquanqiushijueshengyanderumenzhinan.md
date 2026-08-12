@@ -18,7 +18,7 @@ description: ""Instagram官方版下载：畅享全球视觉盛宴的入门指�
 在信息爆炸的时代，一款能够连接世界、分享生活点滴的社交应用至关重要。Instagram官方版下载，正是许多用户寻求与全球"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>Instagram官方版下载：畅享全球视觉盛宴的入门指南</h1>
 

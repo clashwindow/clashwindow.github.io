@@ -19,7 +19,7 @@ description: ""2026年优质苹果手机专用梯子还能用吗？"
 在当前的 iOS 生态环境中，网络工具"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2026年优质苹果手机专用梯子还能用吗？连接稳定性与配置环境深度解析</h1>
 

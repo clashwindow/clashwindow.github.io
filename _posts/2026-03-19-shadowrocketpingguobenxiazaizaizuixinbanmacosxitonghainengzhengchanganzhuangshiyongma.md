@@ -19,7 +19,7 @@ shadowrocket苹果本下载后的运行环境配置与系统稳定性验证
 在当前的苹果生态体"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>shadowrocket苹果本下载在最新版macOS系统还能正常安装使用吗</h1>
 

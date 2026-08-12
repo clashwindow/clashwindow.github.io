@@ -19,7 +19,7 @@ shadowrocket入口配置失败的常见原因
 在寻找并使用 shadowrocke每日节点t入口 的过"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket入口在哪里找以及现在还能用吗</h1>
 

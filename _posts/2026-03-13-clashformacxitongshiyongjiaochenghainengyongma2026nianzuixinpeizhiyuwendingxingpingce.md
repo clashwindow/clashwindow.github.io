@@ -13,7 +13,7 @@ keywords: "免费机场收集clash,免费订阅节点subscribe,节点推荐购�
 description: "本文深度评测clash for mac系统使用教程还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash 推荐图](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash for mac系统使用教程还能用吗？2026年最新配置与稳定性评测
 

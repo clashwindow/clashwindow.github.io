@@ -19,7 +19,7 @@ shadowrocket下载安装后的环境配置与系统稳定性关联
 在完成shadowrocket下载安装后，用户首要面临的是客户端与系"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>shadowrocket下载安装后还能正常连接节点吗</h1>
 

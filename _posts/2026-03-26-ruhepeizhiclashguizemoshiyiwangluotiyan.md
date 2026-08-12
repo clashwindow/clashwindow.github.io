@@ -18,7 +18,7 @@ description: ""如何配置clash规则模式以网络体验？"
 在复杂的网络环境中，如何精细化地管理数据流向，实现不同应用访问不同路径，是许多用户面临的挑战。Clash 作为一款功能强大的网络工具，其核心优势之一便是灵活的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何配置clash规则模式以网络体验？</h1>
 

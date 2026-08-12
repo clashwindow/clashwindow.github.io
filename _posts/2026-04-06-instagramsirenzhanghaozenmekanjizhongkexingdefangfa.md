@@ -18,7 +18,7 @@ Instagram 私人账号怎么看？几种可行的方法
 在日常使用 Instagram 时，我们时常会遇到一些用户将自己的账号设为私人模式。这意味着非关注者无法直接浏览其发布的照片、视频和动"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Instagram 私人账号怎么看？几种可行的方法</h1>
 

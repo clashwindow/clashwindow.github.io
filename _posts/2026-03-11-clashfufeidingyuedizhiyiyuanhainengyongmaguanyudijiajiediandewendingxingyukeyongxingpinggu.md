@@ -13,7 +13,7 @@ keywords: "订阅者ID,免费节点最新,clash代理规则设置,clash免费版
 description: "本文详细解答clash付费订阅地址 一元还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash 推荐图](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 ## clash付费订阅地址 一元还能用吗？关于低价节点的稳定性与可用性评估
 

@@ -18,7 +18,7 @@ Instagram国内能用吗？几种实用连接方式详解
 许多用户在网络上搜索“Instagram国内能用吗”，这反映了大家对访问全球热门社交平台的强烈兴趣。确实，在一些地区，直接访问Inst"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>Instagram国内能用吗？几种实用连接方式详解</h1>
 

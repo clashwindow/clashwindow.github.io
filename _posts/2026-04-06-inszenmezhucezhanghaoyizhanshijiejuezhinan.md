@@ -18,7 +18,7 @@ ins 怎么注册账号？一站式解决指南
 在数字时代，许多人希望接触到更广阔的国际信息和社交圈，而 Instagram（简称 ins）无疑是其中一个热门平台。不少用户在尝试访问和使用时，会遇到关于 ins"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>ins 怎么注册账号？一站式解决指南</h1>
 

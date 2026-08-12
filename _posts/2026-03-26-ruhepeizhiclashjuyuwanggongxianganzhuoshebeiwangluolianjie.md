@@ -18,7 +18,7 @@ description: ""如何配置clash局域网共享安卓设备网络连接？"
 在日常工作学习中，我们常常需要在多个设备间实现统一的网络访问环境。特别是当主设备已经配置好稳定的网络代理服务时，如何将其共享给局域网内"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>如何配置clash局域网共享安卓设备网络连接？</h1>
 

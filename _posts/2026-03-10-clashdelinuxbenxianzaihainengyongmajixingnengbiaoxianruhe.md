@@ -15,7 +15,7 @@ keywords: "外墙专用梯子,clash连接正常但开不了谷歌,clash公益机
 description: "本文深度评测clash的linux本现在还能用吗及性能表现如何，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash 推荐图](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 ## clash的linux本现在还能用吗及性能表现如何
 

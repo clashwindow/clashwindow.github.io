@@ -18,7 +18,7 @@ description: ""如何为你的设备高效配置并评估一个 showrocket账号
 在当今复杂的网络环境中，拥有一个配置得当且性能稳定的 showrocket账号，是确保流畅访问全球互联网资源的关键"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何为你的设备高效配置并评估一个 showrocket账号？</h1>
 

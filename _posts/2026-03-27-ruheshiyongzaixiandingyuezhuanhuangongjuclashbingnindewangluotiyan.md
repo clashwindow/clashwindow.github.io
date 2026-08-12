@@ -18,7 +18,7 @@ description: ""如何使用在线订阅转换工具clash并您的网络体验？
 在当前复杂的网络环境下，许多用户为了连接质量访问特定区域内容，会选择使用各类网络代理工具。Clash、Shadowrocket（小火箭"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何使用在线订阅转换工具clash并您的网络体验？</h1>
 

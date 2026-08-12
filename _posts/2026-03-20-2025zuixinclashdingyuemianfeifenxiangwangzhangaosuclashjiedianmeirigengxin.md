@@ -19,7 +19,7 @@ description: ""2025最新clash订阅免费分享网站：高速Clash节点每日
 - 为了"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>2025最新clash订阅免费分享网站：高速Clash节点每日更新</h1>
 

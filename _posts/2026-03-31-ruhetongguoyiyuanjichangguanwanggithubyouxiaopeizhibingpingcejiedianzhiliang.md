@@ -18,7 +18,7 @@ description: ""如何通过一元机场官网github有效配置并评测节点�
 在当今复杂的网络环境中，许多技术爱好者和开发者为了学术研究或跨区域协作，常常需要配置特定的网络工具。其中，通过 GitHu"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何通过一元机场官网github有效配置并评测节点质量？</h1>
 

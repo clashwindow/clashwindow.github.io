@@ -18,7 +18,7 @@ description: "2025最新Clash免费订阅节点列表分享与配置指南
 在日常科学上网需求中，Clash免费订阅节点列表已成为许多用户首选的代理工具方案。它支持跨平台客户端，如Clash for Win"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2025最新Clash免费订阅节点列表分享与配置指南</h1>
 

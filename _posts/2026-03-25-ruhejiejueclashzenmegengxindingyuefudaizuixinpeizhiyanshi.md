@@ -18,7 +18,7 @@ description: ""如何解决 Clash 怎么更新订阅？"
 在复杂的网络环境中，Clash 作为一款功能强大的网络管理工具，受到了许多用户的青睐。然而，对于初次接触或不常操作的用户来说，“c"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何解决 Clash 怎么更新订阅？附带最新配置演示</h1>
 

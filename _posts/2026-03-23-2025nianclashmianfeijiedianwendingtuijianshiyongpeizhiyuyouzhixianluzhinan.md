@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点稳定推荐：实用配置与优质线�
 在当今网络环境中，选择clash免费节点稳定推荐已成为许多用户关注的焦点。这些节点不仅能提供可靠的科学上网体验，还"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>2025年Clash免费节点稳定推荐：实用配置与优质线路指南</h1>
 

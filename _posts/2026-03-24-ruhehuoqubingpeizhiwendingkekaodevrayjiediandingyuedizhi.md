@@ -18,7 +18,7 @@ description: ""如何获取并配置稳定可靠的vray节点订阅地址？"
 在当前复杂的网络环境中，为了实现、的数据传输访问，许多技术人员和高级用户会选择使用 V2Ray 等工具。而手动逐一配置节点既繁琐小火箭vpn又"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何获取并配置稳定可靠的vray节点订阅地址？</h1>
 

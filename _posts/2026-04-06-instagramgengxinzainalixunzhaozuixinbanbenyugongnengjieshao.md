@@ -18,7 +18,7 @@ Instagram 更新在哪里？寻找最新版本与功能介绍
 在数字时代，社交媒体平台的更新换代速度惊人。Instagram 作为全球最受欢迎的图片和视频分享应用之一，其功能的迭代和用户界"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>Instagram 更新在哪里？寻找最新版本与功能介绍</h1>
 

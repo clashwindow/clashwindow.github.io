@@ -18,7 +18,7 @@ shadowrocket软件购买在哪里最靠谱且目前还能用吗？
 在当前的移动网络环境下，寻找高效的网络调试工具已成为许多技术爱好者的刚需。Shadowro免费机场节点cket，俗"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>shadowrocket软件购买在哪里最靠谱且目前还能用吗？</h1>
 

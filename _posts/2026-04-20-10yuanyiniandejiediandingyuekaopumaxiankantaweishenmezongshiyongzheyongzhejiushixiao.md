@@ -15,7 +15,7 @@ keywords: "clash 洞主规则,clash for windows导出配置,discord的id在哪�
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash 推荐图](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## 10元一年的节点订阅靠谱吗？先看它为什么总是用着用着就失效
 

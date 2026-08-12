@@ -13,7 +13,7 @@ keywords: "免费机场收集网站,clash订阅地址在哪,农夫山泉clash节
 description: "本文深度评测clash关闭连接后还能正常上网吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash 推荐图](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 ## clash关闭连接后还能正常上网吗？
 

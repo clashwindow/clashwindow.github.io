@@ -19,7 +19,7 @@ shadowroket最新下载后的基础配置与小火箭订阅导入逻辑
 在完成 sha"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowroket最新下载目前还能用吗？苹果端网络工具获取途径与稳定性分析</h1>
 

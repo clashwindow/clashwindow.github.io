@@ -19,7 +19,7 @@ Shadowrocket在线使用配置是否正确对连接速率的影响
 在探"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>Shadowrocket在线使用还能用吗？2026最新小火箭订阅与节点连接性实测分析</h1>
 

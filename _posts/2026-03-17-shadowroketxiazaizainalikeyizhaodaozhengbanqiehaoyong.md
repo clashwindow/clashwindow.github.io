@@ -18,7 +18,7 @@ shadowroket下载在哪里可以找到正版且好用
 对于许多需要优化网络访问路径的用户而言，寻找一个可靠的 shadowroket下载 渠道是建立稳定连接的第一步。由于该应用在部分地区的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowroket下载在哪里可以找到正版且好用</h1>
 

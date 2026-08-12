@@ -14,7 +14,7 @@ keywords: "sstap订阅购买,小火箭二维码分享,1元飞机场官网,订阅
 description: "Clash点击没反应还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 ## Clash点击没反应还能用吗？启动失败打不开有没有解决办法
 

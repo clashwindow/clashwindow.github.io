@@ -18,7 +18,7 @@ Instagram 中文网页如何才能顺畅访问？
 在信息爆炸的时代，Instagram 凭借其独特的视觉分享平台吸引了全球亿万用户。然而，对于国内用户而言，直接访问 Instagram 并非易"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>Instagram 中文网页如何才能顺畅访问？</h1>
 

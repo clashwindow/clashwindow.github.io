@@ -18,7 +18,7 @@ description: ""2025年v2ray节点免费稳定教程：从零配置到高速连�
 在当下网络环境中，寻找可免费clash节点订阅地址靠的v2ray节点免费稳定教程已成为许多用户的需求。本文基于多年科学上网"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年v2ray节点免费稳定教程：从零配置到高速连接</h1>
 

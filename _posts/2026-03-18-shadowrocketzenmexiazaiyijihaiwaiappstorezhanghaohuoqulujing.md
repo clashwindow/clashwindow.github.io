@@ -18,7 +18,7 @@ shadowrocket怎么下载以及海外App Store账号获取路径
 对于许多iOS用户而言，了解shadowrocket怎么下载是进入网络调试与代理工具领域的第一"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket怎么下载以及海外App Store账号获取路径</h1>
 

@@ -15,7 +15,7 @@ keywords: "在国内怎么用国外的软件,电脑版clash怎么用,纸飞机�
 description: "clash登录入口还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
+![Clash 推荐图](/img/tiktok%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash登录入口还能用吗？2026年最新连接方案与节点稳定性分析
 

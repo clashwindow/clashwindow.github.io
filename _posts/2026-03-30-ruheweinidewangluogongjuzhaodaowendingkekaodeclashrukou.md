@@ -18,7 +18,7 @@ description: ""如何为你的网络工具找到稳定可靠的clash入口？"
 在数字化时代，高效、稳定地访问全球网络资源成为许多用户的基本需求。Clash作为一款广受欢迎的跨平台网络工具，其核心功能依赖于一个关键元素"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何为你的网络工具找到稳定可靠的clash入口？</h1>
 

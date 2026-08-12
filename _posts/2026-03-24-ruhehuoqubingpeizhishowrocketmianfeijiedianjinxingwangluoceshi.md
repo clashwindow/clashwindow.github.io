@@ -18,7 +18,7 @@ description: ""如何获取并配置 showrocket免费 节点进行网络测试"
 在复杂的网络环境中，技术研究人员、开发者以及普通用户有时需要借助特定工具来分析和测试网络连接质量。Shadowrock"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何获取并配置 showrocket免费 节点进行网络测试</h1>
 

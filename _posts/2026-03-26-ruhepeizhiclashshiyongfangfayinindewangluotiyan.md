@@ -18,7 +18,7 @@ description: ""如何配置Clash使用方法以您的网络体验？"
 在当前复杂的网络环境中，有效管理网络流量和连接效率成为了许多用户的共同需求。Clash作为一款广受欢迎的多协议代理客户端，以其灵活的规则配置和强大的功"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash节点推荐](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何配置Clash使用方法以您的网络体验？</h1>
 

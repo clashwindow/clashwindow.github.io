@@ -18,7 +18,7 @@ GTA5现在还能玩吗？稳定连接的实用指南
 “GTA5现在还能玩吗？”这个问题相信是许多《侠盗猎车手5》（Grand Theft Auto V）的忠实玩家和潜在新玩家都非常关心的问题。随着游戏本身的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场订阅免费.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%85%8D%E8%B4%B9.png)
 
 <h1>GTA5现在还能玩吗？稳定连接的实用指南</h1>
 

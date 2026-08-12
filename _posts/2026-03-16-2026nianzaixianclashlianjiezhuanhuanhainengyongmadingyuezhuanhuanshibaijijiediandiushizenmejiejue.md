@@ -19,7 +19,7 @@ clash链接转换配置失败是否影响稳定性及节点显示
 在使用 Clash for Win"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2026年在线clash链接转换还能用吗？订阅转换失败及节点丢失怎么解决？</h1>
 

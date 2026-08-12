@@ -15,7 +15,7 @@ keywords: "clashofwindows中文版,使用clash的注意事项,ssr机场代理,ss
 description: "本文深度评测clash的uri导入失败还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash 推荐图](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 ## clash的uri导入失败还能用吗？
 

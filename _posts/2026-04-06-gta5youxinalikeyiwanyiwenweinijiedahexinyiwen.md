@@ -18,7 +18,7 @@ GTA5游戏哪里可以玩？一文为你解答核心疑问
 《侠盗猎车手V》（Grand Theft Auto V，简称GTA5）作为一款风靡全球的开放世界动作冒险游戏，吸引了无数玩家沉浸在其庞大而自由的洛"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>GTA5游戏哪里可以玩？一文为你解答核心疑问</h1>
 

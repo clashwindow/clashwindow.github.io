@@ -18,7 +18,7 @@ shadowrocket配节点推荐置规则好不好用以及最新的规则哪里有�
 在当前的移动网络环境下，合理利用 shadowrocket配置规则 进行流量管理已成为许多用户的刚需。"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket配置规则好不好用以及最新的规则哪里有？</h1>
 

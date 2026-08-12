@@ -19,7 +19,7 @@ description: ""如何优化 shawdorocket 配置以获得更佳网络体验"
 在使用 Shadowrocket（俗clsah小火箭称小火箭）进行网络连接时，许多用户会遇到配置复杂、"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何优化 shawdorocket 配置以获得更佳网络体验</h1>
 

@@ -18,7 +18,7 @@ Instagram 国内打不开？这些方法或许能帮你
 近年来，Instagram 作为全球领先的社交媒体平台之一，吸引了无数用户分享节点分享生活、发现潮流。然而，不少国内用户在尝试访问 I"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Instagram 国内打不开？这些方法或许能帮你</h1>
 

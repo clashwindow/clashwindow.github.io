@@ -13,7 +13,7 @@ keywords: "sstap手机版下载,clach免费节点,订阅地址转换,clash怎么
 description: "本文详细解答clash付费订阅网站还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash 推荐图](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 ## clash付费订阅网站还能用吗？访问速度和稳定性实测表现如何？
 

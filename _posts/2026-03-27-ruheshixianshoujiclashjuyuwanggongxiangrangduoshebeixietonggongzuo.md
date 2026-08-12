@@ -18,7 +18,7 @@ description: ""如何实现手机Clash局域网共享，让多设备协同工作
 在日常工作学习中，我们常常需要在多个设备间建立统一的网络访问环境，例如让笔记本电脑、平板或其他手机通过一部已经配置好网络代理的手机"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
+![Clash节点推荐](/img/tiktok%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何实现手机Clash局域网共享，让多设备协同工作？</h1>
 

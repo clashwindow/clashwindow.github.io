@@ -18,7 +18,7 @@ description: ""2025年免费Clash节点推荐：优质2525线路分享与配置�
 在2025年，随着网络环境的不断变化，寻找免费Clash节点2525推荐已成为许多用户关注的焦点。这些节点"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash节点推荐](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年免费Clash节点推荐：优质2525线路分享与配置指南</h1>
 

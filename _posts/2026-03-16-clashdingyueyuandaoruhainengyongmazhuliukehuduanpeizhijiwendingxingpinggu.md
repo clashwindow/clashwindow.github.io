@@ -19,7 +19,7 @@ Clash 订阅源导入还能用吗？主流客户端配置及稳定性评估
 在进行订阅源导入操作时，用户最常遇到的问题是客户端提示“配置文"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>Clash 订阅源导入还能用吗？主流客户端配置及稳定性评估</h1>
 

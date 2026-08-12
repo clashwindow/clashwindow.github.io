@@ -15,7 +15,7 @@ keywords: "clash软件安全吗?,clash安卓订阅链接怎么获得,每日节�
 description: "本文详细解答clash共享热点教程现在还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash 推荐图](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 ## clash共享热点教程现在还能用吗？
 

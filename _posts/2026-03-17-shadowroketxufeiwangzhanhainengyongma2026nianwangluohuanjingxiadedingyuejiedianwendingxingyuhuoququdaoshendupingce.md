@@ -18,7 +18,7 @@ shadowroket续费网站还能用吗？2024年网络环境下的订阅节点稳�
 在当前复杂的网络通信环境下，许多用户发现曾经收"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>shadowroket续费网站还能用吗？2026年网络环境下的订阅节点稳定性与获取渠道深度评测</h1>
 

@@ -18,7 +18,7 @@ description: ""如何获取clash最新地址并完成客户端基础配置？"
 在当前复杂的网络环境下，许多用户依赖Clash等工具来和管理自己的网络连接。然而，一个常见且核心的问题便是如何找到稳定可靠"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何获取clash最新地址并完成客户端基础配置？</h1>
 

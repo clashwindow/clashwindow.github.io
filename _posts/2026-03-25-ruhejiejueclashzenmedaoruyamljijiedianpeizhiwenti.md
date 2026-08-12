@@ -18,7 +18,7 @@ description: ""如何解决Clash怎么导入yaml及节点配置问题？"
 在当今复杂的网络环境中，Clash 作为一款功能强大的网络管理工具，受到了广大技术爱好者和专业人士的青睐。然而，对于许多初次接触的用户"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何解决Clash怎么导入yaml及节点配置问题？</h1>
 

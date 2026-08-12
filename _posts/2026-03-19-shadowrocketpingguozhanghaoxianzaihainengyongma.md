@@ -18,7 +18,7 @@ shadowrocket苹果账号现在还能用吗
 在当前的网络环境下，许多用户在寻找网络调试工具时，最先接触到的往往是 Shadowrocket。由于该应用在部分地区的 App Store 并不直"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket苹果账号现在还能用吗</h1>
 

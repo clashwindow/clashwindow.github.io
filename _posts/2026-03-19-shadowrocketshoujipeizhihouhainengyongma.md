@@ -19,7 +19,7 @@ shadowrocket手机客户端下载安装教程与兼容性分析
 在当前的移动网络环境下，shadowrocket手机端作为一款基于规则的网络代理工具，其核"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket手机配置后还能用吗</h1>
 

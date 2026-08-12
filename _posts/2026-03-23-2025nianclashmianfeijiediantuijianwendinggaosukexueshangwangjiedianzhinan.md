@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点推荐：稳定高速科学上网节点�
 在数字化时代，科学上网节点已成为许多用户日常必需。随着2025年的到来，选择合适的Clash免费节点2025推荐变得尤"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年Clash免费节点推荐：稳定高速科学上网节点指南</h1>
 

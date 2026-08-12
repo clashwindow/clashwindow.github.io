@@ -13,7 +13,7 @@ keywords: "使用skyline加速器官网,节点推荐加速云,clash怎么配置�
 description: "本文详细解答clash关掉后无法上网该怎么恢复正常？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash 推荐图](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash关掉后无法上网该怎么恢复正常？
 

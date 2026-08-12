@@ -19,7 +19,7 @@ description: "2025最新v2ray免费节点列表分享与配置指南
 - 现在开始处理这个请求，它要求生成一"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2025最新v2ray免费节点列表分享与配置指南</h1>
 

@@ -18,7 +18,7 @@ Instagram在中国能否正常使用？以及如何解决
 许多身处中国大陆的用户都会有疑问：Instagram能在中国用吗？答案是，在没有特殊工具的情况下，Instagram在中国大陆地区是无"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>Instagram在中国能否正常使用？以及如何解决</h1>
 

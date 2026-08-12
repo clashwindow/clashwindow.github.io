@@ -18,7 +18,7 @@ Instagram在国内怎么用：实用连接指南
 许多海外的朋友们在分享生活、工作和兴趣时，Instagram 已成为不可或缺的平台。对于身处国内的用户来说，想要顺畅地使用 Instagram，理"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Instagram在国内怎么用：实用连接指南</h1>
 

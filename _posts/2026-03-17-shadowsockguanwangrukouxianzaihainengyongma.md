@@ -19,7 +19,7 @@ shadowsock 官网入口现在还能用吗
 在网络环境日益复杂的今天，寻找并识别有效的 shadowsock 官网入"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowsock 官网入口现在还能用吗</h1>
 

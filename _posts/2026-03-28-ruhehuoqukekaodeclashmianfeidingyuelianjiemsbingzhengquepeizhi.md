@@ -18,7 +18,7 @@ description: ""如何获取可靠的clash免费订阅链接ms并正确配置？"
 在复杂的网络环境中，许多技术研究人员、开发者或网络管理员会使用 Clash 这类工具来管理和分析网络流量。其核心功能之一便是通过订"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>如何获取可靠的clash免费订阅链接ms并正确配置？</h1>
 

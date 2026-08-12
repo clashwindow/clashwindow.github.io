@@ -18,7 +18,7 @@ description: ""2025年最新免费试用机场推荐：Clash与小火箭高效�
 在2025年，网络环境日益复杂，选择合适的代理工具已成为许多用户的首要需求。作为一名长期从事科学上网节点测试的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>2025年最新免费试用机场推荐：Clash与小火箭高效节点指南</h1>
 

@@ -19,7 +19,7 @@ description: ""2026年小飞机免费节点网站现在还能用吗？"
 在当前的互联网环境下，用户对于小飞机免费节点网站的需求shadowrocket免费节点往往集中在寻找高带宽与低"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2026年小飞机免费节点网站现在还能用吗？</h1>
 

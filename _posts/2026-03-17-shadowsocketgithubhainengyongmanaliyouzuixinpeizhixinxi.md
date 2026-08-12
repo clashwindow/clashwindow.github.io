@@ -19,7 +19,7 @@ shadowsocket github 客户端配置正确性对连接质量的影响
 在寻找 shadow"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowsocket github 还能用吗？哪里有最新配置信息？</h1>
 

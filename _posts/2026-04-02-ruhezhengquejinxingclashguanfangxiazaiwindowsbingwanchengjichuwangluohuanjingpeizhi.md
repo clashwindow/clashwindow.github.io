@@ -18,7 +18,7 @@ description: ""如何正确进行clash官方下载windows并完成基础网络�
 在当今复杂的网络环境中，许多开发者、研究人员和普通用户都需要借助专业的网络工具来优化和性价比机场推"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何正确进行clash官方下载windows并完成基础网络环境配置？</h1>
 

@@ -19,7 +19,7 @@ shadowrocket替代app配置正确与否对网络延迟的影响
 在寻找shadowrocket替代"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash节点推荐](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket替代app有没有比小火箭更稳定的选择</h1>
 

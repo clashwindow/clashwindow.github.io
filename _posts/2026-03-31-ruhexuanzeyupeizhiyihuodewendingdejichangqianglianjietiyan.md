@@ -19,7 +19,7 @@ description: ""如何选择与配置，以获得稳定的机场 墙连接体验�
    clash配置 在数字化日益深入的今天，一个高效且可靠的网络连接方案对于个人和企业都至关重要。许多用户在寻求clash小火箭优化其网络"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场订阅免费.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%85%8D%E8%B4%B9.png)
 
 <h1>如何选择与配置，以获得稳定的机场 墙连接体验？</h1>
 

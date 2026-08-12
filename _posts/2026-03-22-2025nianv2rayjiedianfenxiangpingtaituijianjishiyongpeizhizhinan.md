@@ -18,7 +18,7 @@ description: ""2025年v2ray节点分享平台推荐及实用配置指南"
 在当前网络环境下，选择可靠的v2ray节点分享平台推荐已成为许多用户优化上网体验的关键。本文基于多年代理工具使用经验，结合Clash、"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年v2ray节点分享平台推荐及实用配置指南</h1>
 

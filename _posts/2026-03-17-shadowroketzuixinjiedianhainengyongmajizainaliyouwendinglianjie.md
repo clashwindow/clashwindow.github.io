@@ -19,7 +19,7 @@ shadowroket最新节点配置是否正确对连接效率的影响
 在使用网络调试工具的过程中，用户往往会发现即使获取了sha"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowroket最新节点还能用吗及在哪里有稳定链接？</h1>
 

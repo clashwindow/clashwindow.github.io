@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点推荐：实用配置与稳定线路指�
 在2025年，随着网络环境的变化，选择合适的Clash免费节点已成为许多用户关注的焦点。作为一名长期使用代理工具的资深用户"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年Clash免费节点推荐：实用配置与稳定线路指南</h1>
 

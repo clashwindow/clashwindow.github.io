@@ -13,7 +13,7 @@ keywords: "Clash充值网站,2025年免费节点分享,clash冲上云霄,两元�
 description: "本文详细解答clash for mac配置文件导入方法还有效吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash 推荐图](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash for mac配置文件导入方法还有效吗？2026年最新操作指南与环境兼容性分析
 

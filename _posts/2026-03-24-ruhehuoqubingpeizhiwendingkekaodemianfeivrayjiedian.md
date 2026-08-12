@@ -18,7 +18,7 @@ description: ""如何获取并配置稳定可靠的免费vray节点？"
 在当今复杂的网络环境中，许多技术爱好者专业人士都希望能找到稳定且的网络解决。其中，免费vray节点因其零成本的特性而备受关注。然而，免费资源往往伴随着"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何获取并配置稳定可靠的免费vray节点？</h1>
 

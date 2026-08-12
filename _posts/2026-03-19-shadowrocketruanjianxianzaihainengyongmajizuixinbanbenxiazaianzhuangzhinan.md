@@ -18,7 +18,7 @@ shadowrocket软件现在还能用吗及最新版本下载安装指南
 对于许多需要处理跨境协作或访问全球学术资源的个人用户而言，shadowrocket软件（常被称为“小火箭”）一"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>shadowrocket软件现在还能用吗及最新版本下载安装指南</h1>
 

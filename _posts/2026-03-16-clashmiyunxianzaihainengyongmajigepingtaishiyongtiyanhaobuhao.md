@@ -19,7 +19,7 @@ clash 觅云配置文件导入失败与核心参数校验
 在使用 clash 觅云 的过程中，用户最常遇到的第一个门槛往往是配置文件无法正常解析"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>clash 觅云现在还能用吗及各平台使用体验好不好</h1>
 

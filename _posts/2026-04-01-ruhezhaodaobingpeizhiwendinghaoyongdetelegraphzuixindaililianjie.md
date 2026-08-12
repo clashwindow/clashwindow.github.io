@@ -17,7 +17,7 @@ description: ""如何找到并配置稳定好用的telegraph最新代理链接�
 在当前复杂的网络环境下，许多用户在使用 Telegraph 等国际通讯工具时，常常会遇到连接不稳定、消息收发延迟等问题。为"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>如何找到并配置稳定好用的telegraph最新代理链接？</h1>
 

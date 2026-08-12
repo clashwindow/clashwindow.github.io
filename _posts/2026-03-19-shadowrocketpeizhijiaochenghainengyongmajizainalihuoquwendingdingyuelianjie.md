@@ -18,7 +18,7 @@ shadowrocket配置教程还能用吗及在哪里获取稳定订阅链接
 在当前的网络环境下，移动端代理工具的稳定性成为了用户关注的焦点。作为 iOS 平台上主流的第三方代理客户端"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash节点推荐](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket配置教程还能用吗及在哪里获取稳定订阅链接</h1>
 

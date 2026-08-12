@@ -19,7 +19,7 @@ clash 无法切换到目标文件还能用吗？常见配置冲突与修复深�
 在日常使用 Clash for Windo"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>clash 无法切换到目标文件还能用吗？常见配置冲突与修复深度解析</h1>
 

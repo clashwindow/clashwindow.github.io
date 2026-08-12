@@ -13,7 +13,7 @@ keywords: "clashr订阅,免费clash订阅节点,纸飞机梯子哪个好用,鳄�
 description: "本文深度评测Clash服务模式作用好不好用以及开启后没网怎么办？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash 推荐图](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 ## Clash服务模式作用好不好用以及开启后没网怎么办？
 

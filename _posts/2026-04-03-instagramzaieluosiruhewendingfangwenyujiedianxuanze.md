@@ -18,7 +18,7 @@ Instagram在俄罗斯如何稳定访问与节点选择
 对于许多希望了解或体验Instagram俄罗斯地区用户动态的国内用户而言，稳定高效的网络连接是关键。由于网络环境的特殊性，直接访问往往面临"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Instagram在俄罗斯如何稳定访问与节点选择</h1>
 

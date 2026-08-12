@@ -19,7 +19,7 @@ shadowrocket添加节点手动配置与连接稳定性校验
 在当前的移动网络环境下，用户对于"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>shadowrocket添加节点还能用吗？2026年最新配置与稳定性评测</h1>
 

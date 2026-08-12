@@ -18,7 +18,7 @@ Instagram 国际版下载：快速获取的渠道与配置技巧
 在数字时代，保持与clash节点分享世界各地的朋友、家人以及关注的公众人物的联系变得越来越重要。Instagram节点每日"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>Instagram 国际版下载：快速获取的渠道与配置技巧</h1>
 

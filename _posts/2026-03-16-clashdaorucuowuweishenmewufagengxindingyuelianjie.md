@@ -19,7 +19,7 @@ Clash 导入错误常见的 YAML 格式规范问题
 在处理 Cl梯子下载vpn软件ash 导入错误时，最核心的诱因往往源于配置文件（YAML）的结"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>Clash 导入错误为什么无法更新订阅链接？</h1>
 

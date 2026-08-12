@@ -18,7 +18,7 @@ description: ""如何有效应对 Clash 显示 EOF 错误及节点配置优化�
 在使用网络工具时，许多用户都可能遇到过一个令人困惑的提示：“clash显示eof”。EOF 是 “End-Of-F"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何有效应对 Clash 显示 EOF 错误及节点配置优化？</h1>
 

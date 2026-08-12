@@ -18,7 +18,7 @@ shadowrocket网页节点还能用吗？如何判断订阅链接是否有效
 在移动端网络调试工具的使用过程中，shadowrocket网页生成的订阅链接或节点配置是用户获取服务的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>shadowrocket网页节点还能用吗？如何判断订阅链接是否有效</h1>
 

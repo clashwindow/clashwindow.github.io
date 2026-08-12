@@ -14,7 +14,7 @@ keywords: "免费节点转换器,免费的Clash配置文件,免费clash配置链
 description: "clash官方最新本还能用吗以及在哪里可以下载"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 ## clash官方最新本还能用吗以及在哪里可以下载
 

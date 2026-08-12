@@ -18,7 +18,7 @@ description: ""2025年免费SSR订阅链接分享及实用配置指南"
 在日常科学上网需求中，免费SSR订阅链接分享已成为许多用户获取稳定节点的重要途径。本文基于多年代理工具使用经验，系统整理Clash、小火箭（S"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>2025年免费SSR订阅链接分享及实用配置指南</h1>
 

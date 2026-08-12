@@ -13,7 +13,7 @@ keywords: "clash.exe,bsub 指定节点,一元机场官网入口官网,多节点�
 description: "<p>很多人第一次接触代理工具，往往不是为了折腾，而是被“连不上、很慢、经常掉线”逼出来的。尤其是看到价格只要1元，第一反应通常是：<strong>1元机场软件靠谱吗会跑路吗</strong>？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash 推荐图](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## 1元机场软件靠谱吗会跑路吗？实测后该怎么判断
 

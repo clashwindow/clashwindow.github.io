@@ -14,7 +14,7 @@ keywords: "clash节点免费,每天试用一小时的梯子,clash免费配置下
 description: "本文详细解答clash服务模式用户没有权限怎么办还能用吗，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 ## clash服务模式用户没有权限怎么办还能用吗
 

@@ -18,7 +18,7 @@ description: ""如何获取clash小蓝猫汉化下载并完成基础配置？"
 在当前复杂的网络环境中，许多用户为了网络访问效率性，会选择使用一些专业的网络工具。Clash 作为一款备受青睐的代理工具class节点，以"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash节点推荐](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何获取clash小蓝猫汉化下载并完成基础配置？</h1>
 

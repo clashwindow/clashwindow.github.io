@@ -14,7 +14,7 @@ keywords: "动态路由配置命令,clash安装教程,免费小飞机节点,ssta
 description: "本文深度评测Clash更新失败怎么回事还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash 推荐图](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## Clash更新失败怎么回事还能用吗？常见订阅错误排查与节点质量评估
 

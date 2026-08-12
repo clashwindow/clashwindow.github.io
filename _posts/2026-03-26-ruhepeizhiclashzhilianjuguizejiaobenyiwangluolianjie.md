@@ -18,7 +18,7 @@ description: ""如何配置clash直连 局 规则 脚本以网络连接？"
 在当今复杂的网络环境中，有效管理和数据流向变得至关重要。许多用户借助Clash、Shadowrocket等工具来网络访问的灵活性效率。"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何配置clash直连 局 规则 脚本以网络连接？</h1>
 

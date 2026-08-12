@@ -18,7 +18,7 @@ description: ""如何解决 Clash哪里找订阅链接及其配置难题？"
 在当今数字化环境中，许多用户为了网络连接、访问国际资源的效率，会选择使用 Clash 这类网络工具。然而，一个常见的问题随之而来clash"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>如何解决 Clash哪里找订阅链接及其配置难题？</h1>
 

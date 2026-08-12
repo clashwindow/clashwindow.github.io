@@ -18,7 +18,7 @@ gtpchat：如何选择与配置合适的节点，提升网络体验
 在数字时代，稳定高效的网络连接是我们获取信息、进行交流以及娱乐体验的关键。对于许多用户而言，能够顺畅访问全球互免费clash "
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>gtpchat：如何选择与配置合适的节点，提升网络体验</h1>
 

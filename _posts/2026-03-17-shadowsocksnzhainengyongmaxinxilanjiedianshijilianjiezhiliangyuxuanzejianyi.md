@@ -19,7 +19,7 @@ sclash订阅节点hadowsocks nz 节点连接失败及配置排查方法
 在当前的网络环"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowsocks nz 还能用吗？新西兰节点实际连接质量与选择建议</h1>
 

@@ -15,7 +15,7 @@ keywords: "ssr机场代理,ssr安卓客户端下载,clashfor安卓手机下载,v
 description: "本文深度评测clash国际流量管理还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash 推荐图](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash国际流量管理还能用吗？2026年多场景网络连通性深度评估
 

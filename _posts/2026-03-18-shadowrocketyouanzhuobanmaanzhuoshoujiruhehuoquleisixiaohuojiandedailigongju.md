@@ -18,7 +18,7 @@ Shadowrocket有安卓版吗？安卓手机如何获取类似小火箭的代理�
 在移动端网络工具的搜索热度中，“Shadowrocket有安卓版吗”始终是一个高频问题。对"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Shadowrocket有安卓版吗？安卓手机如何获取类似小火箭的代理工具</h1>
 

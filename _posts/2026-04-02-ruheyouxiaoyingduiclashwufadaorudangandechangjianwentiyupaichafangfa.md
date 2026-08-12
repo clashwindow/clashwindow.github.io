@@ -18,7 +18,7 @@ description: ""如何有效应对 clash无法导入档案 的常见问题与排�
 在使用 Clash 系列工具进行网络配置时，用户偶尔会遇到一个令人困扰的问题：clash无法导入档案。这个问题可能"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何有效应对 clash无法导入档案 的常见问题与排查方法？</h1>
 

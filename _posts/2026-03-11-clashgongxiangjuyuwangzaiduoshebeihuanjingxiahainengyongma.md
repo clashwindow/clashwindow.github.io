@@ -14,7 +14,7 @@ keywords: "clash轻云订阅官网,svn和git哪个更好,ssr节点是什么,最�
 description: "本文详细解答clash共享局域网在多设备环境下还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash 推荐图](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 ## clash共享局域网在多设备环境下还能用吗？
 

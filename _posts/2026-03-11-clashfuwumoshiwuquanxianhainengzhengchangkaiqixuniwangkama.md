@@ -13,7 +13,7 @@ keywords: "免费SSR订阅地址的方法,clash节点多少钱一个月,clash怎
 description: "本文深度评测clash服务模式无权限还能正常开启虚拟网卡吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash 推荐图](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash服务模式无权限还能正常开启虚拟网卡吗？
 

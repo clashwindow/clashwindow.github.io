@@ -18,7 +18,7 @@ description: ""2025年v2ray节点免费快速分享及高效使用指南"
 在当下网络环境中，越来越多的用户开始关注v2ray节点免费快速分享，希望通过可靠的科学上网节点实现流畅访问。V2Ra便宜梯子y作为一款"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年v2ray节点免费快速分享及高效使用指南</h1>
 

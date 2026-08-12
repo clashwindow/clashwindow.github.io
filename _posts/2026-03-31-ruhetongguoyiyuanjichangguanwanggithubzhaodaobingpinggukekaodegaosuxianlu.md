@@ -18,7 +18,7 @@ description: ""如何通过一元机场官网github找到并评估可靠的高�
 在当前复杂的网络环境中，许多用户为了提升网络访问的效率与稳定性，会积极寻找各类技术解决方案。其中，“一元机场官网git"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>如何通过一元机场官网github找到并评估可靠的高速线路？</h1>
 

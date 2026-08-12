@@ -18,7 +18,7 @@ description: ""2025年v2ray节点免费配置方法详解与实战分享"
 在当前网络环境下，许多用户寻求可靠的v2ray节点免费配置方法，以实现高效的科学上网。V2Ray作为一款开源代理工具，支持多种协议，包"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年v2ray节点免费配置方法详解与实战分享</h1>
 

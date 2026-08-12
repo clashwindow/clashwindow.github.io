@@ -18,7 +18,7 @@ Instagram 账号密码分享：选择与风险考量
 在数字时代，社交媒体账号已成为许多人在线身份的重要组成部分。Instagclash仪表盘不显示ram 作为全球领先的图片与短视频分享平台，"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>Instagram 账号密码分享：选择与风险考量</h1>
 

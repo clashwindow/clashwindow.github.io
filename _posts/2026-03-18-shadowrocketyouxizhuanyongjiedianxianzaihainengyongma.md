@@ -18,7 +18,7 @@ shadowrocket游戏专用节点现在还能用吗
 在当前的移动网络环境下，许多玩家在尝试跨区域访问联机服务器时，经常会遇到响应滞后或掉线的问题。shadowrocket游戏专用配置方案因其"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>shadowrocket游戏专用节点现在还能用吗</h1>
 

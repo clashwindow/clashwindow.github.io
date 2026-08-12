@@ -18,7 +18,7 @@ Instagram 怎么认证蓝shadowsocket下载iosV：了解流程与准备工作
 在如今的社交媒体时代，一个经过官方认证的账号能够显著提升其可信度和可见度。对于许多品牌、公众人物"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>Instagram 怎么认证蓝V：了解流程与准备工作</h1>
 

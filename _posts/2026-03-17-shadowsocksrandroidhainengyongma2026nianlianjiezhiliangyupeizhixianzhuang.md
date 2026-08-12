@@ -18,7 +18,7 @@ shadowsocksr android 还能用吗？2024年连接质量与配置现状
 shadowsocksr android 客户端全局模式与分应用代理稳定性"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>shadowsocksr android 还能用吗？2026年连接质量与配置现状</h1>
 

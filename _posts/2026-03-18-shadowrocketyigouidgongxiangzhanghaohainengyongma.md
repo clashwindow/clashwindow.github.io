@@ -18,7 +18,7 @@ shadowrocket已购id共享账号还能用吗
 在当前的移动应用生态中，Shadowrocket 因其强大的规则分流能力和对多种协议的支持，成为 iOS 用户处理网络流量的首选工具。然而"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket已购id共享账号还能用吗</h1>
 

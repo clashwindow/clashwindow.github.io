@@ -15,7 +15,7 @@ keywords: "CC加速器官网入口,免费订阅节点,小火箭分流规则是�
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash 推荐图](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 ## 5元一月的机场节点靠谱吗？亲测后发现哪些情况能用，哪些情况别硬撑
 

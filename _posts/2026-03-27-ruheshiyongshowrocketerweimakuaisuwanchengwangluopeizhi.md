@@ -18,7 +18,7 @@ description: ""如何使用showrocket二维码快速完成网络配置？"
 在当前复杂的网络环境下，手动配置网络代理工具不仅繁琐，而且容易出错。幸运的是，借助标准化的订阅链接二维码，整个过程可以被极大简化。"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何使用showrocket二维码快速完成网络配置？</h1>
 

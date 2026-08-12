@@ -19,7 +19,7 @@ Instagram认证难吗？了解申请流程与实用建议
 许多用户在Instagram上积累了大量的粉丝和影响力，自然会考虑获取官方认证，以增强账号的权"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>Instagram认证难吗？了解申请流程与实用建议</h1>
 

@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点高速推荐：稳定优质线路分享�
 在当下网络环境下，选择合适的Clash免费节点高速小火箭安卓推荐已成为许多用户关注的焦点。这些节点不仅能提供稳定的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年Clash免费节点高速推荐：稳定优质线路分享与配置</h1>
 

@@ -18,7 +18,7 @@ description: "为什么Clash关闭后电脑无法上网？以及解决办法
 CocoDuck（可可鸭）测评
 这次测的是 CocoDuck（可可鸭），主打海外团队运营，节点维护和线路调度都比较积极。它家自有四个机房，整体给人的感"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h2>为什么Clash关闭后电脑无法上网？以及解决办法</h2>
 机场名称：CocoDuck（可可鸭）

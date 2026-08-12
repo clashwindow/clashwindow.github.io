@@ -18,7 +18,7 @@ description: ""2026年有效的clash每日更新地址哪里有以及怎么看�
 在当前的网络环境下，寻找一个稳定且高速的clash每日更新地址已成为许多网络重度用户的日常需求。Clash"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>2026年有效的clash每日更新地址哪里有以及怎么看是否可用？</h1>
 

@@ -19,7 +19,7 @@ Clash for Android 免费下载和安装方法全解析
 在开始使用 Clash for Android 之前，正确配置环境和工具至关重要。以下是详细的安装"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>Clash for Android 免费下载和安装方法全解析</h1>
 

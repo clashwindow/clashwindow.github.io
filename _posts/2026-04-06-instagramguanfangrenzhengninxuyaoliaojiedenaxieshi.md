@@ -18,7 +18,7 @@ Instagram 官方认证：您需要了解的那些事
 在数字内容爆炸的时代，获得平台的官方认证，尤其是像 Instagram 这样的全球性社交媒体平台上的认证，无疑是提升账号权威性和辨识度的重"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>Instagram 官方认证：您需要了解的那些事</h1>
 

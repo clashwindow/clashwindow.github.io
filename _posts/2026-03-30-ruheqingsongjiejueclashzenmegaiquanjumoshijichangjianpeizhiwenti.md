@@ -18,7 +18,7 @@ description: ""如何轻松解决clash怎么改全局模式及常见配置问题
 在复杂的网络环境中，有效管理和引导数据流量对于开发者、测试人员和高级用户而言至关重要。Clash 作为一款功能强大的网络工具，提供cl"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何轻松解决clash怎么改全局模式及常见配置问题</h1>
 

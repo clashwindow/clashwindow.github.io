@@ -14,7 +14,7 @@ keywords: "为什么小火箭加速器打不开了,clashx是开源还是闭源,c
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash 推荐图](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## 1元机场延迟高怎么解决？晚高峰卡顿、节点失效时到底该怎么判断
 

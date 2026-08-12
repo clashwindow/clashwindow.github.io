@@ -15,7 +15,7 @@ keywords: "便宜的clash机场在哪里,discord开启全局代理,clash verge �
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash 推荐图](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 ## 5元以下便宜机场节点靠谱吗？真实用户到底该怎么判断
 

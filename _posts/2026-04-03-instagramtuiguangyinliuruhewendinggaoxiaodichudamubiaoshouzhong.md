@@ -18,7 +18,7 @@ Instagramclsah小火箭推广引流：如何稳定高效地触达目标受众
 在日益增长的数字营销浪潮中，Instagram 已成为品牌和个人展示自我、吸引潜在客户的重要平台。然而，如何在"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>Instagram推广引流：如何稳定高效地触达目标受众</h1>
 

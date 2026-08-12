@@ -15,7 +15,7 @@ keywords: "怎么添加订阅节点信息,国内可以使用google吗,独立节�
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/最新机场推荐.png)
+![Clash 推荐图](/img/%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## 5元以下的小火箭节点哪里买？晚高峰老掉线、订阅失效时该怎么选
 

@@ -19,7 +19,7 @@ description: ""2025年最新Clash免费节点推荐链接与实用配置指南"
 要使用Clash免费节点推荐链接，首先需要正确配置Clash客户端。Clash是一款功能强大的跨平台代理工具，"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年最新Clash免费节点推荐链接与实用配置指南</h1>
 

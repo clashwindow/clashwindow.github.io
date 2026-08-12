@@ -15,7 +15,7 @@ keywords: "clashwindows怎么用,Clash节点配置教程,稳定的机场推荐,c
 description: "本文深度评测clash规则导入在哪里找好用的订阅链接，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash 推荐图](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## clash规则导入在哪里找好用的订阅链接
 

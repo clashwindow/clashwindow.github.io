@@ -18,7 +18,7 @@ shadowrocket苹果安装目前还能用吗以及如何获取
 在当前的移动网络环境下，针对 iOS 系统的网络调试工具需求持续存在。许多用户在搜索 shadowrocket苹果安装 时"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash节点推荐](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 <h1>shadowrocket苹果安装目前还能用吗以及如何获取</h1>
 

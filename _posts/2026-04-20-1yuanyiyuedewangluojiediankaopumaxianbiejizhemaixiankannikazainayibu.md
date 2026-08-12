@@ -15,7 +15,7 @@ keywords: "clash怎么续费,clash程序打不开,discord 安装包下载,surfbo
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash 推荐图](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 ## 1元一月的网络节点靠谱吗？先别急着买，先看你卡在哪一步
 

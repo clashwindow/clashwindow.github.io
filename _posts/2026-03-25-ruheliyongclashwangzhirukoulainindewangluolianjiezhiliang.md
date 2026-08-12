@@ -18,7 +18,7 @@ description: ""如何利用 clash网址入口来您的网络连接质量？"
 在当今高度互联的数字环境中，拥有一个稳定、的网络连接对于开发者、研究人员以及需要频繁访问球资clash github源的专业人士而言至关重"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何利用 clash网址入口来您的网络连接质量？</h1>
 

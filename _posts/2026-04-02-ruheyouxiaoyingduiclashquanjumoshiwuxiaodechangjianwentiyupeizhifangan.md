@@ -18,7 +18,7 @@ description: ""如何有效应对 Clash 全局模式无效的常见问题与配�
 在使用 Clash 系列工具进行网络配置时，用户偶尔会遇到一个令人困惑的问题：即使开启了全局模式，部分或全部网cl"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何有效应对 Clash 全局模式无效的常见问题与配置方案？</h1>
 

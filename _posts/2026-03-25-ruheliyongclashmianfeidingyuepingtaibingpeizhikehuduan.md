@@ -18,7 +18,7 @@ description: ""如何利用 clash免费订阅平台并配置客户端？"
 在当前复杂的网络环境中，许多技术爱好者和专业人士都倾向于使用 Clash 等工具来管理和网络连接。相较于手动逐一添加节点，通过订阅链接一次性导"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何利用 clash免费订阅平台并配置客户端？</h1>
 

@@ -19,7 +19,7 @@ shadowsocket官网入口配置参数对连接稳定性的影响
 在网络协议的实际应用中，shadowsocket官网入口所提供的配置信息往往决定了最终"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowsocket官网入口现在还能用吗</h1>
 

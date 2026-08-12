@@ -18,7 +18,7 @@ description: "为什么Clash不能翻墙了？深入分析与可行建议
 Kuromis（库洛米）唯云专线测评：与奶昔同上游，稳定性确实不错
 Kuromis（库洛米）这条线我实际用了几天，整体感觉就是“稳”，不是那种测速"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场订阅免费.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%85%8D%E8%B4%B9.png)
 
 <h2>为什么Clash不能翻墙了？深入分析与可行建议</h2>
 机场名称：Kuromis（库洛米）唯云专线

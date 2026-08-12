@@ -19,7 +19,7 @@ Shadowclash verge 免费节点r科学上网机场ocket无法上网的全局路�
 当用户遇到shadowrocket无法上网的情况时，首"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Shadowrocket无法上网还能用吗？</h1>
 

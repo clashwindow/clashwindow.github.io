@@ -19,7 +19,7 @@ shadowrocket正下载安装后的全局路由模式配置
 在完成 shadowrocket正下载 过clashnode程并成功安装到"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash订阅节点购买.png)
+![Clash节点推荐](/img/clash%E8%AE%A2%E9%98%85%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>shadowrocket正下载后如何验证节点是否可用</h1>
 

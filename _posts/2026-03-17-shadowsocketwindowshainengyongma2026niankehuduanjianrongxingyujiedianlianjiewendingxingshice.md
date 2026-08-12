@@ -18,7 +18,7 @@ shadowsocket windows 还能用吗？2024年客户端兼容性与节点连接稳�
 在当前的桌面网络环境下，shadowsocke"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>shadowsocket windows 还能用吗？2026年客户端兼容性与节点连接稳定性实测</h1>
 

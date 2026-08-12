@@ -15,7 +15,7 @@ keywords: "免费飞机节点,ClashX配置教程,樱花喵加速器官网,clash�
 description: "本文深度评测clash官方最新下载链接还能用吗以及哪里有正版获取渠道，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 ## clash官方最新下载链接还能用吗以及哪里有正版获取渠道
 

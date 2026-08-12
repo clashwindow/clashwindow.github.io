@@ -18,7 +18,7 @@ description: ""如何应对 Clash 无法下载问题及备用方案配置？"
 在当前复杂的网络环境下，许多用户在尝试配置和优化网络连接时，可能会遇到 clash无法下载 的问题。这通常是由于软件的官方发布渠道在特"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何应对 Clash 无法下载问题及备用方案配置？</h1>
 

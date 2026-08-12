@@ -18,7 +18,7 @@ Instagram App 如何流畅使用？稳定节点与配置建议
 在数字时代，Instagram App 已成为许多人分享生活、记录瞬间的重要平台。然而，部分用户在访问 Insta"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash节点推荐](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>Instagram App 如何流畅使用？稳定节点与配置建议</h1>
 

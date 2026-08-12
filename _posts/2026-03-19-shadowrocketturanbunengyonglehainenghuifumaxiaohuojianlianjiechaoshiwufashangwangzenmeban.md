@@ -18,7 +18,7 @@ Shadowrocket突然不能用了还能恢复吗？小火箭连接超时无法上�
 在日常使用网络代理工具的过程中，Shadowrocket突然不能用了是一个高频"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费订阅机场.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA.png)
 
 <h1>Shadowrocket突然不能用了还能恢复吗？小火箭连接超时无法上网怎么办？</h1>
 

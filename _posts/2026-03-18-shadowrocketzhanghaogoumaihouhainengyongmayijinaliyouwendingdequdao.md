@@ -19,7 +19,7 @@ shadowrocket账号购买后的客户端环境配置与稳定性校验
 在完成shadowrocket账号购买后，用户"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>shadowrocket账号购买后还能用吗以及哪里有稳定的渠道</h1>
 

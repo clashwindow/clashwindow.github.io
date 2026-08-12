@@ -18,7 +18,7 @@ description: ""如何利用 showrocket官网 的信息来配置网络代理工�
 在当前高度互联的数字世界中，无论是开发者进行跨区域代码调试，还是外贸从业者访问球市场信息，一个稳定、的网络环境"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>如何利用 showrocket官网 的信息来配置网络代理工具？</h1>
 

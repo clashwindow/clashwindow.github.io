@@ -19,7 +19,7 @@ description: "2025最新Clash节点免费获取方法：跨平台科学上网节
 2025最新Clclash续费ash节点免费"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>2025最新Clash节点免费获取方法：跨平台科学上网节点配置全攻略</h1>
 

@@ -18,7 +18,7 @@ description: ""如何使用订阅转换在线clash服务节点配置？"
 在当前复clash免费订略杂的网络环境中，许多用户为了网络访问的灵活性效率，会使用多种代理协议客户端工具。其中，Clash 以其强大的规则分流功能"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何使用订阅转换在线clash服务节点配置？</h1>
 

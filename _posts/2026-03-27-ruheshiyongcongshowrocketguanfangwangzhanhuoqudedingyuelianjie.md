@@ -18,7 +18,7 @@ description: ""如何使用从ShowRocket官方网站获取的订阅链接？"
 在当今球化的数字环境中，开发者、研究人员以及跨国工作者经常需要访问多样化的网络资源。为了实现稳定、的连接，配置网络工具至关重要"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E8%B4%AD%E4%B9%B0.png)
 
 <h1>如何使用从ShowRocket官方网站获取的订阅链接？</h1>
 

@@ -19,7 +19,7 @@ clash 共享节点现在还能用吗
 在当前的互clash verge每日免费节点联网环境下，寻找可用的 clash 共享 资源已成为许多用户降低网络接入成本"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>clash 共享节点现在还能用吗</h1>
 

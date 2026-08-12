@@ -19,7 +19,7 @@ description: ""2026年有效的clash免费网址哪里有以及这些节点还�
 在网络环境优化过程中，寻找稳定且有效的clash免费网clash"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>2026年有效的clash免费网址哪里有以及这些节点还能用吗</h1>
 

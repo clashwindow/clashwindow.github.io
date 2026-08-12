@@ -19,7 +19,7 @@ shadowrocket有效账号配置失败与连接异常排查
 在获取到 shadowrock"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场订阅免费.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%85%8D%E8%B4%B9.png)
 
 <h1>shadowrocket有效账号还能用吗？2026最新可用性评测与获取指南</h1>
 

@@ -14,7 +14,7 @@ keywords: "clashforandorid使用方法,免费订阅节点subscribe,clash安卓�
 description: "本文深度评测clash规则模式和脚本模式哪个好用有没有配置教程，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash 推荐图](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash规则模式和脚本模式哪个好用有没有配置教程
 

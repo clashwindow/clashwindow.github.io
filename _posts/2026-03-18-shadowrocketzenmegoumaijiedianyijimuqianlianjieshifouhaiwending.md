@@ -19,7 +19,7 @@ Shadowrocket怎么购买节点以及目前连接是否还稳定？
 在探讨Shadowrocket怎么购买节点之"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>Shadowrocket怎么购买节点以及目前连接是否还稳定？</h1>
 

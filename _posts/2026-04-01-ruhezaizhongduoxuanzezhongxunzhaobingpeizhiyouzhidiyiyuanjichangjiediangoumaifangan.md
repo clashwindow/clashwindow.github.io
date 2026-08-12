@@ -19,7 +19,7 @@ shadowrocket怎么使用
     随着数字化生活的普及，许多用户对于网络连接的稳定性和速度有了更高的要求。在众多网络加"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场订阅免费.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E5%85%8D%E8%B4%B9.png)
 
 <h1>如何在众多选择中寻找并配置优质的一元机场节点购买方案？</h1>
 

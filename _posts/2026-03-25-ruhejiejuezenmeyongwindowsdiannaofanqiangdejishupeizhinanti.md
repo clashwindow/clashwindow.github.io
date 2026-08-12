@@ -18,7 +18,7 @@ description: ""如何解决怎么用windows电脑翻墙的技术配置难题？"
 在当前球化的数字时代，无论是从事学术研究、软件开发还是跨国业务，稳定地访问国际互联网资源已成为一项基本需求。对于 Windows "
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何解决怎么用windows电脑翻墙的技术配置难题？</h1>
 

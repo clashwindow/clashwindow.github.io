@@ -14,7 +14,7 @@ keywords: "clash配置文件yaml错误,外墙专用梯子,SSR客户端下载,cla
 description: "本文深度评测clash购买哪里有？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/一元机场订阅.png)
+![Clash 推荐图](/img/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 ## clash购买哪里有？2026年节点订阅好不好用及稳定性实测
 

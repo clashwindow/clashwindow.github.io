@@ -18,7 +18,7 @@ description: ""如何配置clash中文语言界面网络连接？"
 在复杂的网络环境中，Clash 作为一款功能强大的网络管理工具，凭借其灵活的规则配置和跨平台支持，获得了众多用户的青睐。然而，对于初次接触的用户来说，其复"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何配置clash中文语言界面网络连接？</h1>
 

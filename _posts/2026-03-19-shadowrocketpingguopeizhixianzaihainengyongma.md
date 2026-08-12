@@ -18,7 +18,7 @@ shadowrocket苹果配置现在还能用吗
 在当前的shadowrocket免费节点移动网络环境下，许多用户在寻找稳定且高效的网络访问方案时，往往会首选 shadowrocket苹果配置 这"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 <h1>shadowrocket苹果配置现在还能用吗</h1>
 

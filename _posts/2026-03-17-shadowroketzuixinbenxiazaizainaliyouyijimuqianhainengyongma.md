@@ -18,7 +18,7 @@ shadowroket最新本下载在哪里有以及目前还能用吗
 在当前的移动互联网环境下，寻找稳定且安全的网络工具已成为许多用户的刚需。针对 shadowroket最新本下载 的需求，用"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowroket最新本下载在哪里有以及目前还能用吗</h1>
 

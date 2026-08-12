@@ -18,7 +18,7 @@ Instagram（INS）连接异常怎么办？几种常用解决方法推荐
 许多用户在使用 Instagram（俗称 INS）时，可能会遇到连接不上、图片加载缓慢，甚至完全打不开的情"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
+![Clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>Instagram（INS）连接异常怎么办？几种常用解决方法推荐</h1>
 

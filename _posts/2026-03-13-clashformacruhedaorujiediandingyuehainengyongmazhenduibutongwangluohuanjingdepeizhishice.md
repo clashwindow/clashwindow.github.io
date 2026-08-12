@@ -15,7 +15,7 @@ keywords: "免费ssr节点分享github,免费节点分享2025技术分享,clash�
 description: "本文详细解答clash for mac如何导入节点订阅还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash 推荐图](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 ## clash for mac如何导入节点订阅还能用吗？针对不同网络环境的配置实测
 

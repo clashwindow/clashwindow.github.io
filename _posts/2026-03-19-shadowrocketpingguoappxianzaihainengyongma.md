@@ -19,7 +19,7 @@ shadowrocket苹果app配置后连接不上的原因分析
 在网络环境日益复杂的情况下，许多用户在完成 shadowrocket苹果app 的"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点推荐.png)
+![Clash节点推荐](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket苹果app现在还能用吗</h1>
 

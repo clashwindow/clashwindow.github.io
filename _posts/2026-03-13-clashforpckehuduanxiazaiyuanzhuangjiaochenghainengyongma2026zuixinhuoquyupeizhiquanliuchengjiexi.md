@@ -15,7 +15,7 @@ keywords: "clash软件下载,免费节点更新时间,纸飞机加速器,clash�
 description: "本文深度评测clash for pc客户端下载与安装教程还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/小火箭节点购买.png)
+![Clash 推荐图](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
 
 ## clash for pc客户端下载与安装教程还能用吗？2026最新获取与配置全流程解析
 

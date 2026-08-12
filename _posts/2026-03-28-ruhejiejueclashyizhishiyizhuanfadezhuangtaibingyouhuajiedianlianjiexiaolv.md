@@ -18,7 +18,7 @@ description: ""如何解决 Clash一直是已转发 的状态并优化节点连�
 许多用户在使用 Clash 系列工具时，常常会注意到状态栏中显示“已转发”的提示，并由此产生疑问：这个状态是否正常"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
+![Clash节点推荐](/img/%E5%85%AD%E6%9C%88%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85.png)
 
 <h1>如何解决 Clash一直是已转发 的状态并优化节点连接效率？</h1>
 

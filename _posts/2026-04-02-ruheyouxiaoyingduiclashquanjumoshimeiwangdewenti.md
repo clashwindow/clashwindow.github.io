@@ -18,7 +18,7 @@ description: ""如何有效应对 Clash 全局模式没网的问题？"
 当您满怀期待地配置好 Clash 客户端，切换到全局模式（Global Mode）后，却发现设备无法访问任何网络，这无疑是一个令人沮丧的场景。"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何有效应对 Clash 全局模式没网的问题？</h1>
 

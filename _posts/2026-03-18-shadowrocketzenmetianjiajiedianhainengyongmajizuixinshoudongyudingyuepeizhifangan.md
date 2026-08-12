@@ -19,7 +19,7 @@ shadowrocket怎么添加节点的手动配置步骤与协议校验
 在 iOS 环境下，Shadowro"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
+![Clash节点推荐](/img/%E4%BB%98%E8%B4%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowrocket怎么添加节点还能用吗及最新手动与订阅配置方案</h1>
 

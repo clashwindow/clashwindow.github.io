@@ -15,7 +15,7 @@ keywords: "clash怎么配置文件URL,v2rayn安卓版,免费客户端Clash的使
 description: "Clash的EOF错误怎么解决还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash 推荐图](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 ## Clash的EOF错误怎么解决还能用吗？
 

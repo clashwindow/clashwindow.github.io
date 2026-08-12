@@ -18,7 +18,7 @@ description: ""2025年Clash免费节点稳定排行：实用配置与选源指�
 在当今网络环境下，选择Clash免费节点稳定排行中的优质资源已成为许多用户提升上网体验的关键。作为一名长期使用代理工具的资"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9clash%E8%8A%82%E7%82%B9.png)
 
 <h1>2025年Clash免费节点稳定排行：实用配置与选源指南</h1>
 

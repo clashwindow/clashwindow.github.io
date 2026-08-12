@@ -18,7 +18,7 @@ shadowsocket小火箭目前好不好用
 在当前复杂的网络访问环境下，针对移动端网络调试工具的选择，用户往往会优先考虑其协议兼容性与运行效率。shadowsocket小火箭作为一款长期活跃在 "
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
+![Clash节点推荐](/img/%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>shadowsocket小火箭目前好不好用</h1>
 

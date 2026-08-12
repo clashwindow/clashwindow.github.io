@@ -18,7 +18,7 @@ description: ""2025年最佳v2ray免费节点推荐平台：实用选择指南"
 在当下网络环境日益复杂的情况下，选择一个可靠的v2ray免费节点推荐平台变得尤为重要。这个平台不仅能提供稳定的科学上网节点，还"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>2025年最佳v2ray免费节点推荐平台：实用选择指南</h1>
 

@@ -19,7 +19,7 @@ clash 使用教程 可可云 配置步骤是否正确影响使用稳定性
 在使用 Clash 核心进行网络分流时，配置文件的精确性是决"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
+![Clash节点推荐](/img/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
 
 <h1>clash 使用教程 可可云 在 2026 年还能用吗？</h1>
 

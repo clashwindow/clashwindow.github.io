@@ -19,7 +19,7 @@ description: ""2026年小火箭软件还能用吗？"
 在当前的网络环境下，小火箭软件（Shadowrocket）作为一款基于规则的 iOS"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/稳定订阅机场推荐.png)
+![Clash节点推荐](/img/%E7%A8%B3%E5%AE%9A%E8%AE%A2%E9%98%85%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>2026年小火箭软件还能用吗？最新版本稳定性与节点适配分析</h1>
 

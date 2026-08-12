@@ -14,7 +14,7 @@ keywords: "clash网页版怎么打开,clashurl,clash免费订阅链接yaml,一�
 description: "本文深度评测clash点击启动不了还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅地址.png)
+![Clash 推荐图](/img/%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.png)
 
 ## clash点击启动不了还能用吗？深度解析故障原因与修复方案
 

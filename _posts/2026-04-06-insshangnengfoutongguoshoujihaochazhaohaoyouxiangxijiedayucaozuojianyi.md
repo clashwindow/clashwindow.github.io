@@ -18,7 +18,7 @@ Ins 上能否通过手机号查找好友？详细解答与操作建议
 在数字社交时代，通过各种方式联系和添加好友是维系人脉、拓展圈ssr节点子的重要环节。许多用户在使用 Instagram（简称 In"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
+![Clash节点推荐](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
 
 <h1>Ins 上能否通过手机号查找好友？详细解答与操作建议</h1>
 

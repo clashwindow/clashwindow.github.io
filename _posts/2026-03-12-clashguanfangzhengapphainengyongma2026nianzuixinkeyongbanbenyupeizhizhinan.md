@@ -13,7 +13,7 @@ keywords: "clash大航海备用网,节点购买订阅,SSR免费获取节点最�
 description: "本文深度评测clash官方正app还能用吗？"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
+![Clash 推荐图](/img/tiktok%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 ## clash官方正app还能用吗？2026年最新可用版本与配置指南
 

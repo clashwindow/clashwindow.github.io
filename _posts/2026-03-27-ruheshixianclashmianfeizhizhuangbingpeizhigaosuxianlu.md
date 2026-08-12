@@ -18,7 +18,7 @@ description: ""如何实现clash免费直装并配置高速线路？"
 在当今高度互联的数字环境中，网络连接、访问效率成为许多用户的核心诉求。Clash 作为一款功能强大的网络工具，凭借其灵活的规则配置和广泛的协议支持，受"
 ---
 
-![Clash节点推荐](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
+![Clash节点推荐](/img/tiktok%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.png)
 
 <h1>如何实现clash免费直装并配置高速线路？</h1>
 
