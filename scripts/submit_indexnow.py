@@ -3,12 +3,12 @@
 IndexNow 提交脚本 - 仅提交最新更新的 URL，避免重复提交
 """
 import os
+import subprocess
 import re
 import json
 import urllib.request
 import urllib.error
 import yaml
-from datetime import datetime, timedelta
 
 # 加载 _config.yml 获取 IndexNow 设置
 with open('_config.yml', 'r', encoding='utf-8') as f:
@@ -24,28 +24,32 @@ if not os.path.isdir(posts_dir):
     print("❌ 没有找到 _posts 目录")
     exit(0)
 
-# 获取最近 24 小时内修改的文章
-urls = []
-now = datetime.now()
-one_day_ago = now - timedelta(days=1)
+import subprocess
 
-print(f"📅 扫描最近 24 小时内修改的文章...")
-print(f"   当前时间: {now.strftime('%Y-%m-%d %H:%M:%S')}")
-print(f"   扫描范围: {one_day_ago.strftime('%Y-%m-%d %H:%M:%S')} 之后")
+# 获取最近 10 次提交变更的文件列表（GitHub Actions checkout 后文件 mtime 统一为 checkout 时间，
+# 无法按 mtime 过滤；通过 git log 获取实际变更的文章）
+changed_fnames = set()
+try:
+    result = subprocess.run(
+        ['git', 'log', '--name-only', '--pretty=format:', '-10'],
+        capture_output=True, text=True, timeout=10
+    )
+    if result.returncode == 0:
+        changed_files = set(result.stdout.strip().split('\n'))
+        changed_fnames = {os.path.basename(f) for f in changed_files if f.startswith('_posts/') and f.endswith('.md')}
+        print(f"📋 最近 10 次提交变更的文章: {len(changed_fnames)} 个")
+    else:
+        print(f"⚠️  git log 返回错误: {result.stderr[:200]}")
+except Exception as e:
+    changed_fnames = set()
+    print(f"⚠️  获取变更列表失败: {e}")
+
 print()
 
-for filename in sorted(os.listdir(posts_dir)):
-    if not filename.endswith(".md"):
-        continue
-    
+urls = []
+for filename in sorted(changed_fnames):
     filepath = os.path.join(posts_dir, filename)
-    
-    # 检查文件修改时间
-    mtime = os.path.getmtime(filepath)
-    mtime_dt = datetime.fromtimestamp(mtime)
-    
-    # 只提交最近 24 小时内修改的文件
-    if mtime_dt < one_day_ago:
+    if not os.path.exists(filepath):
         continue
     
     try:
