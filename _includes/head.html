@@ -163,20 +163,17 @@
     width: 100%;
     height: 100%;
     background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
-    display: flex;
-    align-items: center;
-    justify-content: center;
     z-index: 9999;
     padding: 10px;
     box-sizing: border-box;
   }
-  
+
   #popupOverlay.show {
     display: flex;
+    align-items: center;
+    justify-content: center;
   }
-  
+
   .popup-content {
     background: #fff;
     padding: 20px 30px;
@@ -190,7 +187,7 @@
     max-height: 90vh;
     overflow-y: auto;
   }
-  
+
   .popup-close-btn {
     position: absolute;
     top: 5px;
@@ -213,18 +210,18 @@
     line-height: 1;
     z-index: 10;
   }
-  
+
   .popup-close-btn:hover {
     background: #f44336;
     color: #fff;
   }
-  
+
   .popup-link {
     text-decoration: none;
     color: inherit;
     display: block;
   }
-  
+
   .popup-title {
     margin: 0 0 10px;
     font-size: 24px;
@@ -232,7 +229,7 @@
     color: #ff4d4f;
     word-wrap: break-word;
   }
-  
+
   .popup-image {
     width: 100%;
     max-width: 300px;
@@ -248,7 +245,7 @@
     background: #e11d48;
     color: #fff;
     font-weight: bold;
-    padding: 12px 1px;
+    padding: 12px 16px;
     border-radius: 8px;
     text-decoration: none;
     transition: background 0.3s;
@@ -258,7 +255,7 @@
   .popup-shop-btn:hover {
     background: #be123c;
   }
-  
+
   /* 移动端适配 */
   @media (max-width: 768px) {
     .popup-content {
@@ -266,11 +263,11 @@
       max-width: 320px;
       padding: 15px 20px;
     }
-    
+
     .popup-title {
       font-size: 20px;
     }
-    
+
     .popup-close-btn {
       width: 28px;
       height: 28px;
@@ -288,18 +285,17 @@
         <p class="popup-title">Clash 机场推荐</p>
         <img src="https://free.picui.cn/free/2026/06/05/6a229370bf0c1.png" alt="机场地址" class="popup-image">
       </a>
-      
+
       <!-- 分割线 -->
       <div style="border-top: 1px solid #f3f4f6; padding-top: 1rem;">
-        <a href="http://shop.xinkonyun.cc/" target="_blank" class="popup-shop-btn">
+        <a href="https://shop.xinkonyun.cc/" target="_blank" class="popup-shop-btn">
           🛒 购买 Shadowrocket 独享账号/海外其他账号
         </a>
       </div>
     </div>
-    <a href="https://ml.yfqz1.net/register?code=PCC6A3bC" target="_blank" class="popup-link">
+
     <!-- 关闭按钮 -->
     <button class="popup-close-btn" id="popupCloseBtn" aria-label="关闭">&times;</button>
-        </a>
   </div>
 </div>
 
@@ -308,7 +304,7 @@
   (function() {
     const popupOverlay = document.getElementById('popupOverlay');
     const popupCloseBtn = document.getElementById('popupCloseBtn');
-    
+
     // 页面加载完成后显示弹窗
     window.addEventListener('DOMContentLoaded', function() {
       // 延迟 500ms 显示，效果更自然
@@ -316,13 +312,14 @@
         popupOverlay.classList.add('show');
       }, 500);
     });
-    
-    // 关闭按钮点击事件
+
+    // 关闭按钮：关闭弹窗并新窗口打开用户商城
     popupCloseBtn.addEventListener('click', function(e) {
       e.stopPropagation();
       popupOverlay.classList.remove('show');
+      window.open('https://shop.xinkonyun.cc/', '_blank');
     });
-    
+
     // 点击遮罩层不关闭（强制引导），如需点击遮罩关闭可取消下面注释
     /*
     popupOverlay.addEventListener('click', function(e) {
