@@ -176,10 +176,11 @@
 
   .popup-content {
     background: #fff;
-    padding: 20px 30px;
+    padding: 24px 28px;
     border-radius: 12px;
     max-width: 100%;
-    width: 370px;
+    width: 50%;
+    max-width: 560px;
     text-align: center;
     position: relative;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
@@ -188,55 +189,38 @@
     overflow-y: auto;
   }
 
-  .popup-close-btn {
-    position: absolute;
-    top: 5px;
-    right: 5px;
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    background: rgba(0, 0, 0, 0.05);
-    border: none;
-    font-size: 20px;
-    font-weight: bold;
-    color: #999;
-    cursor: pointer;
-    transition: all 0.3s;
-    flex-shrink: 0;
-    touch-action: manipulation;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    line-height: 1;
-    z-index: 10;
-  }
 
-  .popup-close-btn:hover {
-    background: #f44336;
-    color: #fff;
-  }
 
-  .popup-link {
-    text-decoration: none;
-    color: inherit;
+  .popup-link-btn {
     display: block;
-  }
-
-  .popup-title {
-    margin: 0 0 10px;
-    font-size: 24px;
-    font-weight: bold;
-    color: #ff4d4f;
-    word-wrap: break-word;
-  }
-
-  .popup-image {
     width: 100%;
-    max-width: 300px;
-    height: auto;
-    display: block;
-    margin: 0 auto 15px;
-    border-radius: 8px;
+    background: #fff;
+    color: #1f2937;
+    font-weight: bold;
+    padding: 16px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 0.3s;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    border: 2px solid #e5e7eb;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+
+  .popup-link-btn:hover {
+    border-color: #e11d48;
+    color: #e11d48;
+  }
+
+  .popup-main-btn {
+    background: #e11d48;
+    color: #fff;
+    border-color: #e11d48;
+  }
+
+  .popup-main-btn:hover {
+    background: #be123c;
+    color: #fff;
   }
 
   .popup-shop-btn {
@@ -245,8 +229,8 @@
     background: #e11d48;
     color: #fff;
     font-weight: bold;
-    padding: 12px 16px;
-    border-radius: 8px;
+    padding: 15px 18px;
+    border-radius: 10px;
     text-decoration: none;
     transition: background 0.3s;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -259,49 +243,36 @@
   /* 移动端适配 */
   @media (max-width: 768px) {
     .popup-content {
-      width: 95%;
-      max-width: 320px;
+      width: 92%;
+      max-width: 420px;
       padding: 15px 20px;
     }
 
-    .popup-title {
-      font-size: 20px;
-    }
-
-    .popup-close-btn {
-      width: 28px;
-      height: 28px;
-      font-size: 18px;
-    }
   }
 </style>
 
 <!-- 弹窗 HTML 结构 -->
 <div id="popupOverlay">
   <div class="popup-content">
-    <div style="display: flex; flex-direction: column; gap: 1rem;">
-      <!-- 推荐链接 -->
-      <a href="https://ml.yfqz1.net/register?code=PCC6A3bC" target="_blank" class="popup-link">
-        <p class="popup-title">Clash 机场推荐</p>
-        <img src="https://free.picui.cn/free/2026/06/05/6a229370bf0c1.png" alt="机场地址" class="popup-image">
+    <div style="display: flex; flex-direction: column; gap: 0.8rem;">
+      <!-- 主推机场 -->
+      <a href="https://j134.net/?code=Wohf" target="_blank" class="popup-link-btn popup-main-btn">
+        ⭐ 疾风云 · 稳定快速节点多
       </a>
 
-      <!-- 第二个机场推荐 -->
-      <a href="https://j134.net/?code=Wohf" target="_blank" class="popup-link">
-        <p class="popup-title">备用机场推荐</p>
-        <p style="color:#6b7280;font-size:14px;margin:2px 0 0;">j134.net 稳定高速线路</p>
+      <!-- 备用机场 -->
+      <a href="https://ml.yfqz1.net/register?code=PCC6A3bC" target="_blank" class="popup-link-btn">
+        杨帆云 · 超便宜
       </a>
 
       <!-- 分割线 -->
-      <div style="border-top: 1px solid #f3f4f6; padding-top: 1rem;">
+      <div style="border-top: 1px solid #f3f4f6; padding-top: 0.8rem;">
         <a href="https://shop.xinkonyun.cc/" target="_blank" class="popup-shop-btn">
           🛒 购买 Shadowrocket 独享账号/海外其他账号
         </a>
       </div>
     </div>
 
-    <!-- 关闭按钮 -->
-    <button class="popup-close-btn" id="popupCloseBtn" aria-label="关闭">&times;</button>
   </div>
 </div>
 
@@ -309,22 +280,14 @@
 <script>
   (function() {
     const popupOverlay = document.getElementById('popupOverlay');
-    const popupCloseBtn = document.getElementById('popupCloseBtn');
 
-    // 页面加载完成后显示弹窗
+    // 页面解析完后先渲染网页，再延迟弹出
     window.addEventListener('DOMContentLoaded', function() {
-      // 延迟 500ms 显示，效果更自然
-      setTimeout(() => {
+      setTimeout(function() {
         popupOverlay.classList.add('show');
-      }, 500);
+      }, 300);
     });
 
-    // 关闭按钮：关闭弹窗并新窗口打开用户商城
-    popupCloseBtn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      popupOverlay.classList.remove('show');
-      window.open('https://shop.xinkonyun.cc/', '_blank');
-    });
 
     // 点击遮罩层不关闭（强制引导），如需点击遮罩关闭可取消下面注释
     /*
